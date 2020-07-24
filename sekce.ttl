@@ -1,0 +1,20 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://data.mff.cuni.cz/zdroj/číselník/sekce> a skos:ConceptScheme;
+  skos:prefLabel "Schools of FMP CUNI"@en, "Sekce MFF UK"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselník/sekce/fyzika> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselník/sekce>;
+  skos:notation "fyzika";
+  skos:prefLabel "Fyzikální sekce"@cs, "School of Physics"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselník/sekce/informatika> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselník/sekce>;
+  skos:notation "informatika";
+  skos:prefLabel "Informatická sekce"@cs, "School of Computer Science"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselník/sekce/matematika> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselník/sekce>;
+  skos:notation "matematika";
+  skos:prefLabel "Matematikcká sekce"@cs, "School of Mathematics"@en .
