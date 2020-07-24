@@ -1,0 +1,90 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://data.mff.cuni.cz/zdroj/číselník/mzdové-třídy> a skos:ConceptScheme;
+  skos:prefLabel "Mzdové třídy MFF UK"@cs, "Salary tariffs FMP CUNI"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselník/mzdové-třídy/1> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselník/mzdové-třídy>;
+  skos:notation "1";
+  skos:prefLabel "1"@cs, "1"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselník/mzdové-třídy/2> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselník/mzdové-třídy>;
+  skos:notation "2";
+  skos:prefLabel "2"@cs, "2"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselník/mzdové-třídy/3> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselník/mzdové-třídy>;
+  skos:notation "3";
+  skos:prefLabel "3"@cs, "3"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselník/mzdové-třídy/4> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselník/mzdové-třídy>;
+  skos:notation "4";
+  skos:prefLabel "4"@cs, "4"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselník/mzdové-třídy/5> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselník/mzdové-třídy>;
+  skos:notation "5";
+  skos:prefLabel "5"@cs, "5"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselník/mzdové-třídy/6> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselník/mzdové-třídy>;
+  skos:notation "6";
+  skos:prefLabel "6"@cs, "6"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselník/mzdové-třídy/7> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselník/mzdové-třídy>;
+  skos:notation "7";
+  skos:prefLabel "7"@cs, "7"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselník/mzdové-třídy/8> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselník/mzdové-třídy>;
+  skos:notation "8";
+  skos:prefLabel "8"@cs, "8"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselník/mzdové-třídy/AP1> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselník/mzdové-třídy>;
+  skos:notation "AP1";
+  skos:prefLabel "AP1"@cs, "AP1"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselník/mzdové-třídy/AP2> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselník/mzdové-třídy>;
+  skos:notation "AP2";
+  skos:prefLabel "AP2"@cs, "AP2"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselník/mzdové-třídy/AP3> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselník/mzdové-třídy>;
+  skos:notation "AP3";
+  skos:prefLabel "AP3"@cs, "AP3"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselník/mzdové-třídy/AP4> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselník/mzdové-třídy>;
+  skos:notation "AP4";
+  skos:prefLabel "AP4"@cs, "AP4"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselník/mzdové-třídy/L1> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselník/mzdové-třídy>;
+  skos:notation "L1";
+  skos:prefLabel "L1"@cs, "L1"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselník/mzdové-třídy/L2> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselník/mzdové-třídy>;
+  skos:notation "L2";
+  skos:prefLabel "L2"@cs, "L2"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselník/mzdové-třídy/VP1> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselník/mzdové-třídy>;
+  skos:notation "VP1";
+  skos:prefLabel "VP1"@cs, "VP1"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselník/mzdové-třídy/VP2> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselník/mzdové-třídy>;
+  skos:notation "VP2";
+  skos:prefLabel "VP2"@cs, "VP2"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselník/mzdové-třídy/VP3> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselník/mzdové-třídy>;
+  skos:notation "VP3";
+  skos:prefLabel "VP3"@cs, "VP3"@en .
