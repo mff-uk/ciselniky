@@ -2,7 +2,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <https://data.mff.cuni.cz/zdroj/číselníky/akademické-pozice> a skos:ConceptScheme;
-  skos:prefLabel "Role MFF UK"@cs, "Roles FMP CUNI"@en .
+  skos:prefLabel "Akademické pozice na MFF UK"@cs, "Academic positions at FMP CUNI"@en .
 
 <https://data.mff.cuni.cz/zdroj/číselníky/akademické-pozice/položky/profesor> a skos:Concept;
   skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/akademické-pozice>;
