@@ -1,0 +1,475 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix skupiny: <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/> .
+@prefix číselník: <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura> a skos:ConceptScheme;
+  skos:hasTopConcept skupiny:0, skupiny:1, skupiny:2, skupiny:3, skupiny:5, skupiny:6,
+    skupiny:7;
+  skos:prefLabel "Organizational structure of FMP CUNI"@en, "Organizační struktura MFF UK"@cs .
+
+skupiny:0 a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "0";
+  skos:prefLabel "Authorities of the Faculty"@en, "Orgány fakulty"@cs .
+
+skupiny:1 a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "1";
+  skos:prefLabel "Fyzikální sekce"@cs, "School of Physics"@en .
+
+skupiny:2 a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "2";
+  skos:prefLabel "Informatická sekce"@cs, "School of Computer Science"@en .
+
+skupiny:3 a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "3";
+  skos:prefLabel "Matematická sekce"@cs, "School of Mathematics"@en .
+
+skupiny:5 a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "5";
+  skos:prefLabel "Jiná pracoviště"@cs, "Other Departments"@en .
+
+skupiny:6 a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "6";
+  skos:prefLabel "Technical Support"@en, "Účelová zařízení"@cs .
+
+skupiny:7 a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "7";
+  skos:prefLabel "Dean's Office"@en, "Děkanát"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/735> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "735";
+  skos:prefLabel "Oddělení firemní spolupráce a kariérního poradenství"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/734> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "734";
+  skos:prefLabel "Referát interního auditu a právních služeb"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/733> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "733";
+  skos:prefLabel "Referát požárního a bezpečnostního technika"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/732> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "732";
+  skos:prefLabel "Referát energetika"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/731> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "731";
+  skos:prefLabel "Správa budov"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/729> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "729";
+  skos:prefLabel "Oddělení propagace a mediální komunikace"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/728> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "728";
+  skos:prefLabel "Správa počítačové sítě Karlov a centrálního informačního uzlu"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/726> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "726";
+  skos:prefLabel "Zaměstnanecké oddělení"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/724> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "724";
+  skos:prefLabel "Studijní oddělení"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/723> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "723";
+  skos:prefLabel "Oddělení pro vědu a zahraniční styky"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/722> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "722";
+  skos:prefLabel "Hospodářské oddělení"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/721> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "721";
+  skos:prefLabel "Sekretariát"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/613> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "613";
+  skos:prefLabel "Konferenční a společenské centrum \"Profesní dům\""@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/612> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "612";
+  skos:prefLabel "Reprografické středisko fakulty"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/513> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "513";
+  skos:prefLabel "Katedra tělesné výchovy"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/512> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "512";
+  skos:prefLabel "Katedra jazykové přípravy"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/511> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "511";
+  skos:prefLabel "Knihovna fakulty"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/306> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "306";
+  skos:prefLabel "Matematický ústav UK"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/305> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "305";
+  skos:prefLabel "Katedra pravděpodobnosti a matematické statistiky"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/304> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "304";
+  skos:prefLabel "Katedra numerické matematiky"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/303> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "303";
+  skos:prefLabel "Katedra matematické analýzy"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/302> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "302";
+  skos:prefLabel "Katedra didaktiky matematiky"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/301> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "301";
+  skos:prefLabel "Katedra algebry"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/208> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "208";
+  skos:prefLabel "Informatický ústav Univerzity Karlovy"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/207> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "207";
+  skos:prefLabel "Ústav formální a aplikované lingvistiky"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/206> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "206";
+  skos:prefLabel "Středisko informatické sítě a laboratoří"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/205> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "205";
+  skos:prefLabel "Katedra teoretické informatiky a matematické logiky"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/204> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "204";
+  skos:prefLabel "Katedra softwarového inženýrství"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/203> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "203";
+  skos:prefLabel "Katedra distribuovaných a spolehlivých systémů"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/202> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "202";
+  skos:prefLabel "Katedra aplikované matematiky"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/201> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "201";
+  skos:prefLabel "Katedra softwaru a výuky informatiky"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/117> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "117";
+  skos:prefLabel "Počítačová síť Troja"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/116> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "116";
+  skos:prefLabel "Ústav teoretické fyziky"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/115> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "115";
+  skos:prefLabel "Katedra fyziky atmosféry"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/114> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "114";
+  skos:prefLabel "Institute of Particle and Nuclear Physics"@en, "Ústav částicové a jaderné fyziky"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/113> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "113";
+  skos:prefLabel "Department of Chemical Physics and Optics"@en, "Katedra chemické fyziky a optiky"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/111> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "111";
+  skos:prefLabel "Department of Geophysics"@en, "Katedra geofyziky"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/110> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "110";
+  skos:prefLabel "Department of Macromolecular Physics"@en, "Katedra makromolekulární fyziky"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/109> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "109";
+  skos:prefLabel "Department of Condensed Matter Physics"@en, "Katedra fyziky kondenzovaných látek"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/107> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "107";
+  skos:prefLabel "Department of Low Temperature Physics"@en, "Katedra fyziky nízkých teplot"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/106> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "106";
+  skos:prefLabel "Department of Physics of Materials"@en, "Katedra fyziky materiálů"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/105> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "105";
+  skos:prefLabel "Department of Surface and Plasma Science"@en, "Katedra fyziky povrchů a plazmatu"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/104> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "104";
+  skos:prefLabel "Department of Physics Education"@en, "Katedra didaktiky fyziky"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/103> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "103";
+  skos:prefLabel "Kabinet výuky obecné fyziky"@cs, "Laboratory of General Physics Education"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/102> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "102";
+  skos:prefLabel "Fyzikální ústav UK"@cs, "Institute of Physics of Charles University"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/101> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "101";
+  skos:prefLabel "Astronomical Institute of Charles University"@en, "Astronomický ústav UK"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/5> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "5";
+  skos:prefLabel "Poradní orgány vedení fakulty"@cs, "The Advisory Body of the Faculty Management"@en;
+  skos:broaderTransitive skupiny:0 .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/4> a skos:Concept;
+  skos:broaderTransitive skupiny:0;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "4";
+  skos:prefLabel "Disciplinary Board"@en, "Disciplinární komise"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/3> a skos:Concept;
+  skos:broaderTransitive skupiny:0;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "3";
+  skos:prefLabel "Scientific Council"@en, "Vědecká rada"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/2> a skos:Concept;
+  skos:broaderTransitive skupiny:0;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "2";
+  skos:prefLabel "Management of the Faculty"@en, "Vedení fakulty"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1> a skos:Concept;
+  skos:broaderTransitive skupiny:0;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
+  skos:notation "1";
+  skos:prefLabel "Academic Senate"@en, "Akademický senát"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/735> skos:broaderTransitive
+    skupiny:7;
+  skos:prefLabel "Department for Business Cooperation and Career Counselling"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/734> skos:broaderTransitive
+    skupiny:7;
+  skos:prefLabel "Department of Internal Audit and Legal Services"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/733> skos:broaderTransitive
+    skupiny:7;
+  skos:prefLabel "Fire and Security Division"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/732> skos:broaderTransitive
+    skupiny:7;
+  skos:prefLabel "Power Management Office"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/731> skos:broaderTransitive
+    skupiny:7;
+  skos:prefLabel "Department of Building Maintenance"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/729> skos:broaderTransitive
+    skupiny:7;
+  skos:prefLabel "Media Communications and PR Office"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/728> skos:broaderTransitive
+    skupiny:7;
+  skos:prefLabel "IS/IT Division"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/726> skos:broaderTransitive
+    skupiny:7;
+  skos:prefLabel "Department of Human Resources"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/724> skos:broaderTransitive
+    skupiny:7;
+  skos:prefLabel "Student Affairs Department"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/723> skos:broaderTransitive
+    skupiny:7;
+  skos:prefLabel "Research and International Affairs Department"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/722> skos:broaderTransitive
+    skupiny:7;
+  skos:prefLabel "Financial Department"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/721> skos:broaderTransitive
+    skupiny:7;
+  skos:prefLabel "Secretary Office"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/613> skos:broaderTransitive
+    skupiny:6;
+  skos:prefLabel "Conference and Social Center \"House for Professed\""@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/612> skos:broaderTransitive
+    skupiny:6;
+  skos:prefLabel "Reprographic Centre"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/513> skos:broaderTransitive
+    skupiny:5;
+  skos:prefLabel "Department of Physical Education"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/512> skos:broaderTransitive
+    skupiny:5;
+  skos:prefLabel "Department of Language Education"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/511> skos:broaderTransitive
+    skupiny:5;
+  skos:prefLabel "Library"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/306> skos:broaderTransitive
+    skupiny:3;
+  skos:prefLabel "Mathematical Institute of Charles University"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/305> skos:broaderTransitive
+    skupiny:3;
+  skos:prefLabel "Department of Probability and Mathematical Statistics"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/304> skos:broaderTransitive
+    skupiny:3;
+  skos:prefLabel "Department of Numerical Mathematics"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/303> skos:broaderTransitive
+    skupiny:3;
+  skos:prefLabel "Department of Mathematical Analysis"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/302> skos:broaderTransitive
+    skupiny:3;
+  skos:prefLabel "Department of Mathematics Education"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/301> skos:broaderTransitive
+    skupiny:3;
+  skos:prefLabel "Department of Algebra"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/208> skos:broaderTransitive
+    skupiny:2;
+  skos:prefLabel "Computer Science Institute of Charles University"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/207> skos:broaderTransitive
+    skupiny:2;
+  skos:prefLabel "Institute of Formal and Applied Linguistics"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/206> skos:broaderTransitive
+    skupiny:2;
+  skos:prefLabel "Network and Labs Management Center"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/205> skos:broaderTransitive
+    skupiny:2;
+  skos:prefLabel "Department of Theoretical Computer Science and Mathematical Logic"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/204> skos:broaderTransitive
+    skupiny:2;
+  skos:prefLabel "Department of Software Engineering"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/203> skos:broaderTransitive
+    skupiny:2;
+  skos:prefLabel "Department of Distributed and Dependable Systems"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/202> skos:broaderTransitive
+    skupiny:2;
+  skos:prefLabel "Department of Applied Mathematics"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/201> skos:broaderTransitive
+    skupiny:2;
+  skos:prefLabel "Department of Software and Computer Science Education"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/117> skos:broaderTransitive
+    skupiny:1;
+  skos:prefLabel "Computer network Troja"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/116> skos:broaderTransitive
+    skupiny:1;
+  skos:prefLabel "Institute of Theoretical Physics"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/115> skos:broaderTransitive
+    skupiny:1;
+  skos:prefLabel "Department of Atmospheric Physics"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/114> skos:broaderTransitive
+    skupiny:1 .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/113> skos:broaderTransitive
+    skupiny:1 .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/111> skos:broaderTransitive
+    skupiny:1 .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/110> skos:broaderTransitive
+    skupiny:1 .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/109> skos:broaderTransitive
+    skupiny:1 .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/107> skos:broaderTransitive
+    skupiny:1 .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/106> skos:broaderTransitive
+    skupiny:1 .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/105> skos:broaderTransitive
+    skupiny:1 .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/104> skos:broaderTransitive
+    skupiny:1 .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/103> skos:broaderTransitive
+    skupiny:1 .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/102> skos:broaderTransitive
+    skupiny:1 .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/101> skos:broaderTransitive
+    skupiny:1 .
