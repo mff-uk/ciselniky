@@ -45,11 +45,6 @@
 			"required": true,
 			"datatype": "anyURI"
 		}, {
-			"aboutUrl": "{#polozka}",
-			"propertyUrl": "skos:inScheme",
-			"valueUrl": "#ciselnik",
-			"virtual": true
-		}, {
 			"name": "polozka_kod",
 			"titles": "položka_kód",
 			"dc:description": "Kód položky",
@@ -84,6 +79,11 @@
 			"valueUrl": "{#polozka_sirsi_polozka}",
 			"required": false,
 			"datatype": "anyURI"
+		}, {
+			"aboutUrl": "{#polozka}",
+			"propertyUrl": "skos:inScheme",
+			"valueUrl": "#ciselnik",
+			"virtual": true
 		}
 	],
 	"primaryKey": "polozka"
