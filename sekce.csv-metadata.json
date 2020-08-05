@@ -3,7 +3,8 @@
 	"@context": [
 		"http://www.w3.org/ns/csvw",
 		{
-			"@language": "cs"
+			"@language": "cs",
+			"@base": null
 		}
 	],
 	"url": "sekce.csv",
