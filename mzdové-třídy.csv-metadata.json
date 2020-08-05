@@ -1,5 +1,5 @@
 {
-	"@id": "https://data.mvcr.gov.cz/soubory/czechpoint/czechpoint.json",
+	"@id": "https://data.mff.cuni.cz/soubory/číselníky/mzdové-třídy.csv-metadata.json",
 	"@context": [
 		"http://www.w3.org/ns/csvw",
 		{
