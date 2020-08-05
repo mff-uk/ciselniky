@@ -12,7 +12,7 @@
 			"name": "ciselnik",
 			"titles": "číselník",
 			"dc:description": "IRI číselníku",
-			"aboutUrl": "{ciselnik}",
+			"aboutUrl": "{+ciselnik}",
 			"propertyUrl": "rdf:type",
 			"valueUrl": "skos:ConceptScheme",
 			"required": true,
