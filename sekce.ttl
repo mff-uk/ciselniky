@@ -4,15 +4,15 @@
 <https://data.mff.cuni.cz/zdroj/číselníky/sekce> a skos:ConceptScheme;
   skos:prefLabel "Schools of FMP CUNI"@en, "Sekce MFF UK"@cs .
 
-<https://data.mff.cuni.cz/zdroj/číselníky/sekce/položky/fyzika> a skos:Concept;
-  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/sekce>;
-  skos:notation "fyzika";
-  skos:prefLabel "Fyzikální sekce"@cs, "School of Physics"@en .
-
 <https://data.mff.cuni.cz/zdroj/číselníky/sekce/položky/informatika> a skos:Concept;
   skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/sekce>;
   skos:notation "informatika";
   skos:prefLabel "Informatická sekce"@cs, "School of Computer Science"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/sekce/položky/fyzika> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/sekce>;
+  skos:notation "fyzika";
+  skos:prefLabel "Fyzikální sekce"@cs, "School of Physics"@en .
 
 <https://data.mff.cuni.cz/zdroj/číselníky/sekce/položky/matematika> a skos:Concept;
   skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/sekce>;
