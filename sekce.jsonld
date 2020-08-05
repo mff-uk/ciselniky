@@ -1,0 +1,36 @@
+
+{
+  "@context": "https://ofn.gov.cz/číselníky/draft/schémata/číselníky.context.jsonld",
+  "id": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura",
+  "typ": "číselník",
+  "název-číselníku": {
+    "cs":  "Sekce MFF UK",
+    "en":  "Schools of FMP CUNI"
+  },
+  "položky": [
+{
+      "typ": "položka",
+      "id": "https://data.mff.cuni.cz/zdroj/číselník/sekce/informatika",
+      "kód": "informatika",
+      "název": {
+        "cs": "Informatická sekce",
+        "en": "School of Computer Science"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mff.cuni.cz/zdroj/číselník/sekce/fyzika",
+      "kód": "fyzika",
+      "název": {
+        "cs": "Fyzikální sekce",
+        "en": "School of Physics"
+      }
+    },{
+      "typ": "položka",
+      "id": "https://data.mff.cuni.cz/zdroj/číselník/sekce/matematika",
+      "kód": "matematika",
+      "název": {
+        "cs": "Matematikcká sekce",
+        "en": "School of Mathematics"
+      }
+    }  ]
+}
