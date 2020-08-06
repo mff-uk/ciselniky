@@ -6,7 +6,7 @@
 			"@language": "cs"
 		}
 	],
-	"url": "mzdov%C3%A9-t%C5%99%C3%ADdy.csv",
+	"url": "mzdové-třídy.csv",
 	"tableSchema": {
 		"columns": [{
 			"name": "ciselnik",
