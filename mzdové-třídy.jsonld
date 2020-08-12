@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/číselníky/draft/schémata/číselníky.context.jsonld",
-  "id": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura",
+  "id": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy",
   "typ": "číselník",
   "název-číselníku": {
     "cs":  "Mzdové třídy MFF UK",
