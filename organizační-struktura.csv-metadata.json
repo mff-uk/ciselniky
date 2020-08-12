@@ -71,12 +71,12 @@
 			"datatype": "string",
 			"lang": "en"
 		}, {
-			"name": "polozka_sirsi_polozka",
-			"titles": "položka_širší_položka",
-			"dc:description": "Širší položka",
+			"name": "polozka_tranzitivne_sirsi_polozka",
+			"titles": "položka_tranzitivně_širší_položka",
+			"dc:description": "Tranzitivně širší položka",
 			"aboutUrl": "{+polozka}",
 			"propertyUrl": "skos:broaderTransitive",
-			"valueUrl": "{+polozka_sirsi_polozka}",
+			"valueUrl": "{+polozka_tranzitivne_sirsi_polozka}",
 			"required": false,
 			"datatype": "anyURI"
 		}, {
