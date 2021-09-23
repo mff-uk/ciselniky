@@ -1,0 +1,39 @@
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/akademické-pozice> a skos:ConceptScheme;
+  skos:prefLabel "Akademické pozice MFF UK"@cs, "Roles at FMP CUNI"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/akademické-pozice/položky/profesor> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/akademické-pozice>;
+  skos:notation "profesor";
+  skos:prefLabel "Profesor/ka"@cs, "Full Professor"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/akademické-pozice/položky/docent> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/akademické-pozice>;
+  skos:notation "docent";
+  skos:prefLabel "Docent/ka"@cs, "Associate Professor"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/akademické-pozice/položky/OA> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/akademické-pozice>;
+  skos:notation "OA";
+  skos:prefLabel "Odborný asistent, odborná asistentka"@cs, "Assistant Professor"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/akademické-pozice/položky/VP> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/akademické-pozice>;
+  skos:notation "VP";
+  skos:prefLabel "Vědecký pracovník, věděcká pracovnice"@cs, "Academic Researcher"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/akademické-pozice/položky/lektor> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/akademické-pozice>;
+  skos:notation "lektor";
+  skos:prefLabel "Lektor/ka"@cs, "Lecturer"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/akademické-pozice/položky/vedoucí-katedry>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/akademické-pozice>;
+  skos:notation "vedoucí-katedry";
+  skos:prefLabel "Vedoucí katedry"@cs, "Head of Department"@en .
