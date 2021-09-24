@@ -1,0 +1,935 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů> a skos:ConceptScheme;
+  skos:prefLabel "Klasifikace oborů ISVaV"@cs, "Research fields classification"@en;
+  skos:hasTopConcept <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A>,
+    <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B>,
+    <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/C>,
+    <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D>,
+    <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/E>,
+    <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F>,
+    <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G>,
+    <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/I>,
+    <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J>,
+    <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/K> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AA>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "AA";
+  skos:prefLabel "Filosofie a náboženství"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AB>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "AB";
+  skos:prefLabel "Dějiny"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AC>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "AC";
+  skos:prefLabel "Archeologie, antropologie, etnologie"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AD>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "AD";
+  skos:prefLabel "Politologie a politické vědy"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AE>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "AE";
+  skos:prefLabel "Řízení, správa a administrativa"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AF>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "AF";
+  skos:prefLabel "Dokumentace, knihovnictví, práce s informacemi"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AG>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "AG";
+  skos:prefLabel "Právní vědy"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AH>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "AH";
+  skos:prefLabel "Ekonomie"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AI>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "AI";
+  skos:prefLabel "Jazykověda"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AJ>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "AJ";
+  skos:prefLabel "Písemnictví, mas–media, audiovize"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AK>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "AK";
+  skos:prefLabel "Sport a aktivity volného času"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AL>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "AL";
+  skos:prefLabel "Umění, architektura, kulturní dědictví"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AM>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "AM";
+  skos:prefLabel "Pedagogika a školství"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AN>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "AN";
+  skos:prefLabel "Psychologie"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AO>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "AO";
+  skos:prefLabel "Sociologie, demografie"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AP>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "AP";
+  skos:prefLabel "Městské, oblastní a dopravní plánování"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/AQ>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "AQ";
+  skos:prefLabel "Bezpečnost a ochrana zdraví, člověk – stroj"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BA>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "BA";
+  skos:prefLabel "Obecná matematika"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BB>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "BB";
+  skos:prefLabel "Aplikovaná statistika, operační výzkum"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BC>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "BC";
+  skos:prefLabel "Teorie a systémy řízení"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BD>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "BD";
+  skos:prefLabel "Teorie informace"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BE>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "BE";
+  skos:prefLabel "Teoretická fyzika"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BF>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "BF";
+  skos:prefLabel "Elementární částice a fyzika vysokých energií"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BG>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "BG";
+  skos:prefLabel "Jaderná, atomová a molekulová fyzika, urychlovače"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BH>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "BH";
+  skos:prefLabel "Optika, masery a lasery"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BI>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "BI";
+  skos:prefLabel "Akustika a kmity"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BJ>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "BJ";
+  skos:prefLabel "Termodynamika"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BK>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "BK";
+  skos:prefLabel "Mechanika tekutin"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BL>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "BL";
+  skos:prefLabel "Fyzika plasmatu a výboje v plynech"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BM>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "BM";
+  skos:prefLabel "Fyzika pevných látek a magnetismus"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BN>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "BN";
+  skos:prefLabel "Astronomie a nebeská mechanika, astrofyzika"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/BO>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "BO";
+  skos:prefLabel "Biofyzika"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/CA>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "CA";
+  skos:prefLabel "Anorganická chemie"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/C> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/CB>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "CB";
+  skos:prefLabel "Analytická chemie, separace"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/C> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/CC>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "CC";
+  skos:prefLabel "Organická chemie"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/C> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/CD>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "CD";
+  skos:prefLabel "Makromolekulární chemie"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/C> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/CE>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "CE";
+  skos:prefLabel "Biochemie"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/C> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/CF>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "CF";
+  skos:prefLabel "Fyzikální chemie a teoretická chemie"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/C> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/CG>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "CG";
+  skos:prefLabel "Elektrochemie"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/C> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/CH>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "CH";
+  skos:prefLabel "Jaderná a kvantová chemie, fotochemie"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/C> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/CI>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "CI";
+  skos:prefLabel "Průmyslová chemie a chemické inženýrství"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/C> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DA>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "DA";
+  skos:prefLabel "Hydrologie a limnologie"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DB>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "DB";
+  skos:prefLabel "Geologie a mineralogie"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DC>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "DC";
+  skos:prefLabel "Seismologie, vulkanologie a struktura Země"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DD>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "DD";
+  skos:prefLabel "Geochemie"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DE>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "DE";
+  skos:prefLabel "Zemský magnetismus, geodesie, geografie"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DF>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "DF";
+  skos:prefLabel "Pedologie"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DG>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "DG";
+  skos:prefLabel "Vědy o atmosféře, meteorologie"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DH>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "DH";
+  skos:prefLabel "Báňský průmysl včetně těžby a zpracování uhlí"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DI>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "DI";
+  skos:prefLabel "Znečištění a kontrola vzduchu"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DJ>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "DJ";
+  skos:prefLabel "Znečištění a kontrola vody"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DK>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "DK";
+  skos:prefLabel "Kontaminace a dekontaminace půdy včetně pesticidů"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DL>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "DL";
+  skos:prefLabel "Jaderné odpady, radioaktivní znečištění a kontrola"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DM>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "DM";
+  skos:prefLabel "Tuhý odpad a jeho kontrola, recyklace"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DN>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "DN";
+  skos:prefLabel "Vliv životního prostředí na zdraví"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/DO>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "DO";
+  skos:prefLabel "Ochrana krajinných území"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/EA>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "EA";
+  skos:prefLabel "Morfologické obory a cytologie"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/E> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/EB>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "EB";
+  skos:prefLabel "Genetika a molekulární biologie"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/E> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/EC>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "EC";
+  skos:prefLabel "Imunologie"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/E> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/ED>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "ED";
+  skos:prefLabel "Fyziologie"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/E> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/EE>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "EE";
+  skos:prefLabel "Mikrobiologie, virologie"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/E> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/EF>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "EF";
+  skos:prefLabel "Botanika"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/E> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/EG>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "EG";
+  skos:prefLabel "Zoologie"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/E> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/EH>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "EH";
+  skos:prefLabel "Ekologie – společenstva"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/E> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/EI>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "EI";
+  skos:prefLabel "Biotechnologie a bionika"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/E> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FA>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "FA";
+  skos:prefLabel "Kardiovaskulární nemoci včetně kardiochirurgie"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FB>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "FB";
+  skos:prefLabel "Endokrinologie, diabetologie, metabolismus, výživa"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FC>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "FC";
+  skos:prefLabel "Pneumologie"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FD>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "FD";
+  skos:prefLabel "Onkologie a hematologie"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FE>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "FE";
+  skos:prefLabel "Ostatní obory vnitřního lékařství"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FF>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "FF";
+  skos:prefLabel "ORL, oftalmologie, stomatologie"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FG>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "FG";
+  skos:prefLabel "Pediatrie"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FH>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "FH";
+  skos:prefLabel "Neurologie, neurochirurgie, neurovědy"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FI>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "FI";
+  skos:prefLabel "Traumatologie a ortopedie"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FJ>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "FJ";
+  skos:prefLabel "Chirurgie včetně transplantologie"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FK>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "FK";
+  skos:prefLabel "Gynekologie a porodnictví"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FL>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "FL";
+  skos:prefLabel "Psychiatrie, sexuologie"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FM>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "FM";
+  skos:prefLabel "Hygiena"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FN>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "FN";
+  skos:prefLabel "Epidemiologie, infekční nemoci a klinická imunologie"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FO>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "FO";
+  skos:prefLabel "Dermatovenerologie"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FP>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "FP";
+  skos:prefLabel "Ostatní lékařské obory"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FQ>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "FQ";
+  skos:prefLabel "Veřejné zdravotnictví, sociální lékařství"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FR>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "FR";
+  skos:prefLabel "Farmakologie a lékárnická chemie"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/FS>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "FS";
+  skos:prefLabel "Lékařská zařízení, přístroje a vybavení"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GA>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "GA";
+  skos:prefLabel "Zemědělská ekonomie"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GB>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "GB";
+  skos:prefLabel "Zemědělské stroje a stavby"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GC>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "GC";
+  skos:prefLabel "Pěstování rostlin, osevní postupy"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GD>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "GD";
+  skos:prefLabel "Hnojení, závlahy, zpracování půdy"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GE>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "GE";
+  skos:prefLabel "Šlechtění rostlin"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GF>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "GF";
+  skos:prefLabel "Choroby, škůdci, plevely a ochrana rostlin"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GG>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "GG";
+  skos:prefLabel "Chov hospodářských zvířat"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GH>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "GH";
+  skos:prefLabel "Výživa hospodářských zvířat"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GI>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "GI";
+  skos:prefLabel "Šlechtění a plemenářství hospodářských zvířat"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GJ>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "GJ";
+  skos:prefLabel "Choroby a škůdci zvířat, veterinární medicina"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GK>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "GK";
+  skos:prefLabel "Lesnictví"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GL>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "GL";
+  skos:prefLabel "Rybářství"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/GM>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "GM";
+  skos:prefLabel "Potravinářství"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/IN>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "IN";
+  skos:prefLabel "Informatika"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/I> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JA>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "JA";
+  skos:prefLabel "Elektronika a optoelektronika, elektrotechnika"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JB>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "JB";
+  skos:prefLabel "Senzory, čidla, měření a regulace"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JC>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "JC";
+  skos:prefLabel "Počítačový hardware a software"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JD>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "JD";
+  skos:prefLabel "Využití počítačů, robotika a její aplikace"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JE>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "JE";
+  skos:prefLabel "Nejaderná energetika, spotřeba a užití energie"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JF>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "JF";
+  skos:prefLabel "Jaderná energetika"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JG>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "JG";
+  skos:prefLabel "Hutnictví, kovové materiály"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JH>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "JH";
+  skos:prefLabel "Keramika, žáruvzdorné materiály a skla"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JI>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "JI";
+  skos:prefLabel "Kompositní materiály"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JJ>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "JJ";
+  skos:prefLabel "Ostatní materiály"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JK>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "JK";
+  skos:prefLabel "Koroze a povrchové úpravy materiálu"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JL>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "JL";
+  skos:prefLabel "Únava materiálu a lomová mechanika"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JM>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "JM";
+  skos:prefLabel "Inženýrské stavitelství"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JN>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "JN";
+  skos:prefLabel "Stavebnictví"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JO>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "JO";
+  skos:prefLabel "Pozemní dopravní systémy a zařízení"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JP>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "JP";
+  skos:prefLabel "Průmyslové procesy a zpracování"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JQ>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "JQ";
+  skos:prefLabel "Strojní zařízení a nástroje"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JR>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "JR";
+  skos:prefLabel "Ostatní strojírenství"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JS>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "JS";
+  skos:prefLabel "Řízení spolehlivosti a kvality, zkušebnictví"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JT>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "JT";
+  skos:prefLabel "Pohon, motory a paliva"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JU>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "JU";
+  skos:prefLabel "Aeronautika, aerodynamika, letadla"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JV>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "JV";
+  skos:prefLabel "Kosmické technologie"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JW>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "JW";
+  skos:prefLabel "Navigace, spojení, detekce a protiopatření"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/JY>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "JY";
+  skos:prefLabel "Střelné zbraně, munice, výbušniny, bojová vozidla"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/KA>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "KA";
+  skos:prefLabel "Vojenství"@cs;
+  skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/K> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/A>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "A";
+  skos:prefLabel "Společenské vědy"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/B>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "B";
+  skos:prefLabel "Fyzika a matematika"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/C>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "C";
+  skos:prefLabel "Chemie"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/D>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "D";
+  skos:prefLabel "Vědy o zemi"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/E>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "E";
+  skos:prefLabel "Biovědy"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/F>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "F";
+  skos:prefLabel "Lékařské vědy"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/G>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "G";
+  skos:prefLabel "Zemědělství"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/I>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "I";
+  skos:prefLabel "Informatika"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/J>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "J";
+  skos:prefLabel "Průmysl"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů/položky/K>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-výzkumných-oborů>;
+  skos:notation "K";
+  skos:prefLabel "Vojenství"@cs .
