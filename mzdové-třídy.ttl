@@ -1,5 +1,8 @@
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
 
 <https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy> a skos:ConceptScheme;
   skos:prefLabel "Mzdové třídy MFF UK"@cs, "Salary tariffs FMP CUNI"@en .
@@ -52,39 +55,79 @@
 <https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/1> a skos:Concept;
   skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy>;
   skos:notation "1";
-  skos:prefLabel "1"@cs, "1"@en .
+  skos:prefLabel "1. mzdová třída"@cs, "1"@en .
 
 <https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/2> a skos:Concept;
   skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy>;
   skos:notation "2";
-  skos:prefLabel "2"@cs, "2"@en .
+  skos:prefLabel "2. mzdová třída"@cs, "2"@en .
 
 <https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/3> a skos:Concept;
   skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy>;
   skos:notation "3";
-  skos:prefLabel "3"@cs, "3"@en .
+  skos:prefLabel "3. mzdová třída"@cs, "3"@en .
 
 <https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/4> a skos:Concept;
   skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy>;
   skos:notation "4";
-  skos:prefLabel "4"@cs, "4"@en .
+  skos:prefLabel "4. mzdová třída"@cs, "4"@en .
 
 <https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/5> a skos:Concept;
   skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy>;
   skos:notation "5";
-  skos:prefLabel "5"@cs, "5"@en .
+  skos:prefLabel "5. mzdová třída"@cs, "5"@en .
 
 <https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/6> a skos:Concept;
   skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy>;
   skos:notation "6";
-  skos:prefLabel "6"@cs, "6"@en .
+  skos:prefLabel "6. mzdová třída"@cs, "6"@en .
 
 <https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/7> a skos:Concept;
   skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy>;
   skos:notation "7";
-  skos:prefLabel "7"@cs, "7"@en .
+  skos:prefLabel "7. mzdová třída"@cs, "7"@en .
 
 <https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/8> a skos:Concept;
   skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy>;
   skos:notation "8";
-  skos:prefLabel "8"@cs, "8"@en .
+  skos:prefLabel "8. mzdová třída"@cs, "8"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/9> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy>;
+  skos:notation "9";
+  skos:prefLabel "9. mzdová třída"@cs, "9"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/10> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy>;
+  skos:notation "10";
+  skos:prefLabel "10. mzdová třída"@cs, "10"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/11> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy>;
+  skos:notation "11";
+  skos:prefLabel "11. mzdová třída"@cs, "11"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/12> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy>;
+  skos:notation "12";
+  skos:prefLabel "12. mzdová třída"@cs, "12"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/13> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy>;
+  skos:notation "13";
+  skos:prefLabel "13. mzdová třída"@cs, "13"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/14> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy>;
+  skos:notation "14";
+  skos:prefLabel "14. mzdová třída"@cs, "14"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/15> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy>;
+  skos:notation "15";
+  skos:prefLabel "15. mzdová třída"@cs, "15"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/SML> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy>;
+  skos:notation "SML";
+  skos:prefLabel "smluvní mzda"@cs, "contractual salary"@en .
