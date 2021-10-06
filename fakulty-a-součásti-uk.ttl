@@ -1,0 +1,161 @@
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk> a skos:ConceptScheme;
+  skos:prefLabel "Fakulty a součáti UK"@cs, "Organizational Structure of CUNI"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk/položky/KTF> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk>;
+  skos:notation "KTF";
+  skos:prefLabel "Katolická teologická fakulta"@cs, "Catholic Theological Faculty"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk/položky/ETF> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk>;
+  skos:notation "ETF";
+  skos:prefLabel "Evangelická teologická fakulta"@cs, "Protestant Theological Faculty"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk/položky/HTF> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk>;
+  skos:notation "HTF";
+  skos:prefLabel "Husitská teologická fakulta"@cs, "Hussite Theological Faculty"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk/položky/PF> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk>;
+  skos:notation "PF";
+  skos:prefLabel "Právnická fakulta"@cs, "Faculty of Law"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk/položky/1.LF> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk>;
+  skos:notation "1. LF";
+  skos:prefLabel "1. lékařská fakulta"@cs, "First Faculty of Medicine"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk/položky/2.LF> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk>;
+  skos:notation "2. LF";
+  skos:prefLabel "2. lékařská fakulta"@cs, "Second Faculty of Medicine"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk/položky/3.LF> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk>;
+  skos:notation "3. LF";
+  skos:prefLabel "3. lékařská fakulta"@cs, "Third Faculty of Medicine"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk/položky/LFPL> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk>;
+  skos:notation "LFPL";
+  skos:prefLabel "Lékařská fakulta v Plzni"@cs, "Faculty of Medicine in Plzeň"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk/položky/LFHK> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk>;
+  skos:notation "LFHK";
+  skos:prefLabel "Lékařská fakulta v Hradci Králové"@cs, "Faculty of Medicine in Hradec Králové"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk/položky/FaF> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk>;
+  skos:notation "FaF";
+  skos:prefLabel "Farmaceutická fakulta v Hradci Králové"@cs, "Faculty of Pharmacy in Hradec Králové"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk/položky/FF> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk>;
+  skos:notation "FF";
+  skos:prefLabel "Filozofická fakulta"@cs, "Faculty of Arts"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk/položky/PřF> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk>;
+  skos:notation "PřF";
+  skos:prefLabel "Přírodovědecká fakulta"@cs, "Faculty of Science"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk/položky/MFF> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk>;
+  skos:notation "MFF";
+  skos:prefLabel "Matematicko-fyzikální fakulta"@cs, "Faculty of Mathematics and Physics"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk/položky/PedF> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk>;
+  skos:notation "PedF";
+  skos:prefLabel "Pedagogická fakulta"@cs, "Faculty of Education"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk/položky/FSV> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk>;
+  skos:notation "FSV";
+  skos:prefLabel "Fakulta sociálních věd"@cs, "Faculty of Social Sciences"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk/položky/FTVS> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk>;
+  skos:notation "FTVS";
+  skos:prefLabel "Fakulta tělesné výchovy a sportu"@cs, "Faculty of Physical Education and Sport"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk/položky/FHS> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk>;
+  skos:notation "FHS";
+  skos:prefLabel "Fakulta humanitních studií"@cs, "Faculty of Humanities"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk/položky/UDAUK> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk>;
+  skos:notation "UDAUK";
+  skos:prefLabel "Ústav dějin UK a Archiv UK"@cs, "Institute of the History of Charles University and Archive of Charles University"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk/položky/CTS> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk>;
+  skos:notation "CTS";
+  skos:prefLabel "Centrum pro teoretická studia"@cs, "Center for Theoretical Study"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk/položky/CERGE> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk>;
+  skos:notation "CERGE";
+  skos:prefLabel "Centrum pro ekonomický výzkum a doktorské studium"@cs, "Center for Economic Research and Graduate Education"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk/položky/CZP> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk>;
+  skos:notation "CZP";
+  skos:prefLabel "Centrum pro otázky životního prostředí"@cs, "Environment Centre"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk/položky/UVT> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk>;
+  skos:notation "UVT";
+  skos:prefLabel "Ústav výpočetní techniky"@cs, "Computer Science Centre"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk/položky/CPPT> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk>;
+  skos:notation "CPPT";
+  skos:prefLabel "Centrum pro přenos poznatků a technologií"@cs, "Centre for Transfer of Knowledge and Technology"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk/položky/UJOP> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk>;
+  skos:notation "UJOP";
+  skos:prefLabel "Ústav jazykové a odborné přípravy"@cs, "Institute for Language and Preparatory Studies"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk/položky/knihovna>
+  a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk>;
+  skos:notation "knihovna";
+  skos:prefLabel "Ústřední knihovna UK"@cs, "Central Library of Charles University"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk/položky/radavs> a
+    skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk>;
+  skos:notation "radavs";
+  skos:prefLabel "Rada vysokých škol"@cs, "Agency of the Council of Higher Education Institutions"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk/položky/KaM> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk>;
+  skos:notation "KaM";
+  skos:prefLabel "Koleje a menzy"@cs, "Dormitories and Refectories"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk/položky/NK> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk>;
+  skos:notation "NK";
+  skos:prefLabel "Nakladatelství Karolinum"@cs, "Karolinum Press"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk/položky/SBZ> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk>;
+  skos:notation "SBZ";
+  skos:prefLabel "Správa budov a zařízení"@cs, "Premises and Facilities Administration"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk/položky/krystal> a
+    skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/fakulty-a-součásti-uk>;
+  skos:notation "krystal";
+  skos:prefLabel "Centrum Krystal"@cs, "Centre Krystal"@en .
