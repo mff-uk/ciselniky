@@ -162,69 +162,6 @@
         },
         {
             "typ": "položka",
-            "id": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/9",
-            "kód": "9",
-            "název": {
-                "cs": "9. mzdová třída",
-                "en": "9"
-            }
-        },
-        {
-            "typ": "položka",
-            "id": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/10",
-            "kód": "10",
-            "název": {
-                "cs": "10. mzdová třída",
-                "en": "10"
-            }
-        },
-        {
-            "typ": "položka",
-            "id": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/11",
-            "kód": "11",
-            "název": {
-                "cs": "11. mzdová třída",
-                "en": "11"
-            }
-        },
-        {
-            "typ": "položka",
-            "id": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/12",
-            "kód": "12",
-            "název": {
-                "cs": "12. mzdová třída",
-                "en": "12"
-            }
-        },
-        {
-            "typ": "položka",
-            "id": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/13",
-            "kód": "13",
-            "název": {
-                "cs": "13. mzdová třída",
-                "en": "13"
-            }
-        },
-        {
-            "typ": "položka",
-            "id": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/14",
-            "kód": "14",
-            "název": {
-                "cs": "14. mzdová třída",
-                "en": "14"
-            }
-        },
-        {
-            "typ": "položka",
-            "id": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/15",
-            "kód": "15",
-            "název": {
-                "cs": "15. mzdová třída",
-                "en": "15"
-            }
-        },
-        {
-            "typ": "položka",
             "id": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/SML",
             "kód": "SML",
             "název": {
