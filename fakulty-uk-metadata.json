@@ -1,12 +1,12 @@
 {
-	"@id": "https://data.mff.cuni.cz/soubory/číselníky/fakulty-a-součásti-uk.csv-metadata.json",
+	"@id": "https://data.mff.cuni.cz/soubory/číselníky/fakulty-uk.csv-metadata.json",
 	"@context": [
 		"http://www.w3.org/ns/csvw",
 		{
 			"@language": "cs"
 		}
 	],
-	"url": "fakulty-a-součásti-uk.csv",
+	"url": "fakulty-uk.csv",
 	"tableSchema": {
 		"columns": [{
 			"name": "ciselnik",
