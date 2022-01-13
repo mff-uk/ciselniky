@@ -1,15 +1,15 @@
 {
-    "@context": "https://ofn.gov.cz/číselníky/draft/schémata/číselníky.context.jsonld",
-    "id": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy",
-    "typ": "číselník",
-    "název-číselníku": {
+    "@context": "https://ofn.gov.cz/číselníky/draft/kontexty/číselník.jsonld",
+    "iri": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy",
+    "typ": "Číselník",
+    "název": {
         "cs": "Mzdové třídy MFF UK",
         "en": "Salary tariffs FMP CUNI"
     },
     "položky": [
         {
-            "typ": "položka",
-            "id": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/AP1",
+            "typ": "Položka",
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/AP1",
             "kód": "AP1",
             "název": {
                 "cs": "AP1",
@@ -17,8 +17,8 @@
             }
         },
         {
-            "typ": "položka",
-            "id": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/AP2",
+            "typ": "Položka",
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/AP2",
             "kód": "AP2",
             "název": {
                 "cs": "AP2",
@@ -26,8 +26,8 @@
             }
         },
         {
-            "typ": "položka",
-            "id": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/AP3",
+            "typ": "Položka",
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/AP3",
             "kód": "AP3",
             "název": {
                 "cs": "AP3",
@@ -35,8 +35,8 @@
             }
         },
         {
-            "typ": "položka",
-            "id": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/AP4",
+            "typ": "Položka",
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/AP4",
             "kód": "AP4",
             "název": {
                 "cs": "AP4",
@@ -44,8 +44,8 @@
             }
         },
         {
-            "typ": "položka",
-            "id": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/L1",
+            "typ": "Položka",
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/L1",
             "kód": "L1",
             "název": {
                 "cs": "L1",
@@ -53,8 +53,8 @@
             }
         },
         {
-            "typ": "položka",
-            "id": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/L2",
+            "typ": "Položka",
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/L2",
             "kód": "L2",
             "název": {
                 "cs": "L2",
@@ -62,8 +62,8 @@
             }
         },
         {
-            "typ": "položka",
-            "id": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/VP1",
+            "typ": "Položka",
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/VP1",
             "kód": "VP1",
             "název": {
                 "cs": "VP1",
@@ -71,8 +71,8 @@
             }
         },
         {
-            "typ": "položka",
-            "id": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/VP2",
+            "typ": "Položka",
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/VP2",
             "kód": "VP2",
             "název": {
                 "cs": "VP2",
@@ -80,8 +80,8 @@
             }
         },
         {
-            "typ": "položka",
-            "id": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/VP3",
+            "typ": "Položka",
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/VP3",
             "kód": "VP3",
             "název": {
                 "cs": "VP3",
@@ -89,8 +89,8 @@
             }
         },
         {
-            "typ": "položka",
-            "id": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/1",
+            "typ": "Položka",
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/1",
             "kód": "1",
             "název": {
                 "cs": "1. mzdová třída",
@@ -98,8 +98,8 @@
             }
         },
         {
-            "typ": "položka",
-            "id": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/2",
+            "typ": "Položka",
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/2",
             "kód": "2",
             "název": {
                 "cs": "2. mzdová třída",
@@ -107,8 +107,8 @@
             }
         },
         {
-            "typ": "položka",
-            "id": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/3",
+            "typ": "Položka",
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/3",
             "kód": "3",
             "název": {
                 "cs": "3. mzdová třída",
@@ -116,8 +116,8 @@
             }
         },
         {
-            "typ": "položka",
-            "id": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/4",
+            "typ": "Položka",
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/4",
             "kód": "4",
             "název": {
                 "cs": "4. mzdová třída",
@@ -125,8 +125,8 @@
             }
         },
         {
-            "typ": "položka",
-            "id": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/5",
+            "typ": "Položka",
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/5",
             "kód": "5",
             "název": {
                 "cs": "5. mzdová třída",
@@ -134,8 +134,8 @@
             }
         },
         {
-            "typ": "položka",
-            "id": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/6",
+            "typ": "Položka",
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/6",
             "kód": "6",
             "název": {
                 "cs": "6. mzdová třída",
@@ -143,8 +143,8 @@
             }
         },
         {
-            "typ": "položka",
-            "id": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/7",
+            "typ": "Položka",
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/7",
             "kód": "7",
             "název": {
                 "cs": "7. mzdová třída",
@@ -152,8 +152,8 @@
             }
         },
         {
-            "typ": "položka",
-            "id": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/8",
+            "typ": "Položka",
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/8",
             "kód": "8",
             "název": {
                 "cs": "8. mzdová třída",
@@ -161,8 +161,8 @@
             }
         },
         {
-            "typ": "položka",
-            "id": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/SML",
+            "typ": "Položka",
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/mzdové-třídy/položky/SML",
             "kód": "SML",
             "název": {
                 "cs": "smluvní mzda",

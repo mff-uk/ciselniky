@@ -37,7 +37,7 @@
 			"lang": "en"
 		}, {
 			"name": "polozka",
-			"titles": "položka",
+			"titles": "číselník_položka",
 			"dc:description": "IRI položky",
 			"aboutUrl": "{+polozka}",
 			"propertyUrl": "rdf:type",
@@ -46,7 +46,7 @@
 			"datatype": "anyURI"
 		}, {
 			"name": "polozka_kod",
-			"titles": "položka_kód",
+			"titles": "číselník_položka_kód",
 			"dc:description": "Kód položky",
 			"aboutUrl": "{+polozka}",
 			"propertyUrl": "skos:notation",
@@ -54,7 +54,7 @@
 			"datatype": "string"
 		}, {
 			"name": "polozka_nazev_en",
-			"titles": "položka_název_en",
+			"titles": "číselník_položka_název_en",
 			"dc:description": "Název položky v angličtině",
 			"aboutUrl": "{+polozka}",
 			"propertyUrl": "skos:prefLabel",
@@ -63,7 +63,7 @@
 			"lang": "en"
 		}, {
 			"name": "polozka_nadrazena",
-			"titles": "položka_nadřazená",
+			"titles": "číselník_položka_nadřazená",
 			"dc:description": "Nadřazená položka",
 			"aboutUrl": "{+polozka}",
 			"propertyUrl": "skos:broader",

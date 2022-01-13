@@ -1,142 +1,142 @@
 {
-	"@context": "https://ofn.gov.cz/číselníky/draft/schémata/číselníky.context.jsonld",
-	"id": "https://data.mff.cuni.cz/zdroj/číselníky/fakulty-uk",
-	"typ": "číselník",
-	"název-číselníku": {
+	"@context": "https://ofn.gov.cz/číselníky/draft/kontexty/číselník.jsonld",
+	"iri": "https://data.mff.cuni.cz/zdroj/číselníky/fakulty-uk",
+	"typ": "Číselník",
+	"název": {
 		"cs": "Fakulty UK",
 		"en": "Faculties of CUNI"
 	},
 	"položky": [{
-		"typ": "položka",
-		"id": "https://data.mff.cuni.cz/zdroj/číselníky/fakulty-uk/položky/KTF",
+		"typ": "Položka",
+		"iri": "https://data.mff.cuni.cz/zdroj/číselníky/fakulty-uk/položky/KTF",
 		"kód": "KTF",
 		"název": {
 			"cs": "Katolická teologická fakulta",
 			"en": "Catholic Theological Faculty"
 		}
 	}, {
-		"typ": "položka",
-		"id": "https://data.mff.cuni.cz/zdroj/číselníky/fakulty-uk/položky/ETF",
+		"typ": "Položka",
+		"iri": "https://data.mff.cuni.cz/zdroj/číselníky/fakulty-uk/položky/ETF",
 		"kód": "ETF",
 		"název": {
 			"cs": "Evangelická teologická fakulta",
 			"en": "Protestant Theological Faculty"
 		}
 	}, {
-		"typ": "položka",
-		"id": "https://data.mff.cuni.cz/zdroj/číselníky/fakulty-uk/položky/HTF",
+		"typ": "Položka",
+		"iri": "https://data.mff.cuni.cz/zdroj/číselníky/fakulty-uk/položky/HTF",
 		"kód": "HTF",
 		"název": {
 			"cs": "Husitská teologická fakulta",
 			"en": "Hussite Theological Faculty"
 		}
 	}, {
-		"typ": "položka",
-		"id": "https://data.mff.cuni.cz/zdroj/číselníky/fakulty-uk/položky/PF",
+		"typ": "Položka",
+		"iri": "https://data.mff.cuni.cz/zdroj/číselníky/fakulty-uk/položky/PF",
 		"kód": "PF",
 		"název": {
 			"cs": "Právnická fakulta",
 			"en": "Faculty of Law"
 		}
 	}, {
-		"typ": "položka",
-		"id": "https://data.mff.cuni.cz/zdroj/číselníky/fakulty-uk/položky/1.LF",
+		"typ": "Položka",
+		"iri": "https://data.mff.cuni.cz/zdroj/číselníky/fakulty-uk/položky/1.LF",
 		"kód": "1. LF",
 		"název": {
 			"cs": "1. lékařská fakulta",
 			"en": "First Faculty of Medicine"
 		}
 	}, {
-		"typ": "položka",
-		"id": "https://data.mff.cuni.cz/zdroj/číselníky/fakulty-uk/položky/2.LF",
+		"typ": "Položka",
+		"iri": "https://data.mff.cuni.cz/zdroj/číselníky/fakulty-uk/položky/2.LF",
 		"kód": "2. LF",
 		"název": {
 			"cs": "2. lékařská fakulta",
 			"en": "Second Faculty of Medicine"
 		}
 	}, {
-		"typ": "položka",
-		"id": "https://data.mff.cuni.cz/zdroj/číselníky/fakulty-uk/položky/3.LF",
+		"typ": "Položka",
+		"iri": "https://data.mff.cuni.cz/zdroj/číselníky/fakulty-uk/položky/3.LF",
 		"kód": "3. LF",
 		"název": {
 			"cs": "3. lékařská fakulta",
 			"en": "Third Faculty of Medicine"
 		}
 	}, {
-		"typ": "položka",
-		"id": "https://data.mff.cuni.cz/zdroj/číselníky/fakulty-uk/položky/LFPL",
+		"typ": "Položka",
+		"iri": "https://data.mff.cuni.cz/zdroj/číselníky/fakulty-uk/položky/LFPL",
 		"kód": "LFPL",
 		"název": {
 			"cs": "Lékařská fakulta v Plzni",
 			"en": "Faculty of Medicine in Plzeň"
 		}
 	}, {
-		"typ": "položka",
-		"id": "https://data.mff.cuni.cz/zdroj/číselníky/fakulty-uk/položky/LFHK",
+		"typ": "Položka",
+		"iri": "https://data.mff.cuni.cz/zdroj/číselníky/fakulty-uk/položky/LFHK",
 		"kód": "LFHK",
 		"název": {
 			"cs": "Lékařská fakulta v Hradci Králové",
 			"en": "Faculty of Medicine in Hradec Králové"
 		}
 	}, {
-		"typ": "položka",
-		"id": "https://data.mff.cuni.cz/zdroj/číselníky/fakulty-uk/položky/FaF",
+		"typ": "Položka",
+		"iri": "https://data.mff.cuni.cz/zdroj/číselníky/fakulty-uk/položky/FaF",
 		"kód": "FaF",
 		"název": {
 			"cs": "Farmaceutická fakulta v Hradci Králové",
 			"en": "Faculty of Pharmacy in Hradec Králové"
 		}
 	}, {
-		"typ": "položka",
-		"id": "https://data.mff.cuni.cz/zdroj/číselníky/fakulty-uk/položky/FF",
+		"typ": "Položka",
+		"iri": "https://data.mff.cuni.cz/zdroj/číselníky/fakulty-uk/položky/FF",
 		"kód": "FF",
 		"název": {
 			"cs": "Filozofická fakulta",
 			"en": "Faculty of Arts"
 		}
 	}, {
-		"typ": "položka",
-		"id": "https://data.mff.cuni.cz/zdroj/číselníky/fakulty-uk/položky/PřF",
+		"typ": "Položka",
+		"iri": "https://data.mff.cuni.cz/zdroj/číselníky/fakulty-uk/položky/PřF",
 		"kód": "PřF",
 		"název": {
 			"cs": "Přírodovědecká fakulta",
 			"en": "Faculty of Science"
 		}
 	}, {
-		"typ": "položka",
-		"id": "https://data.mff.cuni.cz/zdroj/číselníky/fakulty-uk/položky/MFF",
+		"typ": "Položka",
+		"iri": "https://data.mff.cuni.cz/zdroj/číselníky/fakulty-uk/položky/MFF",
 		"kód": "MFF",
 		"název": {
 			"cs": "Matematicko-fyzikální fakulta",
 			"en": "Faculty of Mathematics and Physics"
 		}
 	}, {
-		"typ": "položka",
-		"id": "https://data.mff.cuni.cz/zdroj/číselníky/fakulty-uk/položky/PedF",
+		"typ": "Položka",
+		"iri": "https://data.mff.cuni.cz/zdroj/číselníky/fakulty-uk/položky/PedF",
 		"kód": "PedF",
 		"název": {
 			"cs": "Pedagogická fakulta",
 			"en": "Faculty of Education"
 		}
 	}, {
-		"typ": "položka",
-		"id": "https://data.mff.cuni.cz/zdroj/číselníky/fakulty-uk/položky/FSV",
+		"typ": "Položka",
+		"iri": "https://data.mff.cuni.cz/zdroj/číselníky/fakulty-uk/položky/FSV",
 		"kód": "FSV",
 		"název": {
 			"cs": "Fakulta sociálních věd",
 			"en": "Faculty of Social Sciences"
 		}
 	}, {
-		"typ": "položka",
-		"id": "https://data.mff.cuni.cz/zdroj/číselníky/fakulty-uk/položky/FTVS",
+		"typ": "Položka",
+		"iri": "https://data.mff.cuni.cz/zdroj/číselníky/fakulty-uk/položky/FTVS",
 		"kód": "FTVS",
 		"název": {
 			"cs": "Fakulta tělesné výchovy a sportu",
 			"en": "Faculty of Physical Education and Sport"
 		}
 	}, {
-		"typ": "položka",
-		"id": "https://data.mff.cuni.cz/zdroj/číselníky/fakulty-uk/položky/FHS",
+		"typ": "Položka",
+		"iri": "https://data.mff.cuni.cz/zdroj/číselníky/fakulty-uk/položky/FHS",
 		"kód": "FHS",
 		"název": {
 			"cs": "Fakulta humanitních studií",

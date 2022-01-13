@@ -37,7 +37,7 @@
 			"lang": "en"
 		}, {
 			"name": "polozka",
-			"titles": "položka",
+			"titles": "číselník_položka",
 			"dc:description": "IRI položky",
 			"aboutUrl": "{+polozka}",
 			"propertyUrl": "rdf:type",
@@ -46,7 +46,7 @@
 			"datatype": "anyURI"
 		}, {
 			"name": "polozka_nazev_cs",
-			"titles": "položka_název_cs",
+			"titles": "číselník_položka_název_cs",
 			"dc:description": "Název položky v češtině",
 			"aboutUrl": "{+polozka}",
 			"propertyUrl": "skos:prefLabel",
@@ -55,7 +55,7 @@
 			"lang": "cs"
 		}, {
 			"name": "polozka_nazev_en",
-			"titles": "položka_název_en",
+			"titles": "číselník_položka_název_en",
 			"dc:description": "Název položky v angličtině",
 			"aboutUrl": "{+polozka}",
 			"propertyUrl": "skos:prefLabel",
