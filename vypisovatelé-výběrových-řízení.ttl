@@ -1,0 +1,16 @@
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/vypisovatelé-výběrových-řízení> a skos:ConceptScheme;
+  skos:prefLabel "Vypisovatelé výběrových řízení UK"@cs, "Publisher of employment positions"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/vypisovatelé-výběrových-řízení/položky/děkan> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/vypisovatelé-výběrových-řízení>;
+  skos:prefLabel "Děkan"@cs, "Dean"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/vypisovatelé-výběrových-řízení/položky/rektor> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/vypisovatelé-výběrových-řízení>;
+  skos:prefLabel "Rektor"@cs, "Rector"@en .

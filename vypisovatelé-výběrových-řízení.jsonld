@@ -1,0 +1,27 @@
+{
+    "@context": "https://ofn.gov.cz/číselníky/draft/kontexty/číselník.jsonld",
+    "iri": "https://data.mff.cuni.cz/zdroj/číselníky/vypisovatelé-výběrových-řízení",
+    "typ": "Číselník",
+    "název": {
+        "cs": "Vypisovatelé výběrových řízení UK",
+        "en": "Publisher of employment positions"
+    },
+    "položky": [
+        {
+            "typ": "Položka",
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/vypisovatelé-výběrových-řízení/položky/děkan",
+            "název": {
+                "cs": "Děkan",
+                "en": "Dean"
+            }
+        },
+        {
+            "typ": "Položka",
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/vypisovatelé-výběrových-řízení/položky/rektor",
+            "název": {
+                "cs": "Rektor",
+                "en": "Rector"
+            }
+        }
+    ]
+}
