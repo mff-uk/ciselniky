@@ -1,5 +1,5 @@
 {
-	"@context": "https://ofn.gov.cz/číselníky/draft/kontexty/číselník.jsonld",
+	"@context": "https://ofn.gov.cz/číselníky/2022-02-08/kontexty/číselník.jsonld",
 	"iri": "https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky",
 	"typ": "Číselník",
 	"název": {
