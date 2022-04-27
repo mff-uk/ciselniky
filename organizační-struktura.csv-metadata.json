@@ -6,7 +6,7 @@
 			"@language": "cs"
 		}
 	],
-	"url": "organiza%C4%8Dn%C3%AD-struktura.csv",
+	"url": "organizační-struktura.csv",
 	"tableSchema": {
 		"columns": [{
 			"name": "ciselnik",
