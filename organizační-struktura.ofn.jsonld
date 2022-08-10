@@ -1,10 +1,11 @@
+
 [
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/0",
-        "kód": "0",
-        "provozovatel": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116",
+      "kód": "116",
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -12,17 +13,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Orgány fakulty",
-            "en": "Authorities of the Faculty"
-        }
+      "název": {
+          "cs":  "Matematicko-fyzikální fakulta",
+          "en":  "Faculty of Mathematics and Physics"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1",
-        "kód": "1",
-        "provozovatel": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/0",
+      "kód": "0",
+      "je_součástí": {
+            "typ": "Pracoviště",
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116"
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -30,17 +35,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Fyzikální sekce",
-            "en": "School of Physics"
-        }
+      "název": {
+          "cs":  "Orgány fakulty",
+          "en":  "Authorities of the Faculty"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/2",
-        "kód": "2",
-        "provozovatel": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1",
+      "kód": "1",
+      "je_součástí": {
+            "typ": "Pracoviště",
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116"
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -48,17 +57,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Informatická sekce",
-            "en": "School of Computer Science"
-        }
+      "název": {
+          "cs":  "Fyzikální sekce",
+          "en":  "School of Physics"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/3",
-        "kód": "3",
-        "provozovatel": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/2",
+      "kód": "2",
+      "je_součástí": {
+            "typ": "Pracoviště",
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116"
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -66,17 +79,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Matematická sekce",
-            "en": "School of Mathematics"
-        }
+      "název": {
+          "cs":  "Informatická sekce",
+          "en":  "School of Computer Science"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/5",
-        "kód": "5",
-        "provozovatel": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/3",
+      "kód": "3",
+      "je_součástí": {
+            "typ": "Pracoviště",
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116"
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -84,17 +101,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Jiná pracoviště",
-            "en": "Other Departments"
-        }
+      "název": {
+          "cs":  "Matematická sekce",
+          "en":  "School of Mathematics"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/6",
-        "kód": "6",
-        "provozovatel": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/5",
+      "kód": "5",
+      "je_součástí": {
+            "typ": "Pracoviště",
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116"
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -102,17 +123,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Účelová zařízení",
-            "en": "Technical Support"
-        }
+      "název": {
+          "cs":  "Jiná pracoviště",
+          "en":  "Other Departments"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/7",
-        "kód": "7",
-        "provozovatel": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/6",
+      "kód": "6",
+      "je_součástí": {
+            "typ": "Pracoviště",
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116"
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -120,21 +145,43 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Děkanát",
-            "en": "Dean's Office"
-        }
+      "název": {
+          "cs":  "Účelová zařízení",
+          "en":  "Technical Support"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/5",
-        "kód": "5",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/7",
+      "kód": "7",
+      "je_součástí": {
+            "typ": "Pracoviště",
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116"
+      },
+"provozovatel": {
+            "typ": "Osoba",
+            "název": {
+                "cs": "Univerzita Karlova",
+                "en": "Charles University"
+            },
+            "ičo": "00216208"
+        },
+      "název": {
+          "cs":  "Děkanát",
+          "en":  "Dean's Office"
+      }
+    },
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/5",
+      "kód": "5",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/0"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -142,21 +189,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Poradní orgány vedení fakulty",
-            "en": "The Advisory Body of the Faculty Management"
-        }
+      "název": {
+          "cs":  "Poradní orgány vedení fakulty",
+          "en":  "The Advisory Body of the Faculty Management"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/4",
-        "kód": "4",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/4",
+      "kód": "4",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/0"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -164,21 +211,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Disciplinární komise",
-            "en": "Disciplinary Board"
-        }
+      "název": {
+          "cs":  "Disciplinární komise",
+          "en":  "Disciplinary Board"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/3",
-        "kód": "3",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/3",
+      "kód": "3",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/0"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -186,21 +233,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Vědecká rada",
-            "en": "Scientific Council"
-        }
+      "název": {
+          "cs":  "Vědecká rada",
+          "en":  "Scientific Council"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/2",
-        "kód": "2",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/2",
+      "kód": "2",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/0"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -208,21 +255,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Vedení fakulty",
-            "en": "Management of the Faculty"
-        }
+      "název": {
+          "cs":  "Vedení fakulty",
+          "en":  "Management of the Faculty"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1",
-        "kód": "1",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1",
+      "kód": "1",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/0"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -230,21 +277,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Akademický senát",
-            "en": "Academic Senate"
-        }
+      "název": {
+          "cs":  "Akademický senát",
+          "en":  "Academic Senate"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1190",
-        "kód": "1190",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1190",
+      "kód": "1190",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -252,21 +299,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Astronomický ústav UK",
-            "en": "Astronomical Institute of Charles University"
-        }
+      "název": {
+          "cs":  "Astronomický ústav UK",
+          "en":  "Astronomical Institute of Charles University"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1191",
-        "kód": "1191",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1191",
+      "kód": "1191",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -274,21 +321,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Fyzikální ústav UK",
-            "en": "Institute of Physics of Charles University"
-        }
+      "název": {
+          "cs":  "Fyzikální ústav UK",
+          "en":  "Institute of Physics of Charles University"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1214",
-        "kód": "1214",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1214",
+      "kód": "1214",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -296,21 +343,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Kabinet výuky obecné fyziky",
-            "en": "Laboratory of General Physics Education"
-        }
+      "název": {
+          "cs":  "Kabinet výuky obecné fyziky",
+          "en":  "Laboratory of General Physics Education"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1215",
-        "kód": "1215",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1215",
+      "kód": "1215",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -318,21 +365,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Katedra didaktiky fyziky",
-            "en": "Department of Physics Education"
-        }
+      "název": {
+          "cs":  "Katedra didaktiky fyziky",
+          "en":  "Department of Physics Education"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1220",
-        "kód": "1220",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1220",
+      "kód": "1220",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -340,21 +387,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Katedra fyziky povrchů a plazmatu",
-            "en": "Department of Surface and Plasma Science"
-        }
+      "název": {
+          "cs":  "Katedra fyziky povrchů a plazmatu",
+          "en":  "Department of Surface and Plasma Science"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1231",
-        "kód": "1231",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1231",
+      "kód": "1231",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -362,21 +409,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Katedra fyziky materiálů",
-            "en": "Department of Physics of Materials"
-        }
+      "název": {
+          "cs":  "Katedra fyziky materiálů",
+          "en":  "Department of Physics of Materials"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1251",
-        "kód": "1251",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1251",
+      "kód": "1251",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -384,21 +431,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Katedra fyziky nízkých teplot",
-            "en": "Department of Low Temperature Physics"
-        }
+      "název": {
+          "cs":  "Katedra fyziky nízkých teplot",
+          "en":  "Department of Low Temperature Physics"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1262",
-        "kód": "1262",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1262",
+      "kód": "1262",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -406,21 +453,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Katedra fyziky kondenzovaných látek",
-            "en": "Department of Condensed Matter Physics"
-        }
+      "název": {
+          "cs":  "Katedra fyziky kondenzovaných látek",
+          "en":  "Department of Condensed Matter Physics"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1271",
-        "kód": "1271",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1271",
+      "kód": "1271",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -428,21 +475,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Katedra makromolekulární fyziky",
-            "en": "Department of Macromolecular Physics"
-        }
+      "název": {
+          "cs":  "Katedra makromolekulární fyziky",
+          "en":  "Department of Macromolecular Physics"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1276",
-        "kód": "1276",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1276",
+      "kód": "1276",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -450,21 +497,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Katedra geofyziky",
-            "en": "Department of Geophysics"
-        }
+      "název": {
+          "cs":  "Katedra geofyziky",
+          "en":  "Department of Geophysics"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1277",
-        "kód": "1277",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1277",
+      "kód": "1277",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -472,21 +519,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Katedra chemické fyziky a optiky",
-            "en": "Department of Chemical Physics and Optics"
-        }
+      "název": {
+          "cs":  "Katedra chemické fyziky a optiky",
+          "en":  "Department of Chemical Physics and Optics"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1284",
-        "kód": "1284",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1284",
+      "kód": "1284",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -494,21 +541,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Ústav částicové a jaderné fyziky",
-            "en": "Institute of Particle and Nuclear Physics"
-        }
+      "název": {
+          "cs":  "Ústav částicové a jaderné fyziky",
+          "en":  "Institute of Particle and Nuclear Physics"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1290",
-        "kód": "1290",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1290",
+      "kód": "1290",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -516,21 +563,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Katedra fyziky atmosféry",
-            "en": "Department of Atmospheric Physics"
-        }
+      "název": {
+          "cs":  "Katedra fyziky atmosféry",
+          "en":  "Department of Atmospheric Physics"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1291",
-        "kód": "1291",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1291",
+      "kód": "1291",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -538,21 +585,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Ústav teoretické fyziky",
-            "en": "Institute of Theoretical Physics"
-        }
+      "název": {
+          "cs":  "Ústav teoretické fyziky",
+          "en":  "Institute of Theoretical Physics"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/100026003452",
-        "kód": "100026003452",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/100026003452",
+      "kód": "100026003452",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -560,21 +607,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Počítačová síť Troja",
-            "en": "Computer network Troja"
-        }
+      "název": {
+          "cs":  "Počítačová síť Troja",
+          "en":  "Computer network Troja"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1292",
-        "kód": "1292",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1292",
+      "kód": "1292",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/2"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -582,21 +629,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Katedra softwaru a výuky informatiky",
-            "en": "Department of Software and Computer Science Education"
-        }
+      "název": {
+          "cs":  "Katedra softwaru a výuky informatiky",
+          "en":  "Department of Software and Computer Science Education"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1293",
-        "kód": "1293",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1293",
+      "kód": "1293",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/2"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -604,21 +651,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Katedra aplikované matematiky",
-            "en": "Department of Applied Mathematics"
-        }
+      "název": {
+          "cs":  "Katedra aplikované matematiky",
+          "en":  "Department of Applied Mathematics"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1850",
-        "kód": "1850",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1850",
+      "kód": "1850",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/2"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -626,21 +673,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Katedra distribuovaných a spolehlivých systémů",
-            "en": "Department of Distributed and Dependable Systems"
-        }
+      "název": {
+          "cs":  "Katedra distribuovaných a spolehlivých systémů",
+          "en":  "Department of Distributed and Dependable Systems"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1294",
-        "kód": "1294",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1294",
+      "kód": "1294",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/2"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -648,21 +695,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Katedra softwarového inženýrství",
-            "en": "Department of Software Engineering"
-        }
+      "název": {
+          "cs":  "Katedra softwarového inženýrství",
+          "en":  "Department of Software Engineering"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1295",
-        "kód": "1295",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1295",
+      "kód": "1295",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/2"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -670,21 +717,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Katedra teoretické informatiky a matematické logiky",
-            "en": "Department of Theoretical Computer Science and Mathematical Logic"
-        }
+      "název": {
+          "cs":  "Katedra teoretické informatiky a matematické logiky",
+          "en":  "Department of Theoretical Computer Science and Mathematical Logic"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1296",
-        "kód": "1296",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1296",
+      "kód": "1296",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/2"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -692,21 +739,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Středisko informatické sítě a laboratoří",
-            "en": "Network and Labs Management Center"
-        }
+      "název": {
+          "cs":  "Středisko informatické sítě a laboratoří",
+          "en":  "Network and Labs Management Center"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1297",
-        "kód": "1297",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1297",
+      "kód": "1297",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/2"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -714,21 +761,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Ústav formální a aplikované lingvistiky",
-            "en": "Institute of Formal and Applied Linguistics"
-        }
+      "název": {
+          "cs":  "Ústav formální a aplikované lingvistiky",
+          "en":  "Institute of Formal and Applied Linguistics"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/2110",
-        "kód": "2110",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/2110",
+      "kód": "2110",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/2"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -736,21 +783,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Informatický ústav Univerzity Karlovy",
-            "en": "Computer Science Institute of Charles University"
-        }
+      "název": {
+          "cs":  "Informatický ústav Univerzity Karlovy",
+          "en":  "Computer Science Institute of Charles University"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1309",
-        "kód": "1309",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1309",
+      "kód": "1309",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/3"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -758,21 +805,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Katedra algebry",
-            "en": "Department of Algebra"
-        }
+      "název": {
+          "cs":  "Katedra algebry",
+          "en":  "Department of Algebra"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1310",
-        "kód": "1310",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1310",
+      "kód": "1310",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/3"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -780,21 +827,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Katedra didaktiky matematiky",
-            "en": "Department of Mathematics Education"
-        }
+      "název": {
+          "cs":  "Katedra didaktiky matematiky",
+          "en":  "Department of Mathematics Education"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1311",
-        "kód": "1311",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1311",
+      "kód": "1311",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/3"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -802,21 +849,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Katedra matematické analýzy",
-            "en": "Department of Mathematical Analysis"
-        }
+      "název": {
+          "cs":  "Katedra matematické analýzy",
+          "en":  "Department of Mathematical Analysis"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1313",
-        "kód": "1313",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1313",
+      "kód": "1313",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/3"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -824,21 +871,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Katedra numerické matematiky",
-            "en": "Department of Numerical Mathematics"
-        }
+      "název": {
+          "cs":  "Katedra numerické matematiky",
+          "en":  "Department of Numerical Mathematics"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1314",
-        "kód": "1314",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1314",
+      "kód": "1314",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/3"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -846,21 +893,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Katedra pravděpodobnosti a matematické statistiky",
-            "en": "Department of Probability and Mathematical Statistics"
-        }
+      "název": {
+          "cs":  "Katedra pravděpodobnosti a matematické statistiky",
+          "en":  "Department of Probability and Mathematical Statistics"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1315",
-        "kód": "1315",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1315",
+      "kód": "1315",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/3"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -868,21 +915,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Matematický ústav UK",
-            "en": "Mathematical Institute of Charles University"
-        }
+      "název": {
+          "cs":  "Matematický ústav UK",
+          "en":  "Mathematical Institute of Charles University"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1204",
-        "kód": "1204",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1204",
+      "kód": "1204",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/5"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -890,21 +937,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Knihovna fakulty",
-            "en": "Library"
-        }
+      "název": {
+          "cs":  "Knihovna fakulty",
+          "en":  "Library"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1205",
-        "kód": "1205",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1205",
+      "kód": "1205",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/5"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -912,21 +959,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Katedra jazykové přípravy",
-            "en": "Department of Language Education"
-        }
+      "název": {
+          "cs":  "Katedra jazykové přípravy",
+          "en":  "Department of Language Education"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1206",
-        "kód": "1206",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1206",
+      "kód": "1206",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/5"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -934,21 +981,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Katedra tělesné výchovy",
-            "en": "Department of Physical Education"
-        }
+      "název": {
+          "cs":  "Katedra tělesné výchovy",
+          "en":  "Department of Physical Education"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1239",
-        "kód": "1239",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1239",
+      "kód": "1239",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/6"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -956,21 +1003,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Reprografické středisko fakulty",
-            "en": "Reprographic Centre"
-        }
+      "název": {
+          "cs":  "Reprografické středisko fakulty",
+          "en":  "Reprographic Centre"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1240",
-        "kód": "1240",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1240",
+      "kód": "1240",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/6"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -978,21 +1025,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Konferenční a společenské centrum \"Profesní dům\"",
-            "en": "Conference and Social Center \"House for Professed\""
-        }
+      "název": {
+          "cs":  "Konferenční a společenské centrum \"Profesní dům\"",
+          "en":  "Conference and Social Center \"House for Professed\""
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1241",
-        "kód": "1241",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1241",
+      "kód": "1241",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/7"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -1000,21 +1047,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Sekretariát",
-            "en": "Secretary Office"
-        }
+      "název": {
+          "cs":  "Sekretariát",
+          "en":  "Secretary Office"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1242",
-        "kód": "1242",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1242",
+      "kód": "1242",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/7"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -1022,21 +1069,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Hospodářské oddělení",
-            "en": "Financial Department"
-        }
+      "název": {
+          "cs":  "Hospodářské oddělení",
+          "en":  "Financial Department"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1244",
-        "kód": "1244",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1244",
+      "kód": "1244",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/7"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -1044,21 +1091,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Oddělení pro vědu a zahraniční styky",
-            "en": "Research and International Affairs Department"
-        }
+      "název": {
+          "cs":  "Oddělení pro vědu a zahraniční styky",
+          "en":  "Research and International Affairs Department"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1243",
-        "kód": "1243",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1243",
+      "kód": "1243",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/7"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -1066,21 +1113,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Studijní oddělení",
-            "en": "Student Affairs Department"
-        }
+      "název": {
+          "cs":  "Studijní oddělení",
+          "en":  "Student Affairs Department"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1246",
-        "kód": "1246",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1246",
+      "kód": "1246",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/7"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -1088,21 +1135,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Zaměstnanecké oddělení",
-            "en": "Department of Human Resources"
-        }
+      "název": {
+          "cs":  "Zaměstnanecké oddělení",
+          "en":  "Department of Human Resources"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1248",
-        "kód": "1248",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1248",
+      "kód": "1248",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/7"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -1110,21 +1157,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Správa počítačové sítě Karlov a centrálního informačního uzlu",
-            "en": "IS/IT Division"
-        }
+      "název": {
+          "cs":  "Správa počítačové sítě Karlov a centrálního informačního uzlu",
+          "en":  "IS/IT Division"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/2320",
-        "kód": "2320",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/2320",
+      "kód": "2320",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/7"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -1132,21 +1179,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Oddělení propagace a mediální komunikace",
-            "en": "Media Communications and PR Office"
-        }
+      "název": {
+          "cs":  "Oddělení propagace a mediální komunikace",
+          "en":  "Media Communications and PR Office"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1249",
-        "kód": "1249",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1249",
+      "kód": "1249",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/7"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -1154,21 +1201,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Správa budov",
-            "en": "Department of Building Maintenance"
-        }
+      "název": {
+          "cs":  "Správa budov",
+          "en":  "Department of Building Maintenance"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1250",
-        "kód": "1250",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1250",
+      "kód": "1250",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/7"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -1176,21 +1223,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Referát energetika",
-            "en": "Power Management Office"
-        }
+      "název": {
+          "cs":  "Referát energetika",
+          "en":  "Power Management Office"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1254",
-        "kód": "1254",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1254",
+      "kód": "1254",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/7"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -1198,21 +1245,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Referát požárního a bezpečnostního technika",
-            "en": "Fire and Security Division"
-        }
+      "název": {
+          "cs":  "Referát požárního a bezpečnostního technika",
+          "en":  "Fire and Security Division"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1255",
-        "kód": "1255",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1255",
+      "kód": "1255",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/7"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -1220,21 +1267,21 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Referát interního auditu a právních služeb",
-            "en": "Department of Internal Audit and Legal Services"
-        }
+      "název": {
+          "cs":  "Referát interního auditu a právních služeb",
+          "en":  "Department of Internal Audit and Legal Services"
+      }
     },
-    {
-        "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
-        "typ": "Pracoviště",
-        "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/100028726779",
-        "kód": "100028726779",
-        "je_součástí": {
+  {
+  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "typ": "Pracoviště",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/100028726779",
+      "kód": "100028726779",
+      "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/7"
-        },
-        "provozovatel": {
+      },
+"provozovatel": {
             "typ": "Osoba",
             "název": {
                 "cs": "Univerzita Karlova",
@@ -1242,9 +1289,9 @@
             },
             "ičo": "00216208"
         },
-        "název": {
-            "cs": "Oddělení firemní spolupráce a kariérního poradenství",
-            "en": "Department for Business Cooperation and Career Counselling"
-        }
+      "název": {
+          "cs":  "Oddělení firemní spolupráce a kariérního poradenství",
+          "en":  "Department for Business Cooperation and Career Counselling"
+      }
     }
 ]

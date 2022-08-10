@@ -8,16 +8,25 @@
 	<skos:prefLabel xml:lang="en">Organizational structure of FMP CUNI</skos:prefLabel>
 </rdf:Description>
 
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura"/>
+	<skos:prefLabel xml:lang="en">Faculty of Mathematics and Physics</skos:prefLabel>
+	<skos:notation>116</skos:notation>
+	<skos:prefLabel xml:lang="cs">Matematicko-fyzikální fakulta</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura">
+	<skos:prefLabel xml:lang="cs">Organizační struktura MFF UK</skos:prefLabel>
+</rdf:Description>
+
 <rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/0">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura"/>
 	<skos:prefLabel xml:lang="en">Authorities of the Faculty</skos:prefLabel>
 	<skos:notation>0</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116"/>
 	<skos:prefLabel xml:lang="cs">Orgány fakulty</skos:prefLabel>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura">
-	<skos:prefLabel xml:lang="cs">Organizační struktura MFF UK</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1">
@@ -25,6 +34,7 @@
 	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura"/>
 	<skos:prefLabel xml:lang="cs">Fyzikální sekce</skos:prefLabel>
 	<skos:notation>1</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116"/>
 	<skos:prefLabel xml:lang="en">School of Physics</skos:prefLabel>
 </rdf:Description>
 
@@ -33,6 +43,7 @@
 	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura"/>
 	<skos:prefLabel xml:lang="cs">Informatická sekce</skos:prefLabel>
 	<skos:notation>2</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116"/>
 	<skos:prefLabel xml:lang="en">School of Computer Science</skos:prefLabel>
 </rdf:Description>
 
@@ -41,6 +52,7 @@
 	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura"/>
 	<skos:prefLabel xml:lang="cs">Matematická sekce</skos:prefLabel>
 	<skos:notation>3</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116"/>
 	<skos:prefLabel xml:lang="en">School of Mathematics</skos:prefLabel>
 </rdf:Description>
 
@@ -49,6 +61,7 @@
 	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura"/>
 	<skos:prefLabel xml:lang="cs">Jiná pracoviště</skos:prefLabel>
 	<skos:notation>5</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116"/>
 	<skos:prefLabel xml:lang="en">Other Departments</skos:prefLabel>
 </rdf:Description>
 
@@ -57,6 +70,7 @@
 	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura"/>
 	<skos:prefLabel xml:lang="en">Technical Support</skos:prefLabel>
 	<skos:notation>6</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116"/>
 	<skos:prefLabel xml:lang="cs">Účelová zařízení</skos:prefLabel>
 </rdf:Description>
 
@@ -65,6 +79,7 @@
 	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura"/>
 	<skos:prefLabel xml:lang="en">Dean's Office</skos:prefLabel>
 	<skos:notation>7</skos:notation>
+	<skos:broaderTransitive rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116"/>
 	<skos:prefLabel xml:lang="cs">Děkanát</skos:prefLabel>
 </rdf:Description>
 

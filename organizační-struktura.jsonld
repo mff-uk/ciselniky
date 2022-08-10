@@ -10,8 +10,19 @@
   "položky": [
 {
       "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116",
+      "kód": "116",
+      "název": {
+          "cs":  "Matematicko-fyzikální fakulta",
+          "en":  "Faculty of Mathematics and Physics"
+      }
+    },{
+      "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/0",
       "kód": "0",
+      "skos:broaderTransitive": {
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116"
+      },
       "název": {
           "cs":  "Orgány fakulty",
           "en":  "Authorities of the Faculty"
@@ -20,6 +31,9 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1",
       "kód": "1",
+      "skos:broaderTransitive": {
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116"
+      },
       "název": {
           "cs":  "Fyzikální sekce",
           "en":  "School of Physics"
@@ -28,6 +42,9 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/2",
       "kód": "2",
+      "skos:broaderTransitive": {
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116"
+      },
       "název": {
           "cs":  "Informatická sekce",
           "en":  "School of Computer Science"
@@ -36,6 +53,9 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/3",
       "kód": "3",
+      "skos:broaderTransitive": {
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116"
+      },
       "název": {
           "cs":  "Matematická sekce",
           "en":  "School of Mathematics"
@@ -44,6 +64,9 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/5",
       "kód": "5",
+      "skos:broaderTransitive": {
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116"
+      },
       "název": {
           "cs":  "Jiná pracoviště",
           "en":  "Other Departments"
@@ -52,6 +75,9 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/6",
       "kód": "6",
+      "skos:broaderTransitive": {
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116"
+      },
       "název": {
           "cs":  "Účelová zařízení",
           "en":  "Technical Support"
@@ -60,6 +86,9 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/7",
       "kód": "7",
+      "skos:broaderTransitive": {
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116"
+      },
       "název": {
           "cs":  "Děkanát",
           "en":  "Dean's Office"
