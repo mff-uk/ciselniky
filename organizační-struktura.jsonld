@@ -20,7 +20,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/0",
       "kód": "0",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116"
       },
       "název": {
@@ -31,7 +31,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170",
       "kód": "1170",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116"
       },
       "název": {
@@ -42,7 +42,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1171",
       "kód": "1171",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116"
       },
       "název": {
@@ -53,7 +53,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1172",
       "kód": "1172",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116"
       },
       "název": {
@@ -64,7 +64,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1175",
       "kód": "1175",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116"
       },
       "název": {
@@ -75,7 +75,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1173",
       "kód": "1173",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116"
       },
       "název": {
@@ -86,7 +86,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1174",
       "kód": "1174",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116"
       },
       "název": {
@@ -97,7 +97,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/5",
       "kód": "5",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/0"
       },
       "název": {
@@ -108,7 +108,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/4",
       "kód": "4",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/0"
       },
       "název": {
@@ -119,7 +119,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/3",
       "kód": "3",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/0"
       },
       "název": {
@@ -130,7 +130,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/2",
       "kód": "2",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/0"
       },
       "název": {
@@ -141,7 +141,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1",
       "kód": "1",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/0"
       },
       "název": {
@@ -152,7 +152,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1190",
       "kód": "1190",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170"
       },
       "název": {
@@ -163,7 +163,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1191",
       "kód": "1191",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170"
       },
       "název": {
@@ -174,7 +174,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1214",
       "kód": "1214",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170"
       },
       "název": {
@@ -185,7 +185,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1215",
       "kód": "1215",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170"
       },
       "název": {
@@ -196,7 +196,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1220",
       "kód": "1220",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170"
       },
       "název": {
@@ -207,7 +207,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1231",
       "kód": "1231",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170"
       },
       "název": {
@@ -218,7 +218,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1251",
       "kód": "1251",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170"
       },
       "název": {
@@ -229,7 +229,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1262",
       "kód": "1262",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170"
       },
       "název": {
@@ -240,7 +240,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1271",
       "kód": "1271",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170"
       },
       "název": {
@@ -251,7 +251,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1276",
       "kód": "1276",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170"
       },
       "název": {
@@ -262,7 +262,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1277",
       "kód": "1277",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170"
       },
       "název": {
@@ -273,7 +273,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1284",
       "kód": "1284",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170"
       },
       "název": {
@@ -284,7 +284,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1290",
       "kód": "1290",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170"
       },
       "název": {
@@ -295,7 +295,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1291",
       "kód": "1291",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170"
       },
       "název": {
@@ -306,7 +306,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/100026003452",
       "kód": "100026003452",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170"
       },
       "název": {
@@ -317,7 +317,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1292",
       "kód": "1292",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1171"
       },
       "název": {
@@ -328,7 +328,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1293",
       "kód": "1293",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1171"
       },
       "název": {
@@ -339,7 +339,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1850",
       "kód": "1850",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1171"
       },
       "název": {
@@ -350,7 +350,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1294",
       "kód": "1294",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1171"
       },
       "název": {
@@ -361,7 +361,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1295",
       "kód": "1295",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1171"
       },
       "název": {
@@ -372,7 +372,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1296",
       "kód": "1296",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1171"
       },
       "název": {
@@ -383,7 +383,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1297",
       "kód": "1297",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1171"
       },
       "název": {
@@ -394,7 +394,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/2110",
       "kód": "2110",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1171"
       },
       "název": {
@@ -405,7 +405,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1309",
       "kód": "1309",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1172"
       },
       "název": {
@@ -416,7 +416,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1310",
       "kód": "1310",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1172"
       },
       "název": {
@@ -427,7 +427,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1311",
       "kód": "1311",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1172"
       },
       "název": {
@@ -438,7 +438,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1313",
       "kód": "1313",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1172"
       },
       "název": {
@@ -449,7 +449,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1314",
       "kód": "1314",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1172"
       },
       "název": {
@@ -460,7 +460,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1315",
       "kód": "1315",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1172"
       },
       "název": {
@@ -471,7 +471,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1204",
       "kód": "1204",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1175"
       },
       "název": {
@@ -482,7 +482,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1205",
       "kód": "1205",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1175"
       },
       "název": {
@@ -493,7 +493,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1206",
       "kód": "1206",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1175"
       },
       "název": {
@@ -504,7 +504,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1239",
       "kód": "1239",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1173"
       },
       "název": {
@@ -515,7 +515,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1240",
       "kód": "1240",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1173"
       },
       "název": {
@@ -526,7 +526,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1241",
       "kód": "1241",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1174"
       },
       "název": {
@@ -537,7 +537,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1242",
       "kód": "1242",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1174"
       },
       "název": {
@@ -548,7 +548,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1244",
       "kód": "1244",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1174"
       },
       "název": {
@@ -559,7 +559,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1243",
       "kód": "1243",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1174"
       },
       "název": {
@@ -570,7 +570,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1246",
       "kód": "1246",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1174"
       },
       "název": {
@@ -581,7 +581,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1248",
       "kód": "1248",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1174"
       },
       "název": {
@@ -592,7 +592,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/2320",
       "kód": "2320",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1174"
       },
       "název": {
@@ -603,7 +603,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1249",
       "kód": "1249",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1174"
       },
       "název": {
@@ -614,7 +614,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1250",
       "kód": "1250",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1174"
       },
       "název": {
@@ -625,7 +625,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1254",
       "kód": "1254",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1174"
       },
       "název": {
@@ -636,7 +636,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1255",
       "kód": "1255",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1174"
       },
       "název": {
@@ -647,7 +647,7 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/100028726779",
       "kód": "100028726779",
-      "skos:broaderTransitive": {
+      "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1174"
       },
       "název": {

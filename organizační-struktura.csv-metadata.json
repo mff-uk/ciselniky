@@ -86,7 +86,7 @@
 			"titles": "číselník_položka_tranzitivně_širší_položka",
 			"dc:description": "Tranzitivně širší položka",
 			"aboutUrl": "{+polozka}",
-			"propertyUrl": "skos:broaderTransitive",
+			"propertyUrl": "skos:broader",
 			"required": false,
 			"datatype": "anyURI"
 		},{
