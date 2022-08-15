@@ -153,7 +153,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1190",
       "kód": "1190",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170"
       },
       "název": {
           "cs":  "Astronomický ústav UK",
@@ -164,7 +164,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1191",
       "kód": "1191",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170"
       },
       "název": {
           "cs":  "Fyzikální ústav UK",
@@ -175,7 +175,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1214",
       "kód": "1214",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170"
       },
       "název": {
           "cs":  "Kabinet výuky obecné fyziky",
@@ -186,7 +186,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1215",
       "kód": "1215",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170"
       },
       "název": {
           "cs":  "Katedra didaktiky fyziky",
@@ -197,7 +197,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1220",
       "kód": "1220",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170"
       },
       "název": {
           "cs":  "Katedra fyziky povrchů a plazmatu",
@@ -208,7 +208,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1231",
       "kód": "1231",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170"
       },
       "název": {
           "cs":  "Katedra fyziky materiálů",
@@ -219,7 +219,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1251",
       "kód": "1251",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170"
       },
       "název": {
           "cs":  "Katedra fyziky nízkých teplot",
@@ -230,7 +230,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1262",
       "kód": "1262",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170"
       },
       "název": {
           "cs":  "Katedra fyziky kondenzovaných látek",
@@ -241,7 +241,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1271",
       "kód": "1271",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170"
       },
       "název": {
           "cs":  "Katedra makromolekulární fyziky",
@@ -252,7 +252,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1276",
       "kód": "1276",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170"
       },
       "název": {
           "cs":  "Katedra geofyziky",
@@ -263,7 +263,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1277",
       "kód": "1277",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170"
       },
       "název": {
           "cs":  "Katedra chemické fyziky a optiky",
@@ -274,7 +274,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1284",
       "kód": "1284",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170"
       },
       "název": {
           "cs":  "Ústav částicové a jaderné fyziky",
@@ -285,7 +285,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1290",
       "kód": "1290",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170"
       },
       "název": {
           "cs":  "Katedra fyziky atmosféry",
@@ -296,7 +296,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1291",
       "kód": "1291",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170"
       },
       "název": {
           "cs":  "Ústav teoretické fyziky",
@@ -307,7 +307,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/100026003452",
       "kód": "100026003452",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170"
       },
       "název": {
           "cs":  "Počítačová síť Troja",
@@ -318,7 +318,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1292",
       "kód": "1292",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/2"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1171"
       },
       "název": {
           "cs":  "Katedra softwaru a výuky informatiky",
@@ -329,7 +329,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1293",
       "kód": "1293",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/2"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1171"
       },
       "název": {
           "cs":  "Katedra aplikované matematiky",
@@ -340,7 +340,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1850",
       "kód": "1850",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/2"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1171"
       },
       "název": {
           "cs":  "Katedra distribuovaných a spolehlivých systémů",
@@ -351,7 +351,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1294",
       "kód": "1294",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/2"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1171"
       },
       "název": {
           "cs":  "Katedra softwarového inženýrství",
@@ -362,7 +362,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1295",
       "kód": "1295",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/2"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1171"
       },
       "název": {
           "cs":  "Katedra teoretické informatiky a matematické logiky",
@@ -373,7 +373,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1296",
       "kód": "1296",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/2"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1171"
       },
       "název": {
           "cs":  "Středisko informatické sítě a laboratoří",
@@ -384,7 +384,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1297",
       "kód": "1297",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/2"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1171"
       },
       "název": {
           "cs":  "Ústav formální a aplikované lingvistiky",
@@ -395,7 +395,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/2110",
       "kód": "2110",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/2"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1171"
       },
       "název": {
           "cs":  "Informatický ústav Univerzity Karlovy",
@@ -406,7 +406,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1309",
       "kód": "1309",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/3"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1172"
       },
       "název": {
           "cs":  "Katedra algebry",
@@ -417,7 +417,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1310",
       "kód": "1310",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/3"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1172"
       },
       "název": {
           "cs":  "Katedra didaktiky matematiky",
@@ -428,7 +428,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1311",
       "kód": "1311",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/3"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1172"
       },
       "název": {
           "cs":  "Katedra matematické analýzy",
@@ -439,7 +439,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1313",
       "kód": "1313",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/3"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1172"
       },
       "název": {
           "cs":  "Katedra numerické matematiky",
@@ -450,7 +450,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1314",
       "kód": "1314",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/3"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1172"
       },
       "název": {
           "cs":  "Katedra pravděpodobnosti a matematické statistiky",
@@ -461,7 +461,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1315",
       "kód": "1315",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/3"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1172"
       },
       "název": {
           "cs":  "Matematický ústav UK",
@@ -472,7 +472,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1204",
       "kód": "1204",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/5"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1175"
       },
       "název": {
           "cs":  "Knihovna fakulty",
@@ -483,7 +483,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1205",
       "kód": "1205",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/5"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1175"
       },
       "název": {
           "cs":  "Katedra jazykové přípravy",
@@ -494,7 +494,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1206",
       "kód": "1206",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/5"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1175"
       },
       "název": {
           "cs":  "Katedra tělesné výchovy",
@@ -505,7 +505,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1239",
       "kód": "1239",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/6"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1173"
       },
       "název": {
           "cs":  "Reprografické středisko fakulty",
@@ -516,7 +516,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1240",
       "kód": "1240",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/6"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1173"
       },
       "název": {
           "cs":  "Konferenční a společenské centrum \"Profesní dům\"",
@@ -527,7 +527,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1241",
       "kód": "1241",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/7"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1174"
       },
       "název": {
           "cs":  "Sekretariát",
@@ -538,7 +538,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1242",
       "kód": "1242",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/7"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1174"
       },
       "název": {
           "cs":  "Hospodářské oddělení",
@@ -549,7 +549,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1244",
       "kód": "1244",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/7"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1174"
       },
       "název": {
           "cs":  "Oddělení pro vědu a zahraniční styky",
@@ -560,7 +560,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1243",
       "kód": "1243",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/7"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1174"
       },
       "název": {
           "cs":  "Studijní oddělení",
@@ -571,7 +571,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1246",
       "kód": "1246",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/7"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1174"
       },
       "název": {
           "cs":  "Zaměstnanecké oddělení",
@@ -582,7 +582,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1248",
       "kód": "1248",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/7"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1174"
       },
       "název": {
           "cs":  "Správa počítačové sítě Karlov a centrálního informačního uzlu",
@@ -593,7 +593,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/2320",
       "kód": "2320",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/7"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1174"
       },
       "název": {
           "cs":  "Oddělení propagace a mediální komunikace",
@@ -604,7 +604,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1249",
       "kód": "1249",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/7"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1174"
       },
       "název": {
           "cs":  "Správa budov",
@@ -615,7 +615,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1250",
       "kód": "1250",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/7"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1174"
       },
       "název": {
           "cs":  "Referát energetika",
@@ -626,7 +626,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1254",
       "kód": "1254",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/7"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1174"
       },
       "název": {
           "cs":  "Referát požárního a bezpečnostního technika",
@@ -637,7 +637,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1255",
       "kód": "1255",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/7"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1174"
       },
       "název": {
           "cs":  "Referát interního auditu a právních služeb",
@@ -648,7 +648,7 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/100028726779",
       "kód": "100028726779",
       "skos:broaderTransitive": {
-            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/7"
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1174"
       },
       "název": {
           "cs":  "Oddělení firemní spolupráce a kariérního poradenství",
