@@ -1,10 +1,25 @@
 
 [
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116",
       "kód": "116",
+      "kolekce": {
+            "typ": "Kolekce",
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/kolekce/fakulty"
+      },
 "provozovatel": {
             "typ": "Osoba",
             "název": {
@@ -19,7 +34,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/0",
       "kód": "0",
@@ -41,13 +67,28 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170",
       "kód": "1170",
       "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116"
+      },
+      "kolekce": {
+            "typ": "Kolekce",
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/kolekce/sekce"
       },
 "provozovatel": {
             "typ": "Osoba",
@@ -63,13 +104,28 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1171",
       "kód": "1171",
       "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116"
+      },
+      "kolekce": {
+            "typ": "Kolekce",
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/kolekce/sekce"
       },
 "provozovatel": {
             "typ": "Osoba",
@@ -85,13 +141,28 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1172",
       "kód": "1172",
       "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116"
+      },
+      "kolekce": {
+            "typ": "Kolekce",
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/kolekce/sekce"
       },
 "provozovatel": {
             "typ": "Osoba",
@@ -107,7 +178,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1175",
       "kód": "1175",
@@ -129,7 +211,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1173",
       "kód": "1173",
@@ -151,7 +244,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1174",
       "kód": "1174",
@@ -173,7 +277,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/5",
       "kód": "5",
@@ -195,7 +310,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/4",
       "kód": "4",
@@ -217,7 +343,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/3",
       "kód": "3",
@@ -239,7 +376,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/2",
       "kód": "2",
@@ -261,7 +409,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1",
       "kód": "1",
@@ -283,7 +442,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1190",
       "kód": "1190",
@@ -305,7 +475,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1191",
       "kód": "1191",
@@ -327,7 +508,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1214",
       "kód": "1214",
@@ -349,7 +541,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1215",
       "kód": "1215",
@@ -371,7 +574,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1220",
       "kód": "1220",
@@ -393,7 +607,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1231",
       "kód": "1231",
@@ -415,7 +640,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1251",
       "kód": "1251",
@@ -437,7 +673,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1262",
       "kód": "1262",
@@ -459,7 +706,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1271",
       "kód": "1271",
@@ -481,7 +739,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1276",
       "kód": "1276",
@@ -503,7 +772,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1277",
       "kód": "1277",
@@ -525,7 +805,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1284",
       "kód": "1284",
@@ -547,7 +838,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1290",
       "kód": "1290",
@@ -569,7 +871,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1291",
       "kód": "1291",
@@ -591,7 +904,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/100026003452",
       "kód": "100026003452",
@@ -613,7 +937,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1292",
       "kód": "1292",
@@ -635,7 +970,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1293",
       "kód": "1293",
@@ -657,7 +1003,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1850",
       "kód": "1850",
@@ -679,7 +1036,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1294",
       "kód": "1294",
@@ -701,7 +1069,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1295",
       "kód": "1295",
@@ -723,7 +1102,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1296",
       "kód": "1296",
@@ -745,7 +1135,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1297",
       "kód": "1297",
@@ -767,7 +1168,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/2110",
       "kód": "2110",
@@ -789,7 +1201,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1309",
       "kód": "1309",
@@ -811,7 +1234,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1310",
       "kód": "1310",
@@ -833,7 +1267,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1311",
       "kód": "1311",
@@ -855,7 +1300,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1313",
       "kód": "1313",
@@ -877,7 +1333,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1314",
       "kód": "1314",
@@ -899,7 +1366,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1315",
       "kód": "1315",
@@ -921,7 +1399,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1204",
       "kód": "1204",
@@ -943,7 +1432,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1205",
       "kód": "1205",
@@ -965,7 +1465,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1206",
       "kód": "1206",
@@ -987,7 +1498,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1239",
       "kód": "1239",
@@ -1009,7 +1531,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1240",
       "kód": "1240",
@@ -1031,7 +1564,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1241",
       "kód": "1241",
@@ -1053,7 +1597,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1242",
       "kód": "1242",
@@ -1075,7 +1630,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1244",
       "kód": "1244",
@@ -1097,7 +1663,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1243",
       "kód": "1243",
@@ -1119,7 +1696,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1246",
       "kód": "1246",
@@ -1141,7 +1729,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1248",
       "kód": "1248",
@@ -1163,7 +1762,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/2320",
       "kód": "2320",
@@ -1185,7 +1795,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1249",
       "kód": "1249",
@@ -1207,7 +1828,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1250",
       "kód": "1250",
@@ -1229,7 +1861,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1254",
       "kód": "1254",
@@ -1251,7 +1894,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/1255",
       "kód": "1255",
@@ -1273,7 +1927,18 @@
       }
     },
   {
-  "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "typ": "Pracoviště",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/100028726779",
       "kód": "100028726779",

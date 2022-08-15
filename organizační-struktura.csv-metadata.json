@@ -80,15 +80,30 @@
 			"required": true,
 			"datatype": "string",
 			"lang": "en"
-		},  {
+		}, {
 			"@type": "Column",
-			"name": "polozka_tranzitivne_sirsi_polozka",
-			"titles": "číselník_položka_tranzitivně_širší_položka",
-			"dc:description": "Tranzitivně širší položka",
+			"name": "polozka_sirsi_polozka",
+			"titles": "číselník_položka_širší_položka",
+			"dc:description": "Širší položka",
 			"aboutUrl": "{+polozka}",
 			"propertyUrl": "skos:broader",
 			"required": false,
 			"datatype": "anyURI"
+		}, {
+			"@type": "Column",
+			"name": "kolekce",
+			"titles": "číselník_položka_kolekce",
+			"dc:description": "Kolekce",
+			"aboutUrl": "{+kolekce}",
+			"propertyUrl": "skos:member",
+            "valueUrl": "{+polozka}",
+			"virtual": true
+		},{
+			"@type": "Column",
+			"aboutUrl": "{+kolekce}",
+			"propertyUrl": "rdf:type",
+            "valueUrl": "skos:Collection",
+			"virtual": true
 		},{
 			"@type": "Column",
 			"aboutUrl": "{+polozka}",

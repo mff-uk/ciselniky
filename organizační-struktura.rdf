@@ -8,6 +8,11 @@
 	<skos:prefLabel xml:lang="en">Organizational structure of FMP CUNI</skos:prefLabel>
 </rdf:Description>
 
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/kolekce/fakulty">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Collection"/>
+	<skos:member rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116"/>
+</rdf:Description>
+
 <rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura"/>
@@ -29,6 +34,11 @@
 	<skos:prefLabel xml:lang="cs">Orgány fakulty</skos:prefLabel>
 </rdf:Description>
 
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/kolekce/sekce">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Collection"/>
+	<skos:member rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170"/>
+</rdf:Description>
+
 <rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura"/>
@@ -38,6 +48,10 @@
 	<skos:prefLabel xml:lang="en">School of Physics</skos:prefLabel>
 </rdf:Description>
 
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/kolekce/sekce">
+	<skos:member rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1171"/>
+</rdf:Description>
+
 <rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1171">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura"/>
@@ -45,6 +59,10 @@
 	<skos:notation>1171</skos:notation>
 	<skos:broader rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116"/>
 	<skos:prefLabel xml:lang="en">School of Computer Science</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/kolekce/sekce">
+	<skos:member rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1172"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1172">

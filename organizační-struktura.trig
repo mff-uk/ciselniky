@@ -4,6 +4,10 @@
   <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura> a skos:ConceptScheme;
     skos:prefLabel "Organizational structure of FMP CUNI"@en, "Organizační struktura MFF UK"@cs .
   
+  <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/kolekce/fakulty> a
+      skos:Collection;
+    skos:member <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116> .
+  
   <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116> a skos:Concept;
     skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
     skos:prefLabel "Faculty of Mathematics and Physics"@en, "Matematicko-fyzikální fakulta"@cs;
@@ -14,6 +18,10 @@
     skos:prefLabel "Authorities of the Faculty"@en, "Orgány fakulty"@cs;
     skos:notation "0";
     skos:broader <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116> .
+  
+  <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/kolekce/sekce> a skos:Collection;
+    skos:member <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170>,
+      <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1171>, <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1172> .
   
   <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170> a skos:Concept;
     skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;

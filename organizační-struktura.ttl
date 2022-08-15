@@ -3,10 +3,17 @@
 @prefix skupiny: <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/> .
 @prefix fakulty: <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/> .
 @prefix oddělení: <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/> .
+@prefix kolekce: <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/kolekce/> .
 
 číselník: a skos:ConceptScheme;
   skos:hasTopConcept fakulty:116 ;
   skos:prefLabel "Organizational structure of FMP CUNI"@en, "Organizační struktura MFF UK"@cs .
+
+kolekce:sekce a skos:Collection ;
+  skos:member skupiny:1170, skupiny:1171, skupiny:1172.
+  
+kolekce:fakulty a skos:Collection ;
+  skos:member fakulty:116.
 
 fakulty:116 a skos:Concept;
   skos:prefLabel "Faculty of Mathematics and Physics"@en, "Matematicko-fyzikální fakulta"@cs;

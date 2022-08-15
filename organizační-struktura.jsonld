@@ -1,6 +1,17 @@
 
 {
-  "@context": "https://ofn.gov.cz/číselníky/2022-02-08/kontexty/číselník.jsonld",
+  "@context": [
+      "https://ofn.gov.cz/číselníky/2022-02-08/kontexty/číselník.jsonld",
+      {
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "Kolekce": {
+                  "@id": "skos:Collection"
+            },
+            "kolekce": {
+                  "@reverse": "skos:member"
+            }
+      }
+  ],
   "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura",
   "typ": "Číselník",
   "název": {
@@ -12,6 +23,10 @@
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116",
       "kód": "116",
+      "kolekce": {
+            "typ": "Kolekce",
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/kolekce/fakulty"
+      },
       "název": {
           "cs":  "Matematicko-fyzikální fakulta",
           "en":  "Faculty of Mathematics and Physics"
@@ -34,6 +49,10 @@
       "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116"
       },
+      "kolekce": {
+            "typ": "Kolekce",
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/kolekce/sekce"
+      },
       "název": {
           "cs":  "Fyzikální sekce",
           "en":  "School of Physics"
@@ -45,6 +64,10 @@
       "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116"
       },
+      "kolekce": {
+            "typ": "Kolekce",
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/kolekce/sekce"
+      },
       "název": {
           "cs":  "Informatická sekce",
           "en":  "School of Computer Science"
@@ -55,6 +78,10 @@
       "kód": "1172",
       "skos:broader": {
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116"
+      },
+      "kolekce": {
+            "typ": "Kolekce",
+            "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/kolekce/sekce"
       },
       "název": {
           "cs":  "Matematická sekce",
