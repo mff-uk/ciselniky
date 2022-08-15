@@ -43,8 +43,8 @@
   {
   "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
   "typ": "Pracoviště",
-      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1",
-      "kód": "1",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170",
+      "kód": "1170",
       "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116"
@@ -65,8 +65,8 @@
   {
   "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
   "typ": "Pracoviště",
-      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/2",
-      "kód": "2",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1171",
+      "kód": "1171",
       "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116"
@@ -87,8 +87,8 @@
   {
   "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
   "typ": "Pracoviště",
-      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/3",
-      "kód": "3",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1172",
+      "kód": "1172",
       "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116"
@@ -109,8 +109,8 @@
   {
   "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
   "typ": "Pracoviště",
-      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/5",
-      "kód": "5",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1175",
+      "kód": "1175",
       "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116"
@@ -131,8 +131,8 @@
   {
   "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
   "typ": "Pracoviště",
-      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/6",
-      "kód": "6",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1173",
+      "kód": "1173",
       "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116"
@@ -153,8 +153,8 @@
   {
   "@context": "https://ofn.gov.cz/práce/2021-09-23/kontexty/práce.jsonld",
   "typ": "Pracoviště",
-      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/7",
-      "kód": "7",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1174",
+      "kód": "1174",
       "je_součástí": {
             "typ": "Pracoviště",
             "iri": "https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116"

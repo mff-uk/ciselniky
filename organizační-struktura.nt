@@ -12,42 +12,42 @@
 <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/0> <http://www.w3.org/2004/02/skos/core#notation> "0" .
 <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/0> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116> .
 <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/0> <http://www.w3.org/2004/02/skos/core#prefLabel> "Orgány fakulty"@cs .
-<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura> .
-<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fyzikální sekce"@cs .
-<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1> <http://www.w3.org/2004/02/skos/core#notation> "1" .
-<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116> .
-<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1> <http://www.w3.org/2004/02/skos/core#prefLabel> "School of Physics"@en .
-<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/2> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura> .
-<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/2> <http://www.w3.org/2004/02/skos/core#prefLabel> "Informatická sekce"@cs .
-<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/2> <http://www.w3.org/2004/02/skos/core#notation> "2" .
-<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/2> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116> .
-<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/2> <http://www.w3.org/2004/02/skos/core#prefLabel> "School of Computer Science"@en .
-<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/3> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura> .
-<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/3> <http://www.w3.org/2004/02/skos/core#prefLabel> "Matematická sekce"@cs .
-<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/3> <http://www.w3.org/2004/02/skos/core#notation> "3" .
-<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/3> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116> .
-<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/3> <http://www.w3.org/2004/02/skos/core#prefLabel> "School of Mathematics"@en .
-<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/5> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura> .
-<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/5> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jiná pracoviště"@cs .
-<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/5> <http://www.w3.org/2004/02/skos/core#notation> "5" .
-<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/5> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116> .
-<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/5> <http://www.w3.org/2004/02/skos/core#prefLabel> "Other Departments"@en .
-<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/6> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura> .
-<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/6> <http://www.w3.org/2004/02/skos/core#prefLabel> "Technical Support"@en .
-<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/6> <http://www.w3.org/2004/02/skos/core#notation> "6" .
-<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/6> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116> .
-<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/6> <http://www.w3.org/2004/02/skos/core#prefLabel> "Účelová zařízení"@cs .
-<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/7> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura> .
-<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/7> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dean's Office"@en .
-<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/7> <http://www.w3.org/2004/02/skos/core#notation> "7" .
-<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/7> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116> .
-<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/7> <http://www.w3.org/2004/02/skos/core#prefLabel> "Děkanát"@cs .
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura> .
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fyzikální sekce"@cs .
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170> <http://www.w3.org/2004/02/skos/core#notation> "1170" .
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116> .
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170> <http://www.w3.org/2004/02/skos/core#prefLabel> "School of Physics"@en .
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1171> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1171> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura> .
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1171> <http://www.w3.org/2004/02/skos/core#prefLabel> "Informatická sekce"@cs .
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1171> <http://www.w3.org/2004/02/skos/core#notation> "1171" .
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1171> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116> .
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1171> <http://www.w3.org/2004/02/skos/core#prefLabel> "School of Computer Science"@en .
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1172> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1172> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura> .
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1172> <http://www.w3.org/2004/02/skos/core#prefLabel> "Matematická sekce"@cs .
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1172> <http://www.w3.org/2004/02/skos/core#notation> "1172" .
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1172> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116> .
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1172> <http://www.w3.org/2004/02/skos/core#prefLabel> "School of Mathematics"@en .
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1175> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1175> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura> .
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1175> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jiná pracoviště"@cs .
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1175> <http://www.w3.org/2004/02/skos/core#notation> "1175" .
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1175> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116> .
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1175> <http://www.w3.org/2004/02/skos/core#prefLabel> "Other Departments"@en .
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1173> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura> .
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1173> <http://www.w3.org/2004/02/skos/core#prefLabel> "Technical Support"@en .
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1173> <http://www.w3.org/2004/02/skos/core#notation> "1173" .
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1173> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116> .
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1173> <http://www.w3.org/2004/02/skos/core#prefLabel> "Účelová zařízení"@cs .
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1174> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura> .
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1174> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dean's Office"@en .
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1174> <http://www.w3.org/2004/02/skos/core#notation> "1174" .
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1174> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116> .
+<https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1174> <http://www.w3.org/2004/02/skos/core#prefLabel> "Děkanát"@cs .
 <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/5> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura> .
 <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/5> <http://www.w3.org/2004/02/skos/core#prefLabel> "Poradní orgány vedení fakulty"@cs .

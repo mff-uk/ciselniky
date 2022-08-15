@@ -15,40 +15,40 @@
     skos:notation "0";
     skos:broaderTransitive <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116> .
   
-  <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1> a skos:Concept;
+  <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1170> a skos:Concept;
     skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
     skos:prefLabel "Fyzikální sekce"@cs, "School of Physics"@en;
-    skos:notation "1";
+    skos:notation "1170";
     skos:broaderTransitive <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116> .
   
-  <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/2> a skos:Concept;
+  <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1171> a skos:Concept;
     skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
     skos:prefLabel "Informatická sekce"@cs, "School of Computer Science"@en;
-    skos:notation "2";
+    skos:notation "1171";
     skos:broaderTransitive <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116> .
   
-  <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/3> a skos:Concept;
+  <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1172> a skos:Concept;
     skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
     skos:prefLabel "Matematická sekce"@cs, "School of Mathematics"@en;
-    skos:notation "3";
+    skos:notation "1172";
     skos:broaderTransitive <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116> .
   
-  <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/5> a skos:Concept;
+  <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1175> a skos:Concept;
     skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
     skos:prefLabel "Jiná pracoviště"@cs, "Other Departments"@en;
-    skos:notation "5";
+    skos:notation "1175";
     skos:broaderTransitive <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116> .
   
-  <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/6> a skos:Concept;
+  <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1173> a skos:Concept;
     skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
     skos:prefLabel "Technical Support"@en, "Účelová zařízení"@cs;
-    skos:notation "6";
+    skos:notation "1173";
     skos:broaderTransitive <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116> .
   
-  <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/7> a skos:Concept;
+  <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/skupiny/1174> a skos:Concept;
     skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura>;
     skos:prefLabel "Dean's Office"@en, "Děkanát"@cs;
-    skos:notation "7";
+    skos:notation "1174";
     skos:broaderTransitive <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/fakulty/116> .
   
   <https://data.mff.cuni.cz/zdroj/číselníky/organizační-struktura/oddělení/5> a skos:Concept;

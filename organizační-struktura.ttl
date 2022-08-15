@@ -19,40 +19,40 @@ skupiny:0 a skos:Concept;
   skos:notation "0" ;
   skos:broaderTransitive fakulty:116 .
 
-skupiny:1 a skos:Concept;
+skupiny:1170 a skos:Concept;
   skos:prefLabel "Fyzikální sekce"@cs, "School of Physics"@en;
   skos:inScheme číselník:;
-  skos:notation "1" ;
+  skos:notation "1170" ;
   skos:broaderTransitive fakulty:116 .
 
-skupiny:2 a skos:Concept;
+skupiny:1171 a skos:Concept;
   skos:prefLabel "Informatická sekce"@cs, "School of Computer Science"@en;
   skos:inScheme číselník:;
-  skos:notation "2" ;
+  skos:notation "1171" ;
   skos:broaderTransitive fakulty:116 .
 
-skupiny:3 a skos:Concept;
+skupiny:1172 a skos:Concept;
   skos:prefLabel "Matematická sekce"@cs, "School of Mathematics"@en;
   skos:inScheme číselník:;
-  skos:notation "3" ;
+  skos:notation "1172" ;
   skos:broaderTransitive fakulty:116 .
 
-skupiny:5 a skos:Concept;
+skupiny:1175 a skos:Concept;
   skos:prefLabel "Jiná pracoviště"@cs, "Other Departments"@en;
   skos:inScheme číselník:;
-  skos:notation "5" ;
+  skos:notation "1175" ;
   skos:broaderTransitive fakulty:116 .
 
-skupiny:6 a skos:Concept;
+skupiny:1173 a skos:Concept;
   skos:prefLabel "Technical Support"@en, "Účelová zařízení"@cs;
   skos:inScheme číselník:;
-  skos:notation "6" ;
+  skos:notation "1173" ;
   skos:broaderTransitive fakulty:116 .
 
-skupiny:7 a skos:Concept;
+skupiny:1174 a skos:Concept;
   skos:prefLabel "Dean's Office"@en, "Děkanát"@cs;
   skos:inScheme číselník:;
-  skos:notation "7" ;
+  skos:notation "1174" ;
   skos:broaderTransitive fakulty:116 .
 
 oddělení:5 a skos:Concept;
