@@ -1871,7 +1871,7 @@
 
 <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-zaměstnání-cz-isco-5/položky/23101>
   a skos:Concept;
-  skos:prefLabel "Vědečtí, výzkumní a vývojoví pracovníci na vysokých školách"@cs;
+  skos:prefLabel "Vědečtí, výzkumní a vývojoví pracovníci na vysokých školách"@cs, "Research Scientists at universities"@en;
   skos:notation "23101";
   skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-zaměstnání-cz-isco-5> .
 

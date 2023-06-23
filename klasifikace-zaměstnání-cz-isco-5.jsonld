@@ -2189,7 +2189,8 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-zaměstnání-cz-isco-5/položky/23101",
       "kód": "23101",
       "název": {
-          "cs":  "Vědečtí, výzkumní a vývojoví pracovníci na vysokých školách"
+          "cs":  "Vědečtí, výzkumní a vývojoví pracovníci na vysokých školách",
+          "en":  "Research Scientists at universities"
       }
     },{
       "typ": "Položka",
