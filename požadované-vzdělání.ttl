@@ -1,0 +1,56 @@
+
+<https://data.mff.cuni.cz/zdroj/číselníky/požadované-vzdělání> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Požadované vzdělání"@cs, "Required education"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/požadované-vzdělání/položky/BC> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/požadované-vzdělání>;
+  <http://www.w3.org/2004/02/skos/core#notation> "BC";
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Ukončené vysokoškolské vzdělání nebo srovnatelné postavení v zahraničí"@cs,
+    "University degree or comparable standing abroad"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/požadované-vzdělání/položky/DOC> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/požadované-vzdělání>;
+  <http://www.w3.org/2004/02/skos/core#notation> "DOC";
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Successful completion of the habilitation procedure or attainment of comparable status abroad"@cs,
+    "Úspěšné ukončení habilitačního řízení nebo dosažení srovnatelného postavení v zahraničí"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/požadované-vzdělání/položky/DR> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/požadované-vzdělání>;
+  <http://www.w3.org/2004/02/skos/core#notation> "DR";
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Titul Ph.D., CSc, Th.D. nebo srovnatelné postavení v zahraničí"@cs,
+    "Ph.D., CSc, Th.D. or comparable standing abroad"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/požadované-vzdělání/položky/MGR> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/požadované-vzdělání>;
+  <http://www.w3.org/2004/02/skos/core#notation> "MGR";
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Ukončené magisterské vzdělání nebo srovnatelné postavení v zahraničí"@cs,
+    "Master's degree or equivalent position abroad"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/požadované-vzdělání/položky/PROF> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/požadované-vzdělání>;
+  <http://www.w3.org/2004/02/skos/core#notation> "PROF";
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Úspěšné ukončení řízení ke jmenování profesorem nebo dosažení srovnatelného postavení v zahraničí"@cs,
+    "Successful completion of the procedure for appointment as a professor or attainment of comparable status abroad"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/požadované-vzdělání/položky/VOS> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/požadované-vzdělání>;
+  <http://www.w3.org/2004/02/skos/core#notation> "VOS";
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Vyšší odborné"@cs, "Higher professional school"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/požadované-vzdělání/položky/VYUCBEZM> a
+    <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/požadované-vzdělání>;
+  <http://www.w3.org/2004/02/skos/core#notation> "VYUCBEZM";
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Odborné vyučení bez maturity"@cs,
+    "Vocational school"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/požadované-vzdělání/položky/VYUCSM> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/požadované-vzdělání>;
+  <http://www.w3.org/2004/02/skos/core#notation> "VYUCSM";
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Středoškolské nebo odborné vyučení s maturitou"@cs,
+    "Secondary/High School"@en .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/požadované-vzdělání/položky/ZAK> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/požadované-vzdělání>;
+  <http://www.w3.org/2004/02/skos/core#notation> "ZAK";
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Základní"@cs, "Elementary school"@en .
