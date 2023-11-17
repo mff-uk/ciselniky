@@ -20,8 +20,8 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/požadované-vzdělání/položky/DOC",
       "kód": "DOC",
       "název": {
-        "cs": "Successful completion of the habilitation procedure or attainment of comparable status abroad",
-        "en": "Úspěšné ukončení habilitačního řízení nebo dosažení srovnatelného postavení v zahraničí"
+        "cs": "Úspěšné ukončení habilitačního řízení nebo dosažení srovnatelného postavení v zahraničí",
+        "en": "Successful completion of the habilitation procedure or attainment of comparable status abroad"
       }
     },{
       "typ": "Položka",
