@@ -5,8 +5,8 @@
 <https://data.mff.cuni.cz/zdroj/číselníky/požadované-vzdělání/položky/BC> a <http://www.w3.org/2004/02/skos/core#Concept>;
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/požadované-vzdělání>;
   <http://www.w3.org/2004/02/skos/core#notation> "BC";
-  <http://www.w3.org/2004/02/skos/core#prefLabel> "Ukončené vysokoškolské vzdělání nebo srovnatelné postavení v zahraničí"@cs,
-    "University degree or comparable standing abroad"@en .
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Ukončené vysokoškolské vzdělání nebo srovnatelné vzdělání v zahraničí"@cs,
+    "University degree or comparable education abroad"@en .
 
 <https://data.mff.cuni.cz/zdroj/číselníky/požadované-vzdělání/položky/DOC> a <http://www.w3.org/2004/02/skos/core#Concept>;
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/požadované-vzdělání>;
@@ -17,14 +17,14 @@
 <https://data.mff.cuni.cz/zdroj/číselníky/požadované-vzdělání/položky/DR> a <http://www.w3.org/2004/02/skos/core#Concept>;
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/požadované-vzdělání>;
   <http://www.w3.org/2004/02/skos/core#notation> "DR";
-  <http://www.w3.org/2004/02/skos/core#prefLabel> "Titul Ph.D., CSc, Th.D. nebo srovnatelné postavení v zahraničí"@cs,
-    "Ph.D., CSc, Th.D. or comparable standing abroad"@en .
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Titul Ph.D., CSc, Th.D. nebo srovnatelné vzdělání v zahraničí"@cs,
+    "Ph.D., CSc, Th.D. or comparable education abroad"@en .
 
 <https://data.mff.cuni.cz/zdroj/číselníky/požadované-vzdělání/položky/MGR> a <http://www.w3.org/2004/02/skos/core#Concept>;
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/požadované-vzdělání>;
   <http://www.w3.org/2004/02/skos/core#notation> "MGR";
-  <http://www.w3.org/2004/02/skos/core#prefLabel> "Ukončené magisterské vzdělání nebo srovnatelné postavení v zahraničí"@cs,
-    "Master's degree or equivalent position abroad"@en .
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Ukončené magisterské vzdělání nebo srovnatelné vzdělání v zahraničí"@cs,
+    "Master's degree or equivalent education abroad"@en .
 
 <https://data.mff.cuni.cz/zdroj/číselníky/požadované-vzdělání/položky/PROF> a <http://www.w3.org/2004/02/skos/core#Concept>;
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/požadované-vzdělání>;

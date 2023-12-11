@@ -12,8 +12,8 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/požadované-vzdělání/položky/BC",
       "kód": "BC",
       "název": {
-        "cs": "Ukončené vysokoškolské vzdělání nebo srovnatelné postavení v zahraničí",
-        "en": "University degree or comparable standing abroad"
+        "cs": "Ukončené vysokoškolské vzdělání nebo srovnatelné vzdělání v zahraničí",
+        "en": "University degree or comparable education abroad"
       }
     },{
       "typ": "Položka",
@@ -28,16 +28,16 @@
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/požadované-vzdělání/položky/DR",
       "kód": "DR",
       "název": {
-        "cs": "Titul Ph.D., CSc, Th.D. nebo srovnatelné postavení v zahraničí",
-        "en": "Ph.D., CSc, Th.D. or comparable standing abroad"
+        "cs": "Titul Ph.D., CSc, Th.D. nebo srovnatelné vzdělání v zahraničí",
+        "en": "Ph.D., CSc, Th.D. or comparable education abroad"
       }
     },{
       "typ": "Položka",
       "iri": "https://data.mff.cuni.cz/zdroj/číselníky/požadované-vzdělání/položky/MGR",
       "kód": "MGR",
       "název": {
-        "cs": "Ukončené magisterské vzdělání nebo srovnatelné postavení v zahraničí",
-        "en": "Master's degree or equivalent position abroad"
+        "cs": "Ukončené magisterské vzdělání nebo srovnatelné vzdělání v zahraničí",
+        "en": "Master's degree or equivalent education abroad"
       }
     },{
       "typ": "Položka",
