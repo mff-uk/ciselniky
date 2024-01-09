@@ -1,0 +1,38 @@
+<https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky> <http://www.w3.org/2004/02/skos/core#prefLabel> "Způsoby podání přihlášky na pracovní místo UK"@cs .
+<https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/datovou-schránkou> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/datovou-schránkou> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky> .
+<https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/datovou-schránkou> <http://www.w3.org/2004/02/skos/core#prefLabel> "Datovou schránkou"@cs .
+<https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/datovou-schránkou> <http://www.w3.org/2004/02/skos/core#notation> "datovou-schránkou" .
+<https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/datovou-schránkou> <http://www.w3.org/2004/02/skos/core#prefLabel> "Using a data box"@en .
+<https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky> <http://www.w3.org/2004/02/skos/core#prefLabel> "Means of submitting and application for a job at CUNI"@en .
+<https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/elektronicky> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/elektronicky> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky> .
+<https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/elektronicky> <http://www.w3.org/2004/02/skos/core#prefLabel> "Elektronicky"@cs .
+<https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/elektronicky> <http://www.w3.org/2004/02/skos/core#notation> "elektronicky" .
+<https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/elektronicky> <http://www.w3.org/2004/02/skos/core#prefLabel> "Electronically"@en .
+<https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/elektronicky-e-mail> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/elektronicky-e-mail> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky> .
+<https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/elektronicky-e-mail> <http://www.w3.org/2004/02/skos/core#prefLabel> "Elektronicky - e-mailem"@cs .
+<https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/elektronicky-e-mail> <http://www.w3.org/2004/02/skos/core#notation> "elektronicky-e-mail" .
+<https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/elektronicky-e-mail> <http://www.w3.org/2004/02/skos/core#prefLabel> "Electronically - E-mail"@en .
+<https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/elektronicky-s-podpisem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/elektronicky-s-podpisem> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky> .
+<https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/elektronicky-s-podpisem> <http://www.w3.org/2004/02/skos/core#prefLabel> "Elektronicky s elektronickým podpisem, ze kterého je možné ověřit identitu uchazeče"@cs .
+<https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/elektronicky-s-podpisem> <http://www.w3.org/2004/02/skos/core#notation> "elektronicky-s-podpisem" .
+<https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/elektronicky-s-podpisem> <http://www.w3.org/2004/02/skos/core#prefLabel> "Electronically with digital signature proving the applicant's identity"@en .
+<https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/elektronicky-web> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/elektronicky-web> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky> .
+<https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/elektronicky-web> <http://www.w3.org/2004/02/skos/core#prefLabel> "Elektronicky - webová stránka"@cs .
+<https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/elektronicky-web> <http://www.w3.org/2004/02/skos/core#notation> "elektronicky-web" .
+<https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/elektronicky-web> <http://www.w3.org/2004/02/skos/core#prefLabel> "Electronically - Website"@en .
+<https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/korespondenčně> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/korespondenčně> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky> .
+<https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/korespondenčně> <http://www.w3.org/2004/02/skos/core#prefLabel> "Korespondenčně"@cs .
+<https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/korespondenčně> <http://www.w3.org/2004/02/skos/core#notation> "korespondenčně" .
+<https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/korespondenčně> <http://www.w3.org/2004/02/skos/core#prefLabel> "By correspondence"@en .
+<https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/osobně> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/osobně> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky> .
+<https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/osobně> <http://www.w3.org/2004/02/skos/core#prefLabel> "Osobně"@cs .
+<https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/osobně> <http://www.w3.org/2004/02/skos/core#notation> "osobně" .
+<https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/osobně> <http://www.w3.org/2004/02/skos/core#prefLabel> "Personally"@en .

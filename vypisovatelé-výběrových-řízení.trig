@@ -1,0 +1,18 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/vypisovatelé-výběrových-řízení> {
+  <https://data.mff.cuni.cz/zdroj/číselníky/vypisovatelé-výběrových-řízení> a skos:ConceptScheme;
+    skos:prefLabel "Vypisovatelé výběrových řízení Univerzity Karlovy"@cs, "Publishers of employment positions at Charles University"@en .
+  
+  <https://data.mff.cuni.cz/zdroj/číselníky/vypisovatelé-výběrových-řízení/položky/děkan>
+    a skos:Concept;
+    skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/vypisovatelé-výběrových-řízení>;
+    skos:prefLabel "Děkan"@cs, "Dean"@en;
+    skos:notation "děkan" .
+  
+  <https://data.mff.cuni.cz/zdroj/číselníky/vypisovatelé-výběrových-řízení/položky/rektor>
+    a skos:Concept;
+    skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/vypisovatelé-výběrových-řízení>;
+    skos:prefLabel "Rektor"@cs, "Rector"@en;
+    skos:notation "rektor" .
+}

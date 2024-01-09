@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+	<skos:prefLabel xml:lang="cs">Způsoby podání přihlášky na pracovní místo UK</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/datovou-schránkou">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky"/>
+	<skos:prefLabel xml:lang="cs">Datovou schránkou</skos:prefLabel>
+	<skos:notation>datovou-schránkou</skos:notation>
+	<skos:prefLabel xml:lang="en">Using a data box</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky">
+	<skos:prefLabel xml:lang="en">Means of submitting and application for a job at CUNI</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/elektronicky">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky"/>
+	<skos:prefLabel xml:lang="cs">Elektronicky</skos:prefLabel>
+	<skos:notation>elektronicky</skos:notation>
+	<skos:prefLabel xml:lang="en">Electronically</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/elektronicky-e-mail">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky"/>
+	<skos:prefLabel xml:lang="cs">Elektronicky - e-mailem</skos:prefLabel>
+	<skos:notation>elektronicky-e-mail</skos:notation>
+	<skos:prefLabel xml:lang="en">Electronically - E-mail</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/elektronicky-s-podpisem">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky"/>
+	<skos:prefLabel xml:lang="cs">Elektronicky s elektronickým podpisem, ze kterého je možné ověřit identitu uchazeče</skos:prefLabel>
+	<skos:notation>elektronicky-s-podpisem</skos:notation>
+	<skos:prefLabel xml:lang="en">Electronically with digital signature proving the applicant's identity</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/elektronicky-web">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky"/>
+	<skos:prefLabel xml:lang="cs">Elektronicky - webová stránka</skos:prefLabel>
+	<skos:notation>elektronicky-web</skos:notation>
+	<skos:prefLabel xml:lang="en">Electronically - Website</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/korespondenčně">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky"/>
+	<skos:prefLabel xml:lang="cs">Korespondenčně</skos:prefLabel>
+	<skos:notation>korespondenčně</skos:notation>
+	<skos:prefLabel xml:lang="en">By correspondence</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/osobně">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky"/>
+	<skos:prefLabel xml:lang="cs">Osobně</skos:prefLabel>
+	<skos:notation>osobně</skos:notation>
+	<skos:prefLabel xml:lang="en">Personally</skos:prefLabel>
+</rdf:Description>
+
+</rdf:RDF>

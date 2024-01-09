@@ -1,45 +1,69 @@
+
 {
-	"@context": "https://ofn.gov.cz/číselníky/2022-02-08/kontexty/číselník.jsonld",
-	"iri": "https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky",
-	"typ": "Číselník",
-	"název": {
-		"cs": "Způsoby podání přihlášky na pracovní místo MFF UK",
-		"en": "Means of submitting and application for a job at FMP CUNI"
-	},
-	"položky": [{
-		"typ": "Položka",
-		"iri": "https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/osobně",
-		"název": {
-			"cs": "Osobně",
-			"en": "Perosnally"
-		}
-	}, {
-		"typ": "Položka",
-		"iri": "https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/korespondenčně",
-		"název": {
-			"cs": "Korespondenčně",
-			"en": "By correspondence"
-		}
-	}, {
-		"typ": "Položka",
-		"iri": "https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/elektronicky",
-		"název": {
-			"cs": "Elektronicky",
-			"en": "Electronically"
-		}
-	}, {
-		"typ": "Položka",
-		"iri": "https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/elektronicky-s-podpisem",
-		"název": {
-			"cs": "Elektronicky s elektronickým podpisem, ze kterého je možné ověřit identitu uchazeče",
-			"en": "Electronically with digital signature proving the applicant's identity"
-		}
-	}, {
-		"typ": "Položka",
-		"iri": "https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/datovou-schránkou",
-		"název": {
-			"cs": "Datovou schránkou",
-			"en": "Using a data box"
-		}
-	}]
+  "@context": "https://ofn.gov.cz/číselníky/2022-02-08/kontexty/číselník.jsonld",
+  "iri": "https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky",
+  "typ": "Číselník",
+  "název": {
+      "cs":  "Způsoby podání přihlášky na pracovní místo UK",
+      "en":  "Means of submitting and application for a job at CUNI"
+  },
+  "položky": [
+{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/datovou-schránkou",
+      "kód": "datovou-schránkou",
+      "název": {
+          "cs":  "Datovou schránkou",
+          "en":  "Using a data box"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/elektronicky",
+      "kód": "elektronicky",
+      "název": {
+          "cs":  "Elektronicky",
+          "en":  "Electronically"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/elektronicky-e-mail",
+      "kód": "elektronicky-e-mail",
+      "název": {
+          "cs":  "Elektronicky - e-mailem",
+          "en":  "Electronically - E-mail"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/elektronicky-s-podpisem",
+      "kód": "elektronicky-s-podpisem",
+      "název": {
+          "cs":  "Elektronicky s elektronickým podpisem, ze kterého je možné ověřit identitu uchazeče",
+          "en":  "Electronically with digital signature proving the applicant's identity"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/elektronicky-web",
+      "kód": "elektronicky-web",
+      "název": {
+          "cs":  "Elektronicky - webová stránka",
+          "en":  "Electronically - Website"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/korespondenčně",
+      "kód": "korespondenčně",
+      "název": {
+          "cs":  "Korespondenčně",
+          "en":  "By correspondence"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/způsoby-podání-přihlášky/položky/osobně",
+      "kód": "osobně",
+      "název": {
+          "cs":  "Osobně",
+          "en":  "Personally"
+      }
+    }
+  ]
 }

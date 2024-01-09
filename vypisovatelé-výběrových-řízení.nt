@@ -1,0 +1,13 @@
+<https://data.mff.cuni.cz/zdroj/číselníky/vypisovatelé-výběrových-řízení> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://data.mff.cuni.cz/zdroj/číselníky/vypisovatelé-výběrových-řízení> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vypisovatelé výběrových řízení Univerzity Karlovy"@cs .
+<https://data.mff.cuni.cz/zdroj/číselníky/vypisovatelé-výběrových-řízení/položky/děkan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mff.cuni.cz/zdroj/číselníky/vypisovatelé-výběrových-řízení/položky/děkan> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/vypisovatelé-výběrových-řízení> .
+<https://data.mff.cuni.cz/zdroj/číselníky/vypisovatelé-výběrových-řízení/položky/děkan> <http://www.w3.org/2004/02/skos/core#prefLabel> "Děkan"@cs .
+<https://data.mff.cuni.cz/zdroj/číselníky/vypisovatelé-výběrových-řízení/položky/děkan> <http://www.w3.org/2004/02/skos/core#notation> "děkan" .
+<https://data.mff.cuni.cz/zdroj/číselníky/vypisovatelé-výběrových-řízení/položky/děkan> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dean"@en .
+<https://data.mff.cuni.cz/zdroj/číselníky/vypisovatelé-výběrových-řízení> <http://www.w3.org/2004/02/skos/core#prefLabel> "Publishers of employment positions at Charles University"@en .
+<https://data.mff.cuni.cz/zdroj/číselníky/vypisovatelé-výběrových-řízení/položky/rektor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mff.cuni.cz/zdroj/číselníky/vypisovatelé-výběrových-řízení/položky/rektor> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/vypisovatelé-výběrových-řízení> .
+<https://data.mff.cuni.cz/zdroj/číselníky/vypisovatelé-výběrových-řízení/položky/rektor> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rektor"@cs .
+<https://data.mff.cuni.cz/zdroj/číselníky/vypisovatelé-výběrových-řízení/položky/rektor> <http://www.w3.org/2004/02/skos/core#notation> "rektor" .
+<https://data.mff.cuni.cz/zdroj/číselníky/vypisovatelé-výběrových-řízení/položky/rektor> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rector"@en .
