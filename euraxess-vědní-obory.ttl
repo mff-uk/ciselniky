@@ -1,0 +1,2229 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory> a skos:ConceptScheme;
+  skos:prefLabel "Euraxess Research Field"@en, "Obor - Euraxess"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/1> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Zemědělské vědy"@cs, "Agricultural sciences"@en;
+  skos:notation "1" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/10> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Zootechnika"@cs, "Zootechnics"@en;
+  skos:notation "10" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/100> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Byzantská studia"@cs, "Byzantine studies"@en;
+  skos:notation "100" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/101> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Koptská studia"@cs, "Coptic studies"@en;
+  skos:notation "101" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/102> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Eskymácká studia"@cs, "Eskimo studies"@en;
+  skos:notation "102" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/103> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Evropská studia"@cs, "European studies"@en;
+  skos:notation "103" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/104> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Islámská studia"@cs, "Islamic studies"@en;
+  skos:notation "104" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/105> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "židovská studia"@cs, "Jewish studies"@en;
+  skos:notation "105" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/106> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Středověká studia"@cs, "Middle Ages studies"@en;
+  skos:notation "106" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/107> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Studia Blízkého východu"@cs, "Middle East studies"@en;
+  skos:notation "107" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/108> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Orientální studia"@cs, "Oriental studies"@en;
+  skos:notation "108" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/109> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Regionální studia"@cs, "Regional studies"@en;
+  skos:notation "109" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/11> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ostatní"@cs, "Other"@en;
+  skos:notation "11" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/110> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Renesanční studia"@cs, "Renaissance studies"@en;
+  skos:notation "110" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/111> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ruská studia"@cs, "Russian studies"@en;
+  skos:notation "111" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/112> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Studia třetího světa"@cs, "Third world studies"@en;
+  skos:notation "112" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/113> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Další"@cs, "Other"@en;
+  skos:notation "113" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/114> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Demografie"@cs, "Demography"@en;
+  skos:notation "114" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/115> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ostatní"@cs, "Other"@en;
+  skos:notation "115" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/116> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ekonomie "@cs, "Economics "@en;
+  skos:notation "116" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/117> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Správní vědy"@cs, "Administrative sciences"@en;
+  skos:notation "117" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/118> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Zemědělská ekonomika"@cs, "Agricultural economics"@en;
+  skos:notation "118" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/119> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Aplikovaná ekonomie"@cs, "Applied economics"@en;
+  skos:notation "119" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/12> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Antropologie"@cs, "Anthropology"@en;
+  skos:notation "12" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/120> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Bankovnictví"@cs, "Banking"@en;
+  skos:notation "120" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/121> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Podniková ekonomika"@cs, "Business economics"@en;
+  skos:notation "121" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/122> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Katastrální průzkum"@cs, "Cadastral survey"@en;
+  skos:notation "122" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/123> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Obchodní ekonomie"@cs, "Commercial economics"@en;
+  skos:notation "123" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/124> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ekonomika stavebnictví"@cs, "Construction economics"@en;
+  skos:notation "124" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/125> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ekonomika spotřebitele"@cs, "Consumer economics"@en;
+  skos:notation "125" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/1253> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Všechny"@cs, "All"@en;
+  skos:notation "1253" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/1254> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ostatní"@cs, "Other"@en;
+  skos:notation "1254" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/1255> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Klinická farmakologie"@cs, "Clinical pharmacology"@en;
+  skos:notation "1255" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/126> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Cyklická ekonomika"@cs, "Cyclical economics"@en;
+  skos:notation "126" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/127> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ekonometrie"@cs, "Econometrics"@en;
+  skos:notation "127" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/128> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Hospodářská politika"@cs, "Economic policy"@en;
+  skos:notation "128" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/129> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ekonomické systémy"@cs, "Economic systems"@en;
+  skos:notation "129" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/13> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Komunikační antropologie"@cs, "Communication anthropology"@en;
+  skos:notation "13" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/130> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ekonomická teorie"@cs, "Economic theory"@en;
+  skos:notation "130" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/131> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ekonomie rozvoje"@cs, "Economics of development"@en;
+  skos:notation "131" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/132> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ekonomie životního prostředí"@cs, "Environmental economics"@en;
+  skos:notation "132" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/133> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Finanční věda"@cs, "Financial science"@en;
+  skos:notation "133" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/134> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ekonomika rybolovu"@cs, "Fishery economy"@en;
+  skos:notation "134" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/135> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ekonomika potravinářství"@cs, "Food economics"@en;
+  skos:notation "135" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/136> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ekonomika zdraví"@cs, "Health economics"@en;
+  skos:notation "136" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/137> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ekonomika domácnosti"@cs, "Home economics"@en;
+  skos:notation "137" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/138> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Průmyslová ekonomika"@cs, "Industrial economics"@en;
+  skos:notation "138" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/139> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Mezinárodní ekonomika"@cs, "International economics"@en;
+  skos:notation "139" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/14> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Kulturní antropologie"@cs, "Cultural anthropology"@en;
+  skos:notation "14" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/140> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Znalostní ekonomika"@cs, "Knowledge economy"@en;
+  skos:notation "140" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/141> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ekonomika práce"@cs, "Labour economics"@en;
+  skos:notation "141" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/142> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ekonomika trhu práce"@cs, "Labour market economics"@en;
+  skos:notation "142" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/143> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Pozemkové hospodářství"@cs, "Land economy"@en;
+  skos:notation "143" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/144> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Místní veřejná ekonomika"@cs, "Local public economics"@en;
+  skos:notation "144" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/145> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Makroekonomie"@cs, "Macroeconomics"@en;
+  skos:notation "145" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/146> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Studie managementu"@cs, "Management studies"@en;
+  skos:notation "146" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/147> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Marketing"@cs, "Marketing"@en;
+  skos:notation "147" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/148> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Mikroekonomie"@cs, "Microeconomics"@en;
+  skos:notation "148" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/149> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Politická ekonomie"@cs, "Political economy"@en;
+  skos:notation "149" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/15> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Etnologie"@cs, "Ethnology"@en;
+  skos:notation "15" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/150> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ekonomika výroby"@cs, "Production economics"@en;
+  skos:notation "150" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/151> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Sociální ekonomie"@cs, "Social economics"@en;
+  skos:notation "151" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/152> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Studium cestovního ruchu"@cs, "Tourism studies"@en;
+  skos:notation "152" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/153> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ekonomika dopravy"@cs, "Transport economics"@en;
+  skos:notation "153" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/154> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Oceňování"@cs, "Valuation"@en;
+  skos:notation "154" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/155> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Veterinární ekonomie"@cs, "Veterinary economics"@en;
+  skos:notation "155" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/156> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ostatní"@cs, "Other"@en;
+  skos:notation "156" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/157> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Vědy o vzdělávání"@cs, "Educational sciences"@en;
+  skos:notation "157" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/158> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Vzdělávání"@cs, "Education"@en;
+  skos:notation "158" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/159> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Studie o vzdělávání"@cs, "Learning studies"@en;
+  skos:notation "159" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/16> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Lékařská antropologie"@cs, "Medical anthropology"@en;
+  skos:notation "16" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/160> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Metodologie výzkumu"@cs, "Research methodology"@en;
+  skos:notation "160" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/161> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Metody výuky"@cs, "Teaching methods"@en;
+  skos:notation "161" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/162> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ostatní"@cs, "Other"@en;
+  skos:notation "162" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/163> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Inženýrství"@cs, "Engineering"@en;
+  skos:notation "163" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/164> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Letecké a kosmické inženýrství"@cs, "Aerospace engineering"@en;
+  skos:notation "164" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/165> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Zemědělské inženýrství"@cs, "Agricultural engineering"@en;
+  skos:notation "165" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/166> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Biomateriálové inženýrství"@cs, "Biomaterial engineering"@en;
+  skos:notation "166" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/167> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Biomedicínské inženýrství"@cs, "Biomedical engineering"@en;
+  skos:notation "167" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/168> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Chemické inženýrství"@cs, "Chemical engineering"@en;
+  skos:notation "168" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/169> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Stavební inženýrství"@cs, "Civil engineering"@en;
+  skos:notation "169" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/17> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Fyzická antropologie"@cs, "Physical anthropology"@en;
+  skos:notation "17" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/170> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Komunikační inženýrství"@cs, "Communication engineering"@en;
+  skos:notation "170" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/171> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Počítačové inženýrství"@cs, "Computer engineering"@en;
+  skos:notation "171" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/172> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Řídicí technika"@cs, "Control engineering"@en;
+  skos:notation "172" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/173> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Konstrukční inženýrství"@cs, "Design engineering"@en;
+  skos:notation "173" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/174> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Elektrotechnika"@cs, "Electrical engineering"@en;
+  skos:notation "174" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/175> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Elektronické inženýrství"@cs, "Electronic engineering"@en;
+  skos:notation "175" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/176> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Geologické inženýrství"@cs, "Geological engineering"@en;
+  skos:notation "176" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/177> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Průmyslové inženýrství"@cs, "Industrial engineering"@en;
+  skos:notation "177" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/178> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Znalostní inženýrství"@cs, "Knowledge engineering"@en;
+  skos:notation "178" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/179> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Námořní inženýrství"@cs, "Maritime engineering"@en;
+  skos:notation "179" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/18> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Sociální antropologie"@cs, "Social anthropology"@en;
+  skos:notation "18" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/180> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Materiálové inženýrství"@cs, "Materials engineering"@en;
+  skos:notation "180" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/181> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Strojní inženýrství"@cs, "Mechanical engineering"@en;
+  skos:notation "181" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/182> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Mikroinženýrství"@cs, "Microengineering"@en;
+  skos:notation "182" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/183> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Jaderné inženýrství"@cs, "Nuclear engineering"@en;
+  skos:notation "183" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/184> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Přesné strojírenství"@cs, "Precision engineering"@en;
+  skos:notation "184" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/185> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Procesní inženýrství"@cs, "Process engineering"@en;
+  skos:notation "185" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/186> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Projektové inženýrství"@cs, "Project engineering"@en;
+  skos:notation "186" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/187> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Simulační inženýrství"@cs, "Simulation engineering"@en;
+  skos:notation "187" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/188> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Zvuková technika"@cs, "Sound engineering"@en;
+  skos:notation "188" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/189> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Geodézie"@cs, "Surveying"@en;
+  skos:notation "189" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/19> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ostatní"@cs, "Other"@en;
+  skos:notation "19" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/190> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Systémové inženýrství"@cs, "Systems engineering"@en;
+  skos:notation "190" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/191> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Tepelné inženýrství"@cs, "Thermal engineering"@en;
+  skos:notation "191" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/192> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Inženýrství vodních zdrojů"@cs, "Water resources engineering"@en;
+  skos:notation "192" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/193> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ostatní"@cs, "Other"@en;
+  skos:notation "193" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/194> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Věda o životním prostředí"@cs, "Environmental science"@en;
+  skos:notation "194" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/195> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Vědy o Zemi"@cs, "Earth science"@en;
+  skos:notation "195" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/196> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ekologie"@cs, "Ecology"@en;
+  skos:notation "196" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/197> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Globální změny"@cs, "Global change"@en;
+  skos:notation "197" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/198> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Řízení přírodních zdrojů"@cs, "Natural resources management"@en;
+  skos:notation "198" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/199> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Věda o vodě"@cs, "Water science"@en;
+  skos:notation "199" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/2> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Zemědělské produkty"@cs, "Agricultural products"@en;
+  skos:notation "2" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/20> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Architektura "@cs, "Architecture "@en;
+  skos:notation "20" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/200> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Další"@cs, "Other"@en;
+  skos:notation "200" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/201> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Etika ve zdravotnických vědách"@cs, "Ethics in health sciences"@en;
+  skos:notation "201" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/202> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ostatní"@cs, "Other"@en;
+  skos:notation "202" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/203> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Etika v přírodních vědách "@cs, "Ethics in natural sciences "@en;
+  skos:notation "203" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/204> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ostatní"@cs, "Other"@en;
+  skos:notation "204" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/205> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Etika ve fyzikálních vědách"@cs, "Ethics in physical sciences"@en;
+  skos:notation "205" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/206> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ostatní"@cs, "Other"@en;
+  skos:notation "206" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/207> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Etika ve společenských vědách"@cs, "Ethics in social sciences"@en;
+  skos:notation "207" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/208> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ostatní"@cs, "Other"@en;
+  skos:notation "208" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/209> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Geografie"@cs, "Geography"@en;
+  skos:notation "209" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/21> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Design"@cs, "Design"@en;
+  skos:notation "21" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/210> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Kartografie"@cs, "Cartography"@en;
+  skos:notation "210" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/211> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ekonomická geografie"@cs, "Economic geography"@en;
+  skos:notation "211" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/212> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Geopolitika"@cs, "Geopolitics"@en;
+  skos:notation "212" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/213> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Historická geografie"@cs, "Historical geography"@en;
+  skos:notation "213" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/214> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Humánní geografie"@cs, "Human geography"@en;
+  skos:notation "214" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/215> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Regionální geografie"@cs, "Regional geography"@en;
+  skos:notation "215" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/216> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Sociální geografie"@cs, "Social geography"@en;
+  skos:notation "216" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/217> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ostatní"@cs, "Other"@en;
+  skos:notation "217" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/218> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Geovědní obory"@cs, "Geosciences"@en;
+  skos:notation "218" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/219> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Geologie"@cs, "Geology"@en;
+  skos:notation "219" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/22> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Krajinná architektura"@cs, "Landscape architecture"@en;
+  skos:notation "22" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/220> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Hydrologie"@cs, "Hydrology"@en;
+  skos:notation "220" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/221> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ostatní"@cs, "Other"@en;
+  skos:notation "221" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/222> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Historie"@cs, "History"@en;
+  skos:notation "222" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/223> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Starověké dějiny"@cs, "Ancient history"@en;
+  skos:notation "223" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/224> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Archeologie"@cs, "Archaeology"@en;
+  skos:notation "224" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/225> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Dějiny umění"@cs, "Art history"@en;
+  skos:notation "225" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/226> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Církevní dějiny"@cs, "Church history"@en;
+  skos:notation "226" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/227> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Soudobé dějiny"@cs, "Contemporary history"@en;
+  skos:notation "227" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/228> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Hospodářské dějiny"@cs, "Economic history"@en;
+  skos:notation "228" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/229> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Genealogie"@cs, "Genealogy"@en;
+  skos:notation "229" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/23> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Námořní architektura"@cs, "Naval architecture"@en;
+  skos:notation "23" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/230> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Heraldika"@cs, "Heraldry"@en;
+  skos:notation "230" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/231> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Dějiny zemědělství"@cs, "History of agriculture"@en;
+  skos:notation "231" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/232> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Dějiny designu"@cs, "History of design"@en;
+  skos:notation "232" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/233> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Dějiny práva"@cs, "History of law"@en;
+  skos:notation "233" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/234> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Dějiny herectví"@cs, "History of performance"@en;
+  skos:notation "234" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/235> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Dějiny filozofie"@cs, "History of philosophy"@en;
+  skos:notation "235" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/236> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Dějiny náboženství"@cs, "History of religions"@en;
+  skos:notation "236" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/237> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Dějiny vědy"@cs, "History of science"@en;
+  skos:notation "237" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/238> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Dějiny společenských věd"@cs, "History of social sciences"@en;
+  skos:notation "238" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/239> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Místní dějiny"@cs, "Local history"@en;
+  skos:notation "239" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/24> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ostatní"@cs, "Other"@en;
+  skos:notation "24" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/240> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Dějiny středověku"@cs, "Medieval history"@en;
+  skos:notation "240" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/241> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Novověké dějiny"@cs, "Modern history"@en;
+  skos:notation "241" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/242> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Dějiny hudby"@cs, "Music history"@en;
+  skos:notation "242" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/243> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Numismatika"@cs, "Numismatics"@en;
+  skos:notation "243" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/244> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Paleografie"@cs, "Paleography"@en;
+  skos:notation "244" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/245> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Politické dějiny"@cs, "Political history"@en;
+  skos:notation "245" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/246> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Pravěk"@cs, "Prehistory"@en;
+  skos:notation "246" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/247> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Sigilografie"@cs, "Sigillography"@en;
+  skos:notation "247" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/248> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Sociální dějiny"@cs, "Social history"@en;
+  skos:notation "248" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/249> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ostatní"@cs, "Other"@en;
+  skos:notation "249" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/25> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Umění"@cs, "Arts"@en;
+  skos:notation "25" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/250> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Informační věda"@cs, "Information science"@en;
+  skos:notation "250" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/251> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Archivnictví"@cs, "Archivistics"@en;
+  skos:notation "251" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/252> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Diplomatika"@cs, "Diplomatics"@en;
+  skos:notation "252" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/253> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Dokumentace"@cs, "Documentation"@en;
+  skos:notation "253" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/254> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Informační management"@cs, "Information management"@en;
+  skos:notation "254" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/255> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Knihovnictví"@cs, "Library science"@en;
+  skos:notation "255" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/256> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ostatní"@cs, "Other"@en;
+  skos:notation "256" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/257> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Právní vědy"@cs, "Juridical sciences"@en;
+  skos:notation "257" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/258> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Agrární právo"@cs, "Agrarian law"@en;
+  skos:notation "258" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/259> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Kanonické právo"@cs, "Canon law"@en;
+  skos:notation "259" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/26> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Umělecký management"@cs, "Arts management"@en;
+  skos:notation "26" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/260> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Srovnávací právo"@cs, "Comparative law"@en;
+  skos:notation "260" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/261> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Trestní právo"@cs, "Criminal law"@en;
+  skos:notation "261" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/262> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Právo životního prostředí"@cs, "Environmental law"@en;
+  skos:notation "262" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/263> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Evropské právo"@cs, "European law"@en;
+  skos:notation "263" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/264> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Finanční právo"@cs, "Finance law"@en;
+  skos:notation "264" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/265> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Daňové právo"@cs, "Fiscal law"@en;
+  skos:notation "265" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/266> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Zdravotní právo"@cs, "Health law"@en;
+  skos:notation "266" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/267> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Informační právo"@cs, "Informatic law"@en;
+  skos:notation "267" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/268> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Mezinárodní právo"@cs, "International law"@en;
+  skos:notation "268" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/269> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Soudní právo"@cs, "Judicial law"@en;
+  skos:notation "269" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/27> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Studium módy"@cs, "Fashion studies"@en;
+  skos:notation "27" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/270> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Právo mladistvých"@cs, "Juvenile law"@en;
+  skos:notation "270" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/271> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Pracovní právo"@cs, "Labour law"@en;
+  skos:notation "271" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/272> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Mediální právo"@cs, "Media law"@en;
+  skos:notation "272" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/273> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Zdravotnické právo"@cs, "Medical law"@en;
+  skos:notation "273" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/274> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Soukromé právo"@cs, "Private law"@en;
+  skos:notation "274" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/275> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Veřejné právo"@cs, "Public law"@en;
+  skos:notation "275" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/276> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Římské právo"@cs, "Roman law"@en;
+  skos:notation "276" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/277> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Sociální právo"@cs, "Social law"@en;
+  skos:notation "277" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/278> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Dopravní právo"@cs, "Transportation law"@en;
+  skos:notation "278" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/279> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ostatní"@cs, "Other"@en;
+  skos:notation "279" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/28> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Výtvarné umění"@cs, "Fine arts"@en;
+  skos:notation "28" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/280> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Jazykové vědy "@cs, "Language sciences "@en;
+  skos:notation "280" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/281> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Jazyky"@cs, "Languages"@en;
+  skos:notation "281" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/282> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Jazykověda"@cs, "Linguistics"@en;
+  skos:notation "282" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/283> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Filologie"@cs, "Philology"@en;
+  skos:notation "283" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/284> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ostatní"@cs, "Other"@en;
+  skos:notation "284" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/285> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Literatura "@cs, "Literature "@en;
+  skos:notation "285" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/286> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Africká literatura"@cs, "African literature"@en;
+  skos:notation "286" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/287> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Americká literatura"@cs, "American literature"@en;
+  skos:notation "287" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/288> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Asijská literatura"@cs, "Asian literature"@en;
+  skos:notation "288" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/289> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "austronéská literatura"@cs, "Austronesian literature"@en;
+  skos:notation "289" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/29> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Řemesla"@cs, "Handicrafts"@en;
+  skos:notation "29" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/290> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Srovnávací literatura"@cs, "Comparative literature"@en;
+  skos:notation "290" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/291> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Evropská literatura"@cs, "European literature"@en;
+  skos:notation "291" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/292> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "řecká literatura"@cs, "Greek literature"@en;
+  skos:notation "292" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/293> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Hamito-semitská literatura"@cs, "Hamito-semitic literature"@en;
+  skos:notation "293" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/294> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Literární kritika"@cs, "Literary criticism"@en;
+  skos:notation "294" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/295> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Psaní"@cs, "Writing"@en;
+  skos:notation "295" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/296> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ostatní"@cs, "Other"@en;
+  skos:notation "296" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/297> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Matematika"@cs, "Mathematics"@en;
+  skos:notation "297" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/298> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Algebra"@cs, "Algebra"@en;
+  skos:notation "298" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/299> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Algoritmy"@cs, "Algorithms"@en;
+  skos:notation "299" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/3> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Agronomie"@cs, "Agronomics"@en;
+  skos:notation "3" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/30> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Scénická umění"@cs, "Performing arts"@en;
+  skos:notation "30" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/300> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Aplikovaná matematika"@cs, "Applied mathematics"@en;
+  skos:notation "300" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/301> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Teorie chaosu"@cs, "Chaos theory"@en;
+  skos:notation "301" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/302> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Kombinatorická analýza"@cs, "Combinatorial analysis"@en;
+  skos:notation "302" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/303> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Výpočetní matematika"@cs, "Computational mathematics"@en;
+  skos:notation "303" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/304> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Diskrétní matematika"@cs, "Discrete mathematics"@en;
+  skos:notation "304" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/305> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Geometrie"@cs, "Geometry"@en;
+  skos:notation "305" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/306> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Matematická analýza"@cs, "Mathematical analysis"@en;
+  skos:notation "306" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/307> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Matematická logika"@cs, "Mathematical logic"@en;
+  skos:notation "307" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/308> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Teorie čísel"@cs, "Number theory"@en;
+  skos:notation "308" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/309> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Teorie pravděpodobnosti"@cs, "Probability theory"@en;
+  skos:notation "309" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/31> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Výtvarné umění"@cs, "Visual arts"@en;
+  skos:notation "31" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/310> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Statistika"@cs, "Statistics"@en;
+  skos:notation "310" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/311> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Další"@cs, "Other"@en;
+  skos:notation "311" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/312> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Lékařské vědy "@cs, "Medical sciences "@en;
+  skos:notation "312" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/313> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Medicína"@cs, "Medicine"@en;
+  skos:notation "313" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/314> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Veterinární medicína"@cs, "Veterinary medicine"@en;
+  skos:notation "314" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/315> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ostatní"@cs, "Other"@en;
+  skos:notation "315" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/316> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Neurovědy"@cs, "Neurosciences"@en;
+  skos:notation "316" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/317> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Neurobiologie"@cs, "Neurobiology"@en;
+  skos:notation "317" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/318> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Neurochemie"@cs, "Neurochemistry"@en;
+  skos:notation "318" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/319> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Neuroinformatika"@cs, "Neuroinformatics"@en;
+  skos:notation "319" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/32> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ostatní"@cs, "Other"@en;
+  skos:notation "32" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/320> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Neurologie"@cs, "Neurology"@en;
+  skos:notation "320" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/321> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Neurofyziologie"@cs, "Neurophysiology"@en;
+  skos:notation "321" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/322> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Neuropsychologie"@cs, "Neuropsychology"@en;
+  skos:notation "322" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/323> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ostatní"@cs, "Other"@en;
+  skos:notation "323" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/324> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Farmakologické vědy "@cs, "Pharmacological sciences "@en;
+  skos:notation "324" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/325> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Kosmetologie"@cs, "Cosmetology"@en;
+  skos:notation "325" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/326> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Farmakognozie"@cs, "Pharmacognosy"@en;
+  skos:notation "326" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/327> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Farmacie"@cs, "Pharmacy"@en;
+  skos:notation "327" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/328> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Toxikologie"@cs, "Toxicology"@en;
+  skos:notation "328" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/329> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Veterinární farmakologie"@cs, "Veterinary pharmacology"@en;
+  skos:notation "329" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/33> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Astronomie"@cs, "Astronomy"@en;
+  skos:notation "33" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/330> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ostatní"@cs, "Other"@en;
+  skos:notation "330" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/331> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Filozofie"@cs, "Philosophy"@en;
+  skos:notation "331" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/332> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Estetika"@cs, "Aesthetics"@en;
+  skos:notation "332" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/333> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Epistemologie"@cs, "Epistemology"@en;
+  skos:notation "333" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/334> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Etika"@cs, "Ethics"@en;
+  skos:notation "334" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/335> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Logika"@cs, "Logic"@en;
+  skos:notation "335" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/336> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Metafyzika"@cs, "Metaphysics"@en;
+  skos:notation "336" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/337> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Fenomenologie"@cs, "Phenomenology"@en;
+  skos:notation "337" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/338> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Filosofická antropologie"@cs, "Philosophical anthropology"@en;
+  skos:notation "338" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/339> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Filosofie práva"@cs, "Philosophy of law"@en;
+  skos:notation "339" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/34> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Astrofyzika"@cs, "Astrophysics"@en;
+  skos:notation "34" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/340> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Filosofie vědy"@cs, "Philosophy of science"@en;
+  skos:notation "340" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/341> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Sémiotika"@cs, "Semiotics"@en;
+  skos:notation "341" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/342> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Systematická filozofie"@cs, "Systematic philosophy"@en;
+  skos:notation "342" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/343> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Další"@cs, "Other"@en;
+  skos:notation "343" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/344> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Fyzika"@cs, "Physics"@en;
+  skos:notation "344" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/345> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Akustika"@cs, "Acoustics"@en;
+  skos:notation "345" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/346> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Aplikovaná fyzika"@cs, "Applied physics"@en;
+  skos:notation "346" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/347> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Biofyzika"@cs, "Biophysics"@en;
+  skos:notation "347" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/348> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Chemická fyzika"@cs, "Chemical physics"@en;
+  skos:notation "348" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/349> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Klasická mechanika"@cs, "Classical mechanics"@en;
+  skos:notation "349" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/35> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Kosmologie"@cs, "Cosmology"@en;
+  skos:notation "35" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/350> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Výpočetní fyzika"@cs, "Computational physics"@en;
+  skos:notation "350" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/351> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Vlastnosti kondenzované hmoty"@cs, "Condensed matter properties"@en;
+  skos:notation "351" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/352> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Elektromagnetismus"@cs, "Electromagnetism"@en;
+  skos:notation "352" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/353> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Elektronika"@cs, "Electronics"@en;
+  skos:notation "353" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/354> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Matematická fyzika"@cs, "Mathematical physics"@en;
+  skos:notation "354" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/355> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Metrologie"@cs, "Metrology"@en;
+  skos:notation "355" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/356> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Neutronová fyzika"@cs, "Neutron physics"@en;
+  skos:notation "356" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/357> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Optika"@cs, "Optics"@en;
+  skos:notation "357" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/358> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Kvantová mechanika"@cs, "Quantum mechanics"@en;
+  skos:notation "358" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/359> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Relativita"@cs, "Relativity"@en;
+  skos:notation "359" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/36> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ostatní"@cs, "Other"@en;
+  skos:notation "36" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/360> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Fyzika pevných látek"@cs, "Solid state physics"@en;
+  skos:notation "360" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/361> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Statika"@cs, "Statics"@en;
+  skos:notation "361" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/362> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Statistická fyzika"@cs, "Statistical physics"@en;
+  skos:notation "362" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/363> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Fyzika povrchů"@cs, "Surface physics"@en;
+  skos:notation "363" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/364> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Termodynamika"@cs, "Thermodynamics"@en;
+  skos:notation "364" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/365> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Další"@cs, "Other"@en;
+  skos:notation "365" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/366> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Politické vědy"@cs, "Political sciences"@en;
+  skos:notation "366" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/367> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Správa věcí veřejných"@cs, "Governance"@en;
+  skos:notation "367" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/368> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Politická studia"@cs, "Policy studies"@en;
+  skos:notation "368" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/369> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Povědomí veřejnosti o vědě"@cs, "Public awareness of science"@en;
+  skos:notation "369" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/37> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Biologické vědy "@cs, "Biological sciences "@en;
+  skos:notation "37" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/370> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Veřejná politika"@cs, "Public policy"@en;
+  skos:notation "370" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/371> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Věda a společnost"@cs, "Science and society"@en;
+  skos:notation "371" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/372> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Další"@cs, "Other"@en;
+  skos:notation "372" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/373> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Psychologické vědy"@cs, "Psychological sciences"@en;
+  skos:notation "373" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/374> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Behaviorální vědy"@cs, "Behavioural sciences"@en;
+  skos:notation "374" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/375> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Kognitivní vědy"@cs, "Cognitive science"@en;
+  skos:notation "375" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/376> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Psychoanalytické studie"@cs, "Psychoanalytic studies"@en;
+  skos:notation "376" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/377> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Psychologie"@cs, "Psychology"@en;
+  skos:notation "377" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/378> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ostatní"@cs, "Other"@en;
+  skos:notation "378" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/379> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Náboženské vědy"@cs, "Religious sciences"@en;
+  skos:notation "379" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/38> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Biodiverzita"@cs, "Biodiversity"@en;
+  skos:notation "38" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/380> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Biblická studia"@cs, "Biblical studies"@en;
+  skos:notation "380" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/381> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Církevní studia"@cs, "Church studies"@en;
+  skos:notation "381" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/382> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Srovnávací náboženství"@cs, "Comparative religion"@en;
+  skos:notation "382" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/383> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Nekřesťanská náboženství"@cs, "Non-Christian religions"@en;
+  skos:notation "383" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/384> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Pastorační studia"@cs, "Pastoral studies"@en;
+  skos:notation "384" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/385> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Teologie"@cs, "Theology"@en;
+  skos:notation "385" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/386> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ostatní"@cs, "Other"@en;
+  skos:notation "386" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/387> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Sociologie"@cs, "Sociology"@en;
+  skos:notation "387" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/388> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Sociologie výchovy"@cs, "Educational sociology"@en;
+  skos:notation "388" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/389> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Makrosociologie"@cs, "Macrosociology"@en;
+  skos:notation "389" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/39> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Biologické inženýrství"@cs, "Biological engineering"@en;
+  skos:notation "39" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/390> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Sociologie venkova"@cs, "Rural sociology"@en;
+  skos:notation "390" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/391> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Sociální změny"@cs, "Social changes"@en;
+  skos:notation "391" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/392> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Sociální utváření technologií"@cs, "Social shaping of technology"@en;
+  skos:notation "392" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/393> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Společenské chování"@cs, "Societal behaviour"@en;
+  skos:notation "393" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/394> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Sociálně-ekonomický výzkum"@cs, "Socio-economic research"@en;
+  skos:notation "394" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/395> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Sociologie podnikání"@cs, "Sociology of enterprise"@en;
+  skos:notation "395" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/396> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Sociologie práce"@cs, "Sociology of labour"@en;
+  skos:notation "396" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/397> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Sociologie náboženství"@cs, "Sociology of religion"@en;
+  skos:notation "397" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/398> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Sociologie měst"@cs, "Urban sociology"@en;
+  skos:notation "398" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/399> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ostatní"@cs, "Other"@en;
+  skos:notation "399" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/4> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Enologie"@cs, "Enology"@en;
+  skos:notation "4" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/40> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Biologie"@cs, "Biology"@en;
+  skos:notation "40" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/400> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Technologie"@cs, "Technology"@en;
+  skos:notation "400" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/401> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Biotechnologie"@cs, "Biotechnology"@en;
+  skos:notation "401" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/402> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Chemická technologie"@cs, "Chemical technology"@en;
+  skos:notation "402" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/403> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Komunikační technologie"@cs, "Communication technology"@en;
+  skos:notation "403" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/404> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Výpočetní technika"@cs, "Computer technology"@en;
+  skos:notation "404" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/405> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Stavební technologie"@cs, "Construction technology"@en;
+  skos:notation "405" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/406> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Datové techniky"@cs, "Dating techniques"@en;
+  skos:notation "406" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/407> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Elektrotechnika"@cs, "Electrical technology"@en;
+  skos:notation "407" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/408> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Energetické technologie"@cs, "Energy technology"@en;
+  skos:notation "408" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/409> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Technologie ochrany životního prostředí"@cs, "Environmental technology"@en;
+  skos:notation "409" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/41> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Botanika"@cs, "Botany"@en;
+  skos:notation "41" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/410> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Technologie budoucnosti"@cs, "Future technology"@en;
+  skos:notation "410" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/411> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Grafické techniky"@cs, "Graphic techniques"@en;
+  skos:notation "411" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/412> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Technologie vysokého vakua"@cs, "High vacuum technology"@en;
+  skos:notation "412" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/413> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Průmyslová technologie"@cs, "Industrial technology"@en;
+  skos:notation "413" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/414> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Informační technologie"@cs, "Information technology"@en;
+  skos:notation "414" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/415> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Přístrojová technika"@cs, "Instrumentation technology"@en;
+  skos:notation "415" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/416> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Technologie rozhraní"@cs, "Interface technology"@en;
+  skos:notation "416" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/417> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Internetové technologie"@cs, "Internet technology"@en;
+  skos:notation "417" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/418> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Znalostní technologie"@cs, "Knowledge technology"@en;
+  skos:notation "418" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/419> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Laboratorní technologie"@cs, "Laboratory technology"@en;
+  skos:notation "419" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/42> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Věda o laboratorních zvířatech"@cs, "Laboratory animal science"@en;
+  skos:notation "42" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/420> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Námořní technologie"@cs, "Marine technology"@en;
+  skos:notation "420" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/421> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Materiálová technologie"@cs, "Materials technology"@en;
+  skos:notation "421" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/422> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Technologie měření"@cs, "Measurement technology"@en;
+  skos:notation "422" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/423> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Zdravotnická technika"@cs, "Medical technology"@en;
+  skos:notation "423" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/424> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Mikrotechnologie"@cs, "Micro-technology"@en;
+  skos:notation "424" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/425> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Vojenské technologie"@cs, "Military technology"@en;
+  skos:notation "425" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/426> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Těžba"@cs, "Mining"@en;
+  skos:notation "426" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/427> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Nanotechnologie"@cs, "Nanotechnology"@en;
+  skos:notation "427" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/428> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Jaderné technologie"@cs, "Nuclear technology"@en;
+  skos:notation "428" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/429> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Optronika"@cs, "Optronics"@en;
+  skos:notation "429" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/43> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Vědy o výživě"@cs, "Nutritional sciences"@en;
+  skos:notation "43" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/430> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Farmaceutické technologie"@cs, "Pharmaceutical technology"@en;
+  skos:notation "430" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/431> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Výrobní technologie"@cs, "Production technology"@en;
+  skos:notation "431" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/432> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Kvantová technologie"@cs, "Quantum technology"@en;
+  skos:notation "432" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/433> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Dálkový průzkum"@cs, "Remote sensing"@en;
+  skos:notation "433" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/434> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Bezpečnostní technologie"@cs, "Safety technology"@en;
+  skos:notation "434" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/435> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Zvuková technologie"@cs, "Sound technology"@en;
+  skos:notation "435" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/436> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Vesmírná technologie"@cs, "Space technology"@en;
+  skos:notation "436" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/437> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Standardizace technologií"@cs, "Standardisation of technologies"@en;
+  skos:notation "437" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/438> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Telekomunikační technologie"@cs, "Telecommunications technology"@en;
+  skos:notation "438" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/439> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Dopravní technologie"@cs, "Transport technology"@en;
+  skos:notation "439" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/44> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Zoologie"@cs, "Zoology"@en;
+  skos:notation "44" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/440> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Vakuová technologie"@cs, "Vacuum technology"@en;
+  skos:notation "440" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/441> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Vodní technologie"@cs, "Water technology"@en;
+  skos:notation "441" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/442> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ostatní"@cs, "Other"@en;
+  skos:notation "442" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/45> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ostatní"@cs, "Other"@en;
+  skos:notation "45" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/46> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Chemie "@cs, "Chemistry "@en;
+  skos:notation "46" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/47> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Analytická chemie"@cs, "Analytical chemistry"@en;
+  skos:notation "47" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/48> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Aplikovaná chemie"@cs, "Applied chemistry"@en;
+  skos:notation "48" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/49> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Biochemie"@cs, "Biochemistry"@en;
+  skos:notation "49" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/5> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Lesnické vědy"@cs, "Forest sciences"@en;
+  skos:notation "5" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/50> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Kombinatorická chemie"@cs, "Combinatorial chemistry"@en;
+  skos:notation "50" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/51> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Výpočetní chemie"@cs, "Computational chemistry"@en;
+  skos:notation "51" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/52> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Heterogenní katalýza"@cs, "Heterogeneous catalysis"@en;
+  skos:notation "52" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/53> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Homogenní katalýza"@cs, "Homogeneous catalysis"@en;
+  skos:notation "53" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/54> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Anorganická chemie"@cs, "Inorganic chemistry"@en;
+  skos:notation "54" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/55> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Instrumentální analýza"@cs, "Instrumental analysis"@en;
+  skos:notation "55" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/56> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Instrumentální techniky"@cs, "Instrumental techniques"@en;
+  skos:notation "56" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/57> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Molekulární chemie"@cs, "Molecular chemistry"@en;
+  skos:notation "57" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/58> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Organická chemie"@cs, "Organic chemistry"@en;
+  skos:notation "58" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/59> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Fyzikální chemie"@cs, "Physical chemistry"@en;
+  skos:notation "59" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/6> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Fytotechnika"@cs, "Phytotechny"@en;
+  skos:notation "6" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/60> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Reakční mechanismy a dynamika"@cs, "Reaction mechanisms and dynamics"@en;
+  skos:notation "60" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/61> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Sluneční chemie"@cs, "Solar chemistry"@en;
+  skos:notation "61" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/62> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Strukturní chemie"@cs, "Structural chemistry"@en;
+  skos:notation "62" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/63> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Další"@cs, "Other"@en;
+  skos:notation "63" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/64> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Komunikační vědy "@cs, "Communication sciences "@en;
+  skos:notation "64" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/65> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Audiovizuální komunikace"@cs, "Audiovisual communication"@en;
+  skos:notation "65" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/66> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Obchodní komunikace"@cs, "Business communication"@en;
+  skos:notation "66" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/67> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Redakční práce"@cs, "Editing"@en;
+  skos:notation "67" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/68> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Grafická komunikace"@cs, "Graphic communication"@en;
+  skos:notation "68" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/69> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Žurnalistika"@cs, "Journalism"@en;
+  skos:notation "69" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/7> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Vědy o půdě"@cs, "Soil science"@en;
+  skos:notation "7" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/70> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Mediální studia"@cs, "Media studies"@en;
+  skos:notation "70" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/71> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "On-line informační služby"@cs, "On-line information services"@en;
+  skos:notation "71" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/72> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Vztahy s veřejností"@cs, "Public relations"@en;
+  skos:notation "72" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/73> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Vydavatelství"@cs, "Publishing"@en;
+  skos:notation "73" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/74> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Vědecká komunikace"@cs, "Science communication"@en;
+  skos:notation "74" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/75> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Řečová komunikace"@cs, "Speech communication"@en;
+  skos:notation "75" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/76> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ostatní"@cs, "Other"@en;
+  skos:notation "76" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/77> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Počítačová věda "@cs, "Computer science "@en;
+  skos:notation "77" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/78> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Modelování 3 D"@cs, "3 D modelling"@en;
+  skos:notation "78" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/79> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Autonomní výpočetní technika"@cs, "Autonomic computing"@en;
+  skos:notation "79" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/8> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Zemědělství mírného pásma"@cs, "Temperate agriculture"@en;
+  skos:notation "8" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/80> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Počítačová architektura"@cs, "Computer architecture"@en;
+  skos:notation "80" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/81> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Počítačový hardware"@cs, "Computer hardware"@en;
+  skos:notation "81" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/82> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Počítačové systémy"@cs, "Computer systems"@en;
+  skos:notation "82" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/83> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Kybernetika"@cs, "Cybernetics"@en;
+  skos:notation "83" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/84> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Správa databází"@cs, "Database management"@en;
+  skos:notation "84" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/85> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Digitální systémy"@cs, "Digital systems"@en;
+  skos:notation "85" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/86> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Informatika"@cs, "Informatics"@en;
+  skos:notation "86" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/87> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Modelovací nástroje"@cs, "Modelling tools"@en;
+  skos:notation "87" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/88> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Programování"@cs, "Programming"@en;
+  skos:notation "88" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/89> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Návrh systémů"@cs, "Systems design"@en;
+  skos:notation "89" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/9> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Tropické zemědělství"@cs, "Tropical agriculture"@en;
+  skos:notation "9" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/90> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Další"@cs, "Other"@en;
+  skos:notation "90" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/91> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Kriminologie "@cs, "Criminology "@en;
+  skos:notation "91" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/92> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Ostatní"@cs, "Other"@en;
+  skos:notation "92" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/93> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Kulturní studia"@cs, "Cultural studies"@en;
+  skos:notation "93" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/94> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Africká studia"@cs, "African studies"@en;
+  skos:notation "94" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/95> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Americká studia"@cs, "American studies"@en;
+  skos:notation "95" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/96> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Antická studia"@cs, "Ancient studies"@en;
+  skos:notation "96" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/97> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Anglosaská studia"@cs, "Anglo Saxon studies"@en;
+  skos:notation "97" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/98> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Arabistika"@cs, "Arabic studies"@en;
+  skos:notation "98" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/99> a skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory>;
+  skos:prefLabel "Asijská studia"@cs, "Asian studies"@en;
+  skos:notation "99" .

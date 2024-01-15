@@ -1,0 +1,111 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu> {
+  <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu> a skos:ConceptScheme;
+    skos:prefLabel "EU Framework Programme"@en, "Programy EU - Euraxess"@cs .
+  
+  <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/1361> a skos:Concept;
+    skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu>;
+    skos:prefLabel "H2020 / SME Innovation Associate"@en;
+    skos:notation "1361" .
+  
+  <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4830> a skos:Concept;
+    skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu>;
+    skos:prefLabel "HE"@en;
+    skos:notation "4830" .
+  
+  <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4831> a skos:Concept;
+    skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu>;
+    skos:prefLabel "HE / ERC"@en;
+    skos:notation "4831" .
+  
+  <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4832> a skos:Concept;
+    skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu>;
+    skos:prefLabel "HE / EIC"@en;
+    skos:notation "4832" .
+  
+  <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4833> a skos:Concept;
+    skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu>;
+    skos:prefLabel "HE / EIT"@en;
+    skos:notation "4833" .
+  
+  <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4834> a skos:Concept;
+    skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu>;
+    skos:prefLabel "HE / MSCA"@en;
+    skos:notation "4834" .
+  
+  <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4835> a skos:Concept;
+    skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu>;
+    skos:prefLabel "HE / MSCA COFUND"@en;
+    skos:notation "4835" .
+  
+  <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4836> a skos:Concept;
+    skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu>;
+    skos:prefLabel "HE / SME Innovation Associate"@en;
+    skos:notation "4836" .
+  
+  <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/5832> a skos:Concept;
+    skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu>;
+    skos:prefLabel "ERASMUS+"@en;
+    skos:notation "5832" .
+  
+  <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/5927> a skos:Concept;
+    skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu>;
+    skos:prefLabel "Interreg"@en;
+    skos:notation "5927" .
+  
+  <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/865> a skos:Concept;
+    skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu>;
+    skos:prefLabel "H2020"@en;
+    skos:notation "865" .
+  
+  <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/866> a skos:Concept;
+    skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu>;
+    skos:prefLabel "H2020 / ERC"@en;
+    skos:notation "866" .
+  
+  <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/867> a skos:Concept;
+    skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu>;
+    skos:prefLabel "H2020 / Marie Skłodowska-Curie Actions"@en;
+    skos:notation "867" .
+  
+  <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/868> a skos:Concept;
+    skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu>;
+    skos:prefLabel "H2020 / Marie Skłodowska-Curie Actions COFUND"@en;
+    skos:notation "868" .
+  
+  <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/869> a skos:Concept;
+    skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu>;
+    skos:prefLabel "H2020 / EIT"@en;
+    skos:notation "869" .
+  
+  <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/870> a skos:Concept;
+    skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu>;
+    skos:prefLabel "FP7"@en;
+    skos:notation "870" .
+  
+  <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/871> a skos:Concept;
+    skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu>;
+    skos:prefLabel "FP7 / Ideas-ERC"@en;
+    skos:notation "871" .
+  
+  <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/872> a skos:Concept;
+    skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu>;
+    skos:prefLabel "FP7 / People-Marie Curie Actions"@en;
+    skos:notation "872" .
+  
+  <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/873> a skos:Concept;
+    skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu>;
+    skos:prefLabel "FP7 / People-Marie Curie Actions COFUND"@en;
+    skos:notation "873" .
+  
+  <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/874> a skos:Concept;
+    skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu>;
+    skos:prefLabel "FP7 / JRC"@en;
+    skos:notation "874" .
+  
+  <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/875> a skos:Concept;
+    skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu>;
+    skos:prefLabel "Not funded by an EU programme"@en;
+    skos:notation "875" .
+}

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+	<skos:prefLabel xml:lang="en">EU Framework Programme</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/1361">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu"/>
+	<skos:prefLabel xml:lang="en">H2020 / SME Innovation Associate</skos:prefLabel>
+	<skos:notation>1361</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu">
+	<skos:prefLabel xml:lang="cs">Programy EU - Euraxess</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4830">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu"/>
+	<skos:prefLabel xml:lang="en">HE</skos:prefLabel>
+	<skos:notation>4830</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4831">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu"/>
+	<skos:prefLabel xml:lang="en">HE / ERC</skos:prefLabel>
+	<skos:notation>4831</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4832">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu"/>
+	<skos:prefLabel xml:lang="en">HE / EIC</skos:prefLabel>
+	<skos:notation>4832</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4833">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu"/>
+	<skos:prefLabel xml:lang="en">HE / EIT</skos:prefLabel>
+	<skos:notation>4833</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4834">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu"/>
+	<skos:prefLabel xml:lang="en">HE / MSCA</skos:prefLabel>
+	<skos:notation>4834</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4835">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu"/>
+	<skos:prefLabel xml:lang="en">HE / MSCA COFUND</skos:prefLabel>
+	<skos:notation>4835</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4836">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu"/>
+	<skos:prefLabel xml:lang="en">HE / SME Innovation Associate</skos:prefLabel>
+	<skos:notation>4836</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/5832">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu"/>
+	<skos:prefLabel xml:lang="en">ERASMUS+</skos:prefLabel>
+	<skos:notation>5832</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/5927">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu"/>
+	<skos:prefLabel xml:lang="en">Interreg</skos:prefLabel>
+	<skos:notation>5927</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/865">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu"/>
+	<skos:prefLabel xml:lang="en">H2020</skos:prefLabel>
+	<skos:notation>865</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/866">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu"/>
+	<skos:prefLabel xml:lang="en">H2020 / ERC</skos:prefLabel>
+	<skos:notation>866</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/867">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu"/>
+	<skos:prefLabel xml:lang="en">H2020 / Marie Skłodowska-Curie Actions</skos:prefLabel>
+	<skos:notation>867</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/868">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu"/>
+	<skos:prefLabel xml:lang="en">H2020 / Marie Skłodowska-Curie Actions COFUND</skos:prefLabel>
+	<skos:notation>868</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/869">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu"/>
+	<skos:prefLabel xml:lang="en">H2020 / EIT</skos:prefLabel>
+	<skos:notation>869</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/870">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu"/>
+	<skos:prefLabel xml:lang="en">FP7</skos:prefLabel>
+	<skos:notation>870</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/871">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu"/>
+	<skos:prefLabel xml:lang="en">FP7 / Ideas-ERC</skos:prefLabel>
+	<skos:notation>871</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/872">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu"/>
+	<skos:prefLabel xml:lang="en">FP7 / People-Marie Curie Actions</skos:prefLabel>
+	<skos:notation>872</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/873">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu"/>
+	<skos:prefLabel xml:lang="en">FP7 / People-Marie Curie Actions COFUND</skos:prefLabel>
+	<skos:notation>873</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/874">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu"/>
+	<skos:prefLabel xml:lang="en">FP7 / JRC</skos:prefLabel>
+	<skos:notation>874</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/875">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu"/>
+	<skos:prefLabel xml:lang="en">Not funded by an EU programme</skos:prefLabel>
+	<skos:notation>875</skos:notation>
+</rdf:Description>
+
+</rdf:RDF>

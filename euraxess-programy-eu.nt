@@ -1,0 +1,87 @@
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu> <http://www.w3.org/2004/02/skos/core#prefLabel> "EU Framework Programme"@en .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/1361> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/1361> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/1361> <http://www.w3.org/2004/02/skos/core#prefLabel> "H2020 / SME Innovation Associate"@en .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/1361> <http://www.w3.org/2004/02/skos/core#notation> "1361" .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu> <http://www.w3.org/2004/02/skos/core#prefLabel> "Programy EU - Euraxess"@cs .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4830> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4830> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4830> <http://www.w3.org/2004/02/skos/core#prefLabel> "HE"@en .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4830> <http://www.w3.org/2004/02/skos/core#notation> "4830" .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4831> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4831> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4831> <http://www.w3.org/2004/02/skos/core#prefLabel> "HE / ERC"@en .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4831> <http://www.w3.org/2004/02/skos/core#notation> "4831" .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4832> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4832> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4832> <http://www.w3.org/2004/02/skos/core#prefLabel> "HE / EIC"@en .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4832> <http://www.w3.org/2004/02/skos/core#notation> "4832" .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4833> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4833> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4833> <http://www.w3.org/2004/02/skos/core#prefLabel> "HE / EIT"@en .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4833> <http://www.w3.org/2004/02/skos/core#notation> "4833" .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4834> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4834> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4834> <http://www.w3.org/2004/02/skos/core#prefLabel> "HE / MSCA"@en .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4834> <http://www.w3.org/2004/02/skos/core#notation> "4834" .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4835> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4835> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4835> <http://www.w3.org/2004/02/skos/core#prefLabel> "HE / MSCA COFUND"@en .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4835> <http://www.w3.org/2004/02/skos/core#notation> "4835" .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4836> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4836> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4836> <http://www.w3.org/2004/02/skos/core#prefLabel> "HE / SME Innovation Associate"@en .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4836> <http://www.w3.org/2004/02/skos/core#notation> "4836" .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/5832> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/5832> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/5832> <http://www.w3.org/2004/02/skos/core#prefLabel> "ERASMUS+"@en .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/5832> <http://www.w3.org/2004/02/skos/core#notation> "5832" .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/5927> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/5927> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/5927> <http://www.w3.org/2004/02/skos/core#prefLabel> "Interreg"@en .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/5927> <http://www.w3.org/2004/02/skos/core#notation> "5927" .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/865> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/865> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/865> <http://www.w3.org/2004/02/skos/core#prefLabel> "H2020"@en .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/865> <http://www.w3.org/2004/02/skos/core#notation> "865" .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/866> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/866> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/866> <http://www.w3.org/2004/02/skos/core#prefLabel> "H2020 / ERC"@en .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/866> <http://www.w3.org/2004/02/skos/core#notation> "866" .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/867> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/867> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/867> <http://www.w3.org/2004/02/skos/core#prefLabel> "H2020 / Marie Skłodowska-Curie Actions"@en .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/867> <http://www.w3.org/2004/02/skos/core#notation> "867" .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/868> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/868> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/868> <http://www.w3.org/2004/02/skos/core#prefLabel> "H2020 / Marie Skłodowska-Curie Actions COFUND"@en .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/868> <http://www.w3.org/2004/02/skos/core#notation> "868" .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/869> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/869> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/869> <http://www.w3.org/2004/02/skos/core#prefLabel> "H2020 / EIT"@en .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/869> <http://www.w3.org/2004/02/skos/core#notation> "869" .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/870> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/870> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/870> <http://www.w3.org/2004/02/skos/core#prefLabel> "FP7"@en .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/870> <http://www.w3.org/2004/02/skos/core#notation> "870" .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/871> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/871> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/871> <http://www.w3.org/2004/02/skos/core#prefLabel> "FP7 / Ideas-ERC"@en .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/871> <http://www.w3.org/2004/02/skos/core#notation> "871" .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/872> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/872> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/872> <http://www.w3.org/2004/02/skos/core#prefLabel> "FP7 / People-Marie Curie Actions"@en .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/872> <http://www.w3.org/2004/02/skos/core#notation> "872" .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/873> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/873> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/873> <http://www.w3.org/2004/02/skos/core#prefLabel> "FP7 / People-Marie Curie Actions COFUND"@en .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/873> <http://www.w3.org/2004/02/skos/core#notation> "873" .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/874> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/874> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/874> <http://www.w3.org/2004/02/skos/core#prefLabel> "FP7 / JRC"@en .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/874> <http://www.w3.org/2004/02/skos/core#notation> "874" .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/875> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/875> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu> .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/875> <http://www.w3.org/2004/02/skos/core#prefLabel> "Not funded by an EU programme"@en .
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/875> <http://www.w3.org/2004/02/skos/core#notation> "875" .

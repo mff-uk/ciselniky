@@ -1,0 +1,3573 @@
+
+{
+  "@context": "https://ofn.gov.cz/číselníky/2022-02-08/kontexty/číselník.jsonld",
+  "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory",
+  "typ": "Číselník",
+  "název": {
+      "cs":  "Obor - Euraxess",
+      "en":  "Euraxess Research Field"
+  },
+  "položky": [
+{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/1",
+      "kód": "1",
+      "název": {
+          "cs":  "Zemědělské vědy",
+          "en":  "Agricultural sciences"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/10",
+      "kód": "10",
+      "název": {
+          "cs":  "Zootechnika",
+          "en":  "Zootechnics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/100",
+      "kód": "100",
+      "název": {
+          "cs":  "Byzantská studia",
+          "en":  "Byzantine studies"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/101",
+      "kód": "101",
+      "název": {
+          "cs":  "Koptská studia",
+          "en":  "Coptic studies"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/102",
+      "kód": "102",
+      "název": {
+          "cs":  "Eskymácká studia",
+          "en":  "Eskimo studies"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/103",
+      "kód": "103",
+      "název": {
+          "cs":  "Evropská studia",
+          "en":  "European studies"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/104",
+      "kód": "104",
+      "název": {
+          "cs":  "Islámská studia",
+          "en":  "Islamic studies"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/105",
+      "kód": "105",
+      "název": {
+          "cs":  "židovská studia",
+          "en":  "Jewish studies"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/106",
+      "kód": "106",
+      "název": {
+          "cs":  "Středověká studia",
+          "en":  "Middle Ages studies"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/107",
+      "kód": "107",
+      "název": {
+          "cs":  "Studia Blízkého východu",
+          "en":  "Middle East studies"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/108",
+      "kód": "108",
+      "název": {
+          "cs":  "Orientální studia",
+          "en":  "Oriental studies"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/109",
+      "kód": "109",
+      "název": {
+          "cs":  "Regionální studia",
+          "en":  "Regional studies"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/11",
+      "kód": "11",
+      "název": {
+          "cs":  "Ostatní",
+          "en":  "Other"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/110",
+      "kód": "110",
+      "název": {
+          "cs":  "Renesanční studia",
+          "en":  "Renaissance studies"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/111",
+      "kód": "111",
+      "název": {
+          "cs":  "Ruská studia",
+          "en":  "Russian studies"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/112",
+      "kód": "112",
+      "název": {
+          "cs":  "Studia třetího světa",
+          "en":  "Third world studies"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/113",
+      "kód": "113",
+      "název": {
+          "cs":  "Další",
+          "en":  "Other"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/114",
+      "kód": "114",
+      "název": {
+          "cs":  "Demografie",
+          "en":  "Demography"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/115",
+      "kód": "115",
+      "název": {
+          "cs":  "Ostatní",
+          "en":  "Other"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/116",
+      "kód": "116",
+      "název": {
+          "cs":  "Ekonomie ",
+          "en":  "Economics "
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/117",
+      "kód": "117",
+      "název": {
+          "cs":  "Správní vědy",
+          "en":  "Administrative sciences"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/118",
+      "kód": "118",
+      "název": {
+          "cs":  "Zemědělská ekonomika",
+          "en":  "Agricultural economics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/119",
+      "kód": "119",
+      "název": {
+          "cs":  "Aplikovaná ekonomie",
+          "en":  "Applied economics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/12",
+      "kód": "12",
+      "název": {
+          "cs":  "Antropologie",
+          "en":  "Anthropology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/120",
+      "kód": "120",
+      "název": {
+          "cs":  "Bankovnictví",
+          "en":  "Banking"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/121",
+      "kód": "121",
+      "název": {
+          "cs":  "Podniková ekonomika",
+          "en":  "Business economics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/122",
+      "kód": "122",
+      "název": {
+          "cs":  "Katastrální průzkum",
+          "en":  "Cadastral survey"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/123",
+      "kód": "123",
+      "název": {
+          "cs":  "Obchodní ekonomie",
+          "en":  "Commercial economics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/124",
+      "kód": "124",
+      "název": {
+          "cs":  "Ekonomika stavebnictví",
+          "en":  "Construction economics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/125",
+      "kód": "125",
+      "název": {
+          "cs":  "Ekonomika spotřebitele",
+          "en":  "Consumer economics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/1253",
+      "kód": "1253",
+      "název": {
+          "cs":  "Všechny",
+          "en":  "All"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/1254",
+      "kód": "1254",
+      "název": {
+          "cs":  "Ostatní",
+          "en":  "Other"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/1255",
+      "kód": "1255",
+      "název": {
+          "cs":  "Klinická farmakologie",
+          "en":  "Clinical pharmacology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/126",
+      "kód": "126",
+      "název": {
+          "cs":  "Cyklická ekonomika",
+          "en":  "Cyclical economics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/127",
+      "kód": "127",
+      "název": {
+          "cs":  "Ekonometrie",
+          "en":  "Econometrics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/128",
+      "kód": "128",
+      "název": {
+          "cs":  "Hospodářská politika",
+          "en":  "Economic policy"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/129",
+      "kód": "129",
+      "název": {
+          "cs":  "Ekonomické systémy",
+          "en":  "Economic systems"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/13",
+      "kód": "13",
+      "název": {
+          "cs":  "Komunikační antropologie",
+          "en":  "Communication anthropology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/130",
+      "kód": "130",
+      "název": {
+          "cs":  "Ekonomická teorie",
+          "en":  "Economic theory"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/131",
+      "kód": "131",
+      "název": {
+          "cs":  "Ekonomie rozvoje",
+          "en":  "Economics of development"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/132",
+      "kód": "132",
+      "název": {
+          "cs":  "Ekonomie životního prostředí",
+          "en":  "Environmental economics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/133",
+      "kód": "133",
+      "název": {
+          "cs":  "Finanční věda",
+          "en":  "Financial science"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/134",
+      "kód": "134",
+      "název": {
+          "cs":  "Ekonomika rybolovu",
+          "en":  "Fishery economy"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/135",
+      "kód": "135",
+      "název": {
+          "cs":  "Ekonomika potravinářství",
+          "en":  "Food economics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/136",
+      "kód": "136",
+      "název": {
+          "cs":  "Ekonomika zdraví",
+          "en":  "Health economics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/137",
+      "kód": "137",
+      "název": {
+          "cs":  "Ekonomika domácnosti",
+          "en":  "Home economics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/138",
+      "kód": "138",
+      "název": {
+          "cs":  "Průmyslová ekonomika",
+          "en":  "Industrial economics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/139",
+      "kód": "139",
+      "název": {
+          "cs":  "Mezinárodní ekonomika",
+          "en":  "International economics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/14",
+      "kód": "14",
+      "název": {
+          "cs":  "Kulturní antropologie",
+          "en":  "Cultural anthropology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/140",
+      "kód": "140",
+      "název": {
+          "cs":  "Znalostní ekonomika",
+          "en":  "Knowledge economy"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/141",
+      "kód": "141",
+      "název": {
+          "cs":  "Ekonomika práce",
+          "en":  "Labour economics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/142",
+      "kód": "142",
+      "název": {
+          "cs":  "Ekonomika trhu práce",
+          "en":  "Labour market economics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/143",
+      "kód": "143",
+      "název": {
+          "cs":  "Pozemkové hospodářství",
+          "en":  "Land economy"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/144",
+      "kód": "144",
+      "název": {
+          "cs":  "Místní veřejná ekonomika",
+          "en":  "Local public economics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/145",
+      "kód": "145",
+      "název": {
+          "cs":  "Makroekonomie",
+          "en":  "Macroeconomics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/146",
+      "kód": "146",
+      "název": {
+          "cs":  "Studie managementu",
+          "en":  "Management studies"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/147",
+      "kód": "147",
+      "název": {
+          "cs":  "Marketing",
+          "en":  "Marketing"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/148",
+      "kód": "148",
+      "název": {
+          "cs":  "Mikroekonomie",
+          "en":  "Microeconomics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/149",
+      "kód": "149",
+      "název": {
+          "cs":  "Politická ekonomie",
+          "en":  "Political economy"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/15",
+      "kód": "15",
+      "název": {
+          "cs":  "Etnologie",
+          "en":  "Ethnology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/150",
+      "kód": "150",
+      "název": {
+          "cs":  "Ekonomika výroby",
+          "en":  "Production economics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/151",
+      "kód": "151",
+      "název": {
+          "cs":  "Sociální ekonomie",
+          "en":  "Social economics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/152",
+      "kód": "152",
+      "název": {
+          "cs":  "Studium cestovního ruchu",
+          "en":  "Tourism studies"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/153",
+      "kód": "153",
+      "název": {
+          "cs":  "Ekonomika dopravy",
+          "en":  "Transport economics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/154",
+      "kód": "154",
+      "název": {
+          "cs":  "Oceňování",
+          "en":  "Valuation"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/155",
+      "kód": "155",
+      "název": {
+          "cs":  "Veterinární ekonomie",
+          "en":  "Veterinary economics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/156",
+      "kód": "156",
+      "název": {
+          "cs":  "Ostatní",
+          "en":  "Other"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/157",
+      "kód": "157",
+      "název": {
+          "cs":  "Vědy o vzdělávání",
+          "en":  "Educational sciences"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/158",
+      "kód": "158",
+      "název": {
+          "cs":  "Vzdělávání",
+          "en":  "Education"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/159",
+      "kód": "159",
+      "název": {
+          "cs":  "Studie o vzdělávání",
+          "en":  "Learning studies"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/16",
+      "kód": "16",
+      "název": {
+          "cs":  "Lékařská antropologie",
+          "en":  "Medical anthropology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/160",
+      "kód": "160",
+      "název": {
+          "cs":  "Metodologie výzkumu",
+          "en":  "Research methodology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/161",
+      "kód": "161",
+      "název": {
+          "cs":  "Metody výuky",
+          "en":  "Teaching methods"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/162",
+      "kód": "162",
+      "název": {
+          "cs":  "Ostatní",
+          "en":  "Other"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/163",
+      "kód": "163",
+      "název": {
+          "cs":  "Inženýrství",
+          "en":  "Engineering"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/164",
+      "kód": "164",
+      "název": {
+          "cs":  "Letecké a kosmické inženýrství",
+          "en":  "Aerospace engineering"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/165",
+      "kód": "165",
+      "název": {
+          "cs":  "Zemědělské inženýrství",
+          "en":  "Agricultural engineering"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/166",
+      "kód": "166",
+      "název": {
+          "cs":  "Biomateriálové inženýrství",
+          "en":  "Biomaterial engineering"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/167",
+      "kód": "167",
+      "název": {
+          "cs":  "Biomedicínské inženýrství",
+          "en":  "Biomedical engineering"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/168",
+      "kód": "168",
+      "název": {
+          "cs":  "Chemické inženýrství",
+          "en":  "Chemical engineering"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/169",
+      "kód": "169",
+      "název": {
+          "cs":  "Stavební inženýrství",
+          "en":  "Civil engineering"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/17",
+      "kód": "17",
+      "název": {
+          "cs":  "Fyzická antropologie",
+          "en":  "Physical anthropology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/170",
+      "kód": "170",
+      "název": {
+          "cs":  "Komunikační inženýrství",
+          "en":  "Communication engineering"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/171",
+      "kód": "171",
+      "název": {
+          "cs":  "Počítačové inženýrství",
+          "en":  "Computer engineering"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/172",
+      "kód": "172",
+      "název": {
+          "cs":  "Řídicí technika",
+          "en":  "Control engineering"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/173",
+      "kód": "173",
+      "název": {
+          "cs":  "Konstrukční inženýrství",
+          "en":  "Design engineering"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/174",
+      "kód": "174",
+      "název": {
+          "cs":  "Elektrotechnika",
+          "en":  "Electrical engineering"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/175",
+      "kód": "175",
+      "název": {
+          "cs":  "Elektronické inženýrství",
+          "en":  "Electronic engineering"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/176",
+      "kód": "176",
+      "název": {
+          "cs":  "Geologické inženýrství",
+          "en":  "Geological engineering"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/177",
+      "kód": "177",
+      "název": {
+          "cs":  "Průmyslové inženýrství",
+          "en":  "Industrial engineering"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/178",
+      "kód": "178",
+      "název": {
+          "cs":  "Znalostní inženýrství",
+          "en":  "Knowledge engineering"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/179",
+      "kód": "179",
+      "název": {
+          "cs":  "Námořní inženýrství",
+          "en":  "Maritime engineering"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/18",
+      "kód": "18",
+      "název": {
+          "cs":  "Sociální antropologie",
+          "en":  "Social anthropology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/180",
+      "kód": "180",
+      "název": {
+          "cs":  "Materiálové inženýrství",
+          "en":  "Materials engineering"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/181",
+      "kód": "181",
+      "název": {
+          "cs":  "Strojní inženýrství",
+          "en":  "Mechanical engineering"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/182",
+      "kód": "182",
+      "název": {
+          "cs":  "Mikroinženýrství",
+          "en":  "Microengineering"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/183",
+      "kód": "183",
+      "název": {
+          "cs":  "Jaderné inženýrství",
+          "en":  "Nuclear engineering"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/184",
+      "kód": "184",
+      "název": {
+          "cs":  "Přesné strojírenství",
+          "en":  "Precision engineering"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/185",
+      "kód": "185",
+      "název": {
+          "cs":  "Procesní inženýrství",
+          "en":  "Process engineering"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/186",
+      "kód": "186",
+      "název": {
+          "cs":  "Projektové inženýrství",
+          "en":  "Project engineering"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/187",
+      "kód": "187",
+      "název": {
+          "cs":  "Simulační inženýrství",
+          "en":  "Simulation engineering"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/188",
+      "kód": "188",
+      "název": {
+          "cs":  "Zvuková technika",
+          "en":  "Sound engineering"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/189",
+      "kód": "189",
+      "název": {
+          "cs":  "Geodézie",
+          "en":  "Surveying"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/19",
+      "kód": "19",
+      "název": {
+          "cs":  "Ostatní",
+          "en":  "Other"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/190",
+      "kód": "190",
+      "název": {
+          "cs":  "Systémové inženýrství",
+          "en":  "Systems engineering"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/191",
+      "kód": "191",
+      "název": {
+          "cs":  "Tepelné inženýrství",
+          "en":  "Thermal engineering"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/192",
+      "kód": "192",
+      "název": {
+          "cs":  "Inženýrství vodních zdrojů",
+          "en":  "Water resources engineering"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/193",
+      "kód": "193",
+      "název": {
+          "cs":  "Ostatní",
+          "en":  "Other"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/194",
+      "kód": "194",
+      "název": {
+          "cs":  "Věda o životním prostředí",
+          "en":  "Environmental science"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/195",
+      "kód": "195",
+      "název": {
+          "cs":  "Vědy o Zemi",
+          "en":  "Earth science"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/196",
+      "kód": "196",
+      "název": {
+          "cs":  "Ekologie",
+          "en":  "Ecology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/197",
+      "kód": "197",
+      "název": {
+          "cs":  "Globální změny",
+          "en":  "Global change"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/198",
+      "kód": "198",
+      "název": {
+          "cs":  "Řízení přírodních zdrojů",
+          "en":  "Natural resources management"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/199",
+      "kód": "199",
+      "název": {
+          "cs":  "Věda o vodě",
+          "en":  "Water science"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/2",
+      "kód": "2",
+      "název": {
+          "cs":  "Zemědělské produkty",
+          "en":  "Agricultural products"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/20",
+      "kód": "20",
+      "název": {
+          "cs":  "Architektura ",
+          "en":  "Architecture "
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/200",
+      "kód": "200",
+      "název": {
+          "cs":  "Další",
+          "en":  "Other"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/201",
+      "kód": "201",
+      "název": {
+          "cs":  "Etika ve zdravotnických vědách",
+          "en":  "Ethics in health sciences"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/202",
+      "kód": "202",
+      "název": {
+          "cs":  "Ostatní",
+          "en":  "Other"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/203",
+      "kód": "203",
+      "název": {
+          "cs":  "Etika v přírodních vědách ",
+          "en":  "Ethics in natural sciences "
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/204",
+      "kód": "204",
+      "název": {
+          "cs":  "Ostatní",
+          "en":  "Other"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/205",
+      "kód": "205",
+      "název": {
+          "cs":  "Etika ve fyzikálních vědách",
+          "en":  "Ethics in physical sciences"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/206",
+      "kód": "206",
+      "název": {
+          "cs":  "Ostatní",
+          "en":  "Other"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/207",
+      "kód": "207",
+      "název": {
+          "cs":  "Etika ve společenských vědách",
+          "en":  "Ethics in social sciences"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/208",
+      "kód": "208",
+      "název": {
+          "cs":  "Ostatní",
+          "en":  "Other"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/209",
+      "kód": "209",
+      "název": {
+          "cs":  "Geografie",
+          "en":  "Geography"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/21",
+      "kód": "21",
+      "název": {
+          "cs":  "Design",
+          "en":  "Design"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/210",
+      "kód": "210",
+      "název": {
+          "cs":  "Kartografie",
+          "en":  "Cartography"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/211",
+      "kód": "211",
+      "název": {
+          "cs":  "Ekonomická geografie",
+          "en":  "Economic geography"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/212",
+      "kód": "212",
+      "název": {
+          "cs":  "Geopolitika",
+          "en":  "Geopolitics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/213",
+      "kód": "213",
+      "název": {
+          "cs":  "Historická geografie",
+          "en":  "Historical geography"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/214",
+      "kód": "214",
+      "název": {
+          "cs":  "Humánní geografie",
+          "en":  "Human geography"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/215",
+      "kód": "215",
+      "název": {
+          "cs":  "Regionální geografie",
+          "en":  "Regional geography"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/216",
+      "kód": "216",
+      "název": {
+          "cs":  "Sociální geografie",
+          "en":  "Social geography"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/217",
+      "kód": "217",
+      "název": {
+          "cs":  "Ostatní",
+          "en":  "Other"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/218",
+      "kód": "218",
+      "název": {
+          "cs":  "Geovědní obory",
+          "en":  "Geosciences"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/219",
+      "kód": "219",
+      "název": {
+          "cs":  "Geologie",
+          "en":  "Geology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/22",
+      "kód": "22",
+      "název": {
+          "cs":  "Krajinná architektura",
+          "en":  "Landscape architecture"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/220",
+      "kód": "220",
+      "název": {
+          "cs":  "Hydrologie",
+          "en":  "Hydrology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/221",
+      "kód": "221",
+      "název": {
+          "cs":  "Ostatní",
+          "en":  "Other"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/222",
+      "kód": "222",
+      "název": {
+          "cs":  "Historie",
+          "en":  "History"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/223",
+      "kód": "223",
+      "název": {
+          "cs":  "Starověké dějiny",
+          "en":  "Ancient history"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/224",
+      "kód": "224",
+      "název": {
+          "cs":  "Archeologie",
+          "en":  "Archaeology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/225",
+      "kód": "225",
+      "název": {
+          "cs":  "Dějiny umění",
+          "en":  "Art history"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/226",
+      "kód": "226",
+      "název": {
+          "cs":  "Církevní dějiny",
+          "en":  "Church history"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/227",
+      "kód": "227",
+      "název": {
+          "cs":  "Soudobé dějiny",
+          "en":  "Contemporary history"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/228",
+      "kód": "228",
+      "název": {
+          "cs":  "Hospodářské dějiny",
+          "en":  "Economic history"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/229",
+      "kód": "229",
+      "název": {
+          "cs":  "Genealogie",
+          "en":  "Genealogy"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/23",
+      "kód": "23",
+      "název": {
+          "cs":  "Námořní architektura",
+          "en":  "Naval architecture"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/230",
+      "kód": "230",
+      "název": {
+          "cs":  "Heraldika",
+          "en":  "Heraldry"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/231",
+      "kód": "231",
+      "název": {
+          "cs":  "Dějiny zemědělství",
+          "en":  "History of agriculture"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/232",
+      "kód": "232",
+      "název": {
+          "cs":  "Dějiny designu",
+          "en":  "History of design"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/233",
+      "kód": "233",
+      "název": {
+          "cs":  "Dějiny práva",
+          "en":  "History of law"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/234",
+      "kód": "234",
+      "název": {
+          "cs":  "Dějiny herectví",
+          "en":  "History of performance"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/235",
+      "kód": "235",
+      "název": {
+          "cs":  "Dějiny filozofie",
+          "en":  "History of philosophy"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/236",
+      "kód": "236",
+      "název": {
+          "cs":  "Dějiny náboženství",
+          "en":  "History of religions"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/237",
+      "kód": "237",
+      "název": {
+          "cs":  "Dějiny vědy",
+          "en":  "History of science"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/238",
+      "kód": "238",
+      "název": {
+          "cs":  "Dějiny společenských věd",
+          "en":  "History of social sciences"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/239",
+      "kód": "239",
+      "název": {
+          "cs":  "Místní dějiny",
+          "en":  "Local history"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/24",
+      "kód": "24",
+      "název": {
+          "cs":  "Ostatní",
+          "en":  "Other"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/240",
+      "kód": "240",
+      "název": {
+          "cs":  "Dějiny středověku",
+          "en":  "Medieval history"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/241",
+      "kód": "241",
+      "název": {
+          "cs":  "Novověké dějiny",
+          "en":  "Modern history"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/242",
+      "kód": "242",
+      "název": {
+          "cs":  "Dějiny hudby",
+          "en":  "Music history"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/243",
+      "kód": "243",
+      "název": {
+          "cs":  "Numismatika",
+          "en":  "Numismatics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/244",
+      "kód": "244",
+      "název": {
+          "cs":  "Paleografie",
+          "en":  "Paleography"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/245",
+      "kód": "245",
+      "název": {
+          "cs":  "Politické dějiny",
+          "en":  "Political history"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/246",
+      "kód": "246",
+      "název": {
+          "cs":  "Pravěk",
+          "en":  "Prehistory"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/247",
+      "kód": "247",
+      "název": {
+          "cs":  "Sigilografie",
+          "en":  "Sigillography"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/248",
+      "kód": "248",
+      "název": {
+          "cs":  "Sociální dějiny",
+          "en":  "Social history"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/249",
+      "kód": "249",
+      "název": {
+          "cs":  "Ostatní",
+          "en":  "Other"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/25",
+      "kód": "25",
+      "název": {
+          "cs":  "Umění",
+          "en":  "Arts"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/250",
+      "kód": "250",
+      "název": {
+          "cs":  "Informační věda",
+          "en":  "Information science"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/251",
+      "kód": "251",
+      "název": {
+          "cs":  "Archivnictví",
+          "en":  "Archivistics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/252",
+      "kód": "252",
+      "název": {
+          "cs":  "Diplomatika",
+          "en":  "Diplomatics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/253",
+      "kód": "253",
+      "název": {
+          "cs":  "Dokumentace",
+          "en":  "Documentation"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/254",
+      "kód": "254",
+      "název": {
+          "cs":  "Informační management",
+          "en":  "Information management"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/255",
+      "kód": "255",
+      "název": {
+          "cs":  "Knihovnictví",
+          "en":  "Library science"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/256",
+      "kód": "256",
+      "název": {
+          "cs":  "Ostatní",
+          "en":  "Other"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/257",
+      "kód": "257",
+      "název": {
+          "cs":  "Právní vědy",
+          "en":  "Juridical sciences"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/258",
+      "kód": "258",
+      "název": {
+          "cs":  "Agrární právo",
+          "en":  "Agrarian law"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/259",
+      "kód": "259",
+      "název": {
+          "cs":  "Kanonické právo",
+          "en":  "Canon law"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/26",
+      "kód": "26",
+      "název": {
+          "cs":  "Umělecký management",
+          "en":  "Arts management"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/260",
+      "kód": "260",
+      "název": {
+          "cs":  "Srovnávací právo",
+          "en":  "Comparative law"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/261",
+      "kód": "261",
+      "název": {
+          "cs":  "Trestní právo",
+          "en":  "Criminal law"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/262",
+      "kód": "262",
+      "název": {
+          "cs":  "Právo životního prostředí",
+          "en":  "Environmental law"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/263",
+      "kód": "263",
+      "název": {
+          "cs":  "Evropské právo",
+          "en":  "European law"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/264",
+      "kód": "264",
+      "název": {
+          "cs":  "Finanční právo",
+          "en":  "Finance law"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/265",
+      "kód": "265",
+      "název": {
+          "cs":  "Daňové právo",
+          "en":  "Fiscal law"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/266",
+      "kód": "266",
+      "název": {
+          "cs":  "Zdravotní právo",
+          "en":  "Health law"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/267",
+      "kód": "267",
+      "název": {
+          "cs":  "Informační právo",
+          "en":  "Informatic law"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/268",
+      "kód": "268",
+      "název": {
+          "cs":  "Mezinárodní právo",
+          "en":  "International law"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/269",
+      "kód": "269",
+      "název": {
+          "cs":  "Soudní právo",
+          "en":  "Judicial law"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/27",
+      "kód": "27",
+      "název": {
+          "cs":  "Studium módy",
+          "en":  "Fashion studies"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/270",
+      "kód": "270",
+      "název": {
+          "cs":  "Právo mladistvých",
+          "en":  "Juvenile law"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/271",
+      "kód": "271",
+      "název": {
+          "cs":  "Pracovní právo",
+          "en":  "Labour law"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/272",
+      "kód": "272",
+      "název": {
+          "cs":  "Mediální právo",
+          "en":  "Media law"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/273",
+      "kód": "273",
+      "název": {
+          "cs":  "Zdravotnické právo",
+          "en":  "Medical law"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/274",
+      "kód": "274",
+      "název": {
+          "cs":  "Soukromé právo",
+          "en":  "Private law"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/275",
+      "kód": "275",
+      "název": {
+          "cs":  "Veřejné právo",
+          "en":  "Public law"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/276",
+      "kód": "276",
+      "název": {
+          "cs":  "Římské právo",
+          "en":  "Roman law"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/277",
+      "kód": "277",
+      "název": {
+          "cs":  "Sociální právo",
+          "en":  "Social law"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/278",
+      "kód": "278",
+      "název": {
+          "cs":  "Dopravní právo",
+          "en":  "Transportation law"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/279",
+      "kód": "279",
+      "název": {
+          "cs":  "Ostatní",
+          "en":  "Other"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/28",
+      "kód": "28",
+      "název": {
+          "cs":  "Výtvarné umění",
+          "en":  "Fine arts"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/280",
+      "kód": "280",
+      "název": {
+          "cs":  "Jazykové vědy ",
+          "en":  "Language sciences "
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/281",
+      "kód": "281",
+      "název": {
+          "cs":  "Jazyky",
+          "en":  "Languages"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/282",
+      "kód": "282",
+      "název": {
+          "cs":  "Jazykověda",
+          "en":  "Linguistics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/283",
+      "kód": "283",
+      "název": {
+          "cs":  "Filologie",
+          "en":  "Philology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/284",
+      "kód": "284",
+      "název": {
+          "cs":  "Ostatní",
+          "en":  "Other"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/285",
+      "kód": "285",
+      "název": {
+          "cs":  "Literatura ",
+          "en":  "Literature "
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/286",
+      "kód": "286",
+      "název": {
+          "cs":  "Africká literatura",
+          "en":  "African literature"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/287",
+      "kód": "287",
+      "název": {
+          "cs":  "Americká literatura",
+          "en":  "American literature"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/288",
+      "kód": "288",
+      "název": {
+          "cs":  "Asijská literatura",
+          "en":  "Asian literature"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/289",
+      "kód": "289",
+      "název": {
+          "cs":  "austronéská literatura",
+          "en":  "Austronesian literature"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/29",
+      "kód": "29",
+      "název": {
+          "cs":  "Řemesla",
+          "en":  "Handicrafts"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/290",
+      "kód": "290",
+      "název": {
+          "cs":  "Srovnávací literatura",
+          "en":  "Comparative literature"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/291",
+      "kód": "291",
+      "název": {
+          "cs":  "Evropská literatura",
+          "en":  "European literature"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/292",
+      "kód": "292",
+      "název": {
+          "cs":  "řecká literatura",
+          "en":  "Greek literature"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/293",
+      "kód": "293",
+      "název": {
+          "cs":  "Hamito-semitská literatura",
+          "en":  "Hamito-semitic literature"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/294",
+      "kód": "294",
+      "název": {
+          "cs":  "Literární kritika",
+          "en":  "Literary criticism"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/295",
+      "kód": "295",
+      "název": {
+          "cs":  "Psaní",
+          "en":  "Writing"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/296",
+      "kód": "296",
+      "název": {
+          "cs":  "Ostatní",
+          "en":  "Other"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/297",
+      "kód": "297",
+      "název": {
+          "cs":  "Matematika",
+          "en":  "Mathematics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/298",
+      "kód": "298",
+      "název": {
+          "cs":  "Algebra",
+          "en":  "Algebra"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/299",
+      "kód": "299",
+      "název": {
+          "cs":  "Algoritmy",
+          "en":  "Algorithms"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/3",
+      "kód": "3",
+      "název": {
+          "cs":  "Agronomie",
+          "en":  "Agronomics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/30",
+      "kód": "30",
+      "název": {
+          "cs":  "Scénická umění",
+          "en":  "Performing arts"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/300",
+      "kód": "300",
+      "název": {
+          "cs":  "Aplikovaná matematika",
+          "en":  "Applied mathematics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/301",
+      "kód": "301",
+      "název": {
+          "cs":  "Teorie chaosu",
+          "en":  "Chaos theory"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/302",
+      "kód": "302",
+      "název": {
+          "cs":  "Kombinatorická analýza",
+          "en":  "Combinatorial analysis"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/303",
+      "kód": "303",
+      "název": {
+          "cs":  "Výpočetní matematika",
+          "en":  "Computational mathematics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/304",
+      "kód": "304",
+      "název": {
+          "cs":  "Diskrétní matematika",
+          "en":  "Discrete mathematics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/305",
+      "kód": "305",
+      "název": {
+          "cs":  "Geometrie",
+          "en":  "Geometry"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/306",
+      "kód": "306",
+      "název": {
+          "cs":  "Matematická analýza",
+          "en":  "Mathematical analysis"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/307",
+      "kód": "307",
+      "název": {
+          "cs":  "Matematická logika",
+          "en":  "Mathematical logic"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/308",
+      "kód": "308",
+      "název": {
+          "cs":  "Teorie čísel",
+          "en":  "Number theory"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/309",
+      "kód": "309",
+      "název": {
+          "cs":  "Teorie pravděpodobnosti",
+          "en":  "Probability theory"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/31",
+      "kód": "31",
+      "název": {
+          "cs":  "Výtvarné umění",
+          "en":  "Visual arts"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/310",
+      "kód": "310",
+      "název": {
+          "cs":  "Statistika",
+          "en":  "Statistics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/311",
+      "kód": "311",
+      "název": {
+          "cs":  "Další",
+          "en":  "Other"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/312",
+      "kód": "312",
+      "název": {
+          "cs":  "Lékařské vědy ",
+          "en":  "Medical sciences "
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/313",
+      "kód": "313",
+      "název": {
+          "cs":  "Medicína",
+          "en":  "Medicine"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/314",
+      "kód": "314",
+      "název": {
+          "cs":  "Veterinární medicína",
+          "en":  "Veterinary medicine"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/315",
+      "kód": "315",
+      "název": {
+          "cs":  "Ostatní",
+          "en":  "Other"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/316",
+      "kód": "316",
+      "název": {
+          "cs":  "Neurovědy",
+          "en":  "Neurosciences"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/317",
+      "kód": "317",
+      "název": {
+          "cs":  "Neurobiologie",
+          "en":  "Neurobiology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/318",
+      "kód": "318",
+      "název": {
+          "cs":  "Neurochemie",
+          "en":  "Neurochemistry"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/319",
+      "kód": "319",
+      "název": {
+          "cs":  "Neuroinformatika",
+          "en":  "Neuroinformatics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/32",
+      "kód": "32",
+      "název": {
+          "cs":  "Ostatní",
+          "en":  "Other"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/320",
+      "kód": "320",
+      "název": {
+          "cs":  "Neurologie",
+          "en":  "Neurology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/321",
+      "kód": "321",
+      "název": {
+          "cs":  "Neurofyziologie",
+          "en":  "Neurophysiology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/322",
+      "kód": "322",
+      "název": {
+          "cs":  "Neuropsychologie",
+          "en":  "Neuropsychology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/323",
+      "kód": "323",
+      "název": {
+          "cs":  "Ostatní",
+          "en":  "Other"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/324",
+      "kód": "324",
+      "název": {
+          "cs":  "Farmakologické vědy ",
+          "en":  "Pharmacological sciences "
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/325",
+      "kód": "325",
+      "název": {
+          "cs":  "Kosmetologie",
+          "en":  "Cosmetology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/326",
+      "kód": "326",
+      "název": {
+          "cs":  "Farmakognozie",
+          "en":  "Pharmacognosy"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/327",
+      "kód": "327",
+      "název": {
+          "cs":  "Farmacie",
+          "en":  "Pharmacy"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/328",
+      "kód": "328",
+      "název": {
+          "cs":  "Toxikologie",
+          "en":  "Toxicology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/329",
+      "kód": "329",
+      "název": {
+          "cs":  "Veterinární farmakologie",
+          "en":  "Veterinary pharmacology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/33",
+      "kód": "33",
+      "název": {
+          "cs":  "Astronomie",
+          "en":  "Astronomy"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/330",
+      "kód": "330",
+      "název": {
+          "cs":  "Ostatní",
+          "en":  "Other"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/331",
+      "kód": "331",
+      "název": {
+          "cs":  "Filozofie",
+          "en":  "Philosophy"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/332",
+      "kód": "332",
+      "název": {
+          "cs":  "Estetika",
+          "en":  "Aesthetics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/333",
+      "kód": "333",
+      "název": {
+          "cs":  "Epistemologie",
+          "en":  "Epistemology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/334",
+      "kód": "334",
+      "název": {
+          "cs":  "Etika",
+          "en":  "Ethics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/335",
+      "kód": "335",
+      "název": {
+          "cs":  "Logika",
+          "en":  "Logic"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/336",
+      "kód": "336",
+      "název": {
+          "cs":  "Metafyzika",
+          "en":  "Metaphysics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/337",
+      "kód": "337",
+      "název": {
+          "cs":  "Fenomenologie",
+          "en":  "Phenomenology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/338",
+      "kód": "338",
+      "název": {
+          "cs":  "Filosofická antropologie",
+          "en":  "Philosophical anthropology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/339",
+      "kód": "339",
+      "název": {
+          "cs":  "Filosofie práva",
+          "en":  "Philosophy of law"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/34",
+      "kód": "34",
+      "název": {
+          "cs":  "Astrofyzika",
+          "en":  "Astrophysics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/340",
+      "kód": "340",
+      "název": {
+          "cs":  "Filosofie vědy",
+          "en":  "Philosophy of science"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/341",
+      "kód": "341",
+      "název": {
+          "cs":  "Sémiotika",
+          "en":  "Semiotics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/342",
+      "kód": "342",
+      "název": {
+          "cs":  "Systematická filozofie",
+          "en":  "Systematic philosophy"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/343",
+      "kód": "343",
+      "název": {
+          "cs":  "Další",
+          "en":  "Other"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/344",
+      "kód": "344",
+      "název": {
+          "cs":  "Fyzika",
+          "en":  "Physics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/345",
+      "kód": "345",
+      "název": {
+          "cs":  "Akustika",
+          "en":  "Acoustics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/346",
+      "kód": "346",
+      "název": {
+          "cs":  "Aplikovaná fyzika",
+          "en":  "Applied physics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/347",
+      "kód": "347",
+      "název": {
+          "cs":  "Biofyzika",
+          "en":  "Biophysics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/348",
+      "kód": "348",
+      "název": {
+          "cs":  "Chemická fyzika",
+          "en":  "Chemical physics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/349",
+      "kód": "349",
+      "název": {
+          "cs":  "Klasická mechanika",
+          "en":  "Classical mechanics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/35",
+      "kód": "35",
+      "název": {
+          "cs":  "Kosmologie",
+          "en":  "Cosmology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/350",
+      "kód": "350",
+      "název": {
+          "cs":  "Výpočetní fyzika",
+          "en":  "Computational physics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/351",
+      "kód": "351",
+      "název": {
+          "cs":  "Vlastnosti kondenzované hmoty",
+          "en":  "Condensed matter properties"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/352",
+      "kód": "352",
+      "název": {
+          "cs":  "Elektromagnetismus",
+          "en":  "Electromagnetism"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/353",
+      "kód": "353",
+      "název": {
+          "cs":  "Elektronika",
+          "en":  "Electronics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/354",
+      "kód": "354",
+      "název": {
+          "cs":  "Matematická fyzika",
+          "en":  "Mathematical physics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/355",
+      "kód": "355",
+      "název": {
+          "cs":  "Metrologie",
+          "en":  "Metrology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/356",
+      "kód": "356",
+      "název": {
+          "cs":  "Neutronová fyzika",
+          "en":  "Neutron physics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/357",
+      "kód": "357",
+      "název": {
+          "cs":  "Optika",
+          "en":  "Optics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/358",
+      "kód": "358",
+      "název": {
+          "cs":  "Kvantová mechanika",
+          "en":  "Quantum mechanics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/359",
+      "kód": "359",
+      "název": {
+          "cs":  "Relativita",
+          "en":  "Relativity"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/36",
+      "kód": "36",
+      "název": {
+          "cs":  "Ostatní",
+          "en":  "Other"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/360",
+      "kód": "360",
+      "název": {
+          "cs":  "Fyzika pevných látek",
+          "en":  "Solid state physics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/361",
+      "kód": "361",
+      "název": {
+          "cs":  "Statika",
+          "en":  "Statics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/362",
+      "kód": "362",
+      "název": {
+          "cs":  "Statistická fyzika",
+          "en":  "Statistical physics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/363",
+      "kód": "363",
+      "název": {
+          "cs":  "Fyzika povrchů",
+          "en":  "Surface physics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/364",
+      "kód": "364",
+      "název": {
+          "cs":  "Termodynamika",
+          "en":  "Thermodynamics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/365",
+      "kód": "365",
+      "název": {
+          "cs":  "Další",
+          "en":  "Other"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/366",
+      "kód": "366",
+      "název": {
+          "cs":  "Politické vědy",
+          "en":  "Political sciences"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/367",
+      "kód": "367",
+      "název": {
+          "cs":  "Správa věcí veřejných",
+          "en":  "Governance"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/368",
+      "kód": "368",
+      "název": {
+          "cs":  "Politická studia",
+          "en":  "Policy studies"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/369",
+      "kód": "369",
+      "název": {
+          "cs":  "Povědomí veřejnosti o vědě",
+          "en":  "Public awareness of science"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/37",
+      "kód": "37",
+      "název": {
+          "cs":  "Biologické vědy ",
+          "en":  "Biological sciences "
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/370",
+      "kód": "370",
+      "název": {
+          "cs":  "Veřejná politika",
+          "en":  "Public policy"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/371",
+      "kód": "371",
+      "název": {
+          "cs":  "Věda a společnost",
+          "en":  "Science and society"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/372",
+      "kód": "372",
+      "název": {
+          "cs":  "Další",
+          "en":  "Other"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/373",
+      "kód": "373",
+      "název": {
+          "cs":  "Psychologické vědy",
+          "en":  "Psychological sciences"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/374",
+      "kód": "374",
+      "název": {
+          "cs":  "Behaviorální vědy",
+          "en":  "Behavioural sciences"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/375",
+      "kód": "375",
+      "název": {
+          "cs":  "Kognitivní vědy",
+          "en":  "Cognitive science"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/376",
+      "kód": "376",
+      "název": {
+          "cs":  "Psychoanalytické studie",
+          "en":  "Psychoanalytic studies"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/377",
+      "kód": "377",
+      "název": {
+          "cs":  "Psychologie",
+          "en":  "Psychology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/378",
+      "kód": "378",
+      "název": {
+          "cs":  "Ostatní",
+          "en":  "Other"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/379",
+      "kód": "379",
+      "název": {
+          "cs":  "Náboženské vědy",
+          "en":  "Religious sciences"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/38",
+      "kód": "38",
+      "název": {
+          "cs":  "Biodiverzita",
+          "en":  "Biodiversity"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/380",
+      "kód": "380",
+      "název": {
+          "cs":  "Biblická studia",
+          "en":  "Biblical studies"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/381",
+      "kód": "381",
+      "název": {
+          "cs":  "Církevní studia",
+          "en":  "Church studies"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/382",
+      "kód": "382",
+      "název": {
+          "cs":  "Srovnávací náboženství",
+          "en":  "Comparative religion"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/383",
+      "kód": "383",
+      "název": {
+          "cs":  "Nekřesťanská náboženství",
+          "en":  "Non-Christian religions"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/384",
+      "kód": "384",
+      "název": {
+          "cs":  "Pastorační studia",
+          "en":  "Pastoral studies"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/385",
+      "kód": "385",
+      "název": {
+          "cs":  "Teologie",
+          "en":  "Theology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/386",
+      "kód": "386",
+      "název": {
+          "cs":  "Ostatní",
+          "en":  "Other"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/387",
+      "kód": "387",
+      "název": {
+          "cs":  "Sociologie",
+          "en":  "Sociology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/388",
+      "kód": "388",
+      "název": {
+          "cs":  "Sociologie výchovy",
+          "en":  "Educational sociology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/389",
+      "kód": "389",
+      "název": {
+          "cs":  "Makrosociologie",
+          "en":  "Macrosociology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/39",
+      "kód": "39",
+      "název": {
+          "cs":  "Biologické inženýrství",
+          "en":  "Biological engineering"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/390",
+      "kód": "390",
+      "název": {
+          "cs":  "Sociologie venkova",
+          "en":  "Rural sociology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/391",
+      "kód": "391",
+      "název": {
+          "cs":  "Sociální změny",
+          "en":  "Social changes"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/392",
+      "kód": "392",
+      "název": {
+          "cs":  "Sociální utváření technologií",
+          "en":  "Social shaping of technology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/393",
+      "kód": "393",
+      "název": {
+          "cs":  "Společenské chování",
+          "en":  "Societal behaviour"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/394",
+      "kód": "394",
+      "název": {
+          "cs":  "Sociálně-ekonomický výzkum",
+          "en":  "Socio-economic research"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/395",
+      "kód": "395",
+      "název": {
+          "cs":  "Sociologie podnikání",
+          "en":  "Sociology of enterprise"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/396",
+      "kód": "396",
+      "název": {
+          "cs":  "Sociologie práce",
+          "en":  "Sociology of labour"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/397",
+      "kód": "397",
+      "název": {
+          "cs":  "Sociologie náboženství",
+          "en":  "Sociology of religion"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/398",
+      "kód": "398",
+      "název": {
+          "cs":  "Sociologie měst",
+          "en":  "Urban sociology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/399",
+      "kód": "399",
+      "název": {
+          "cs":  "Ostatní",
+          "en":  "Other"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/4",
+      "kód": "4",
+      "název": {
+          "cs":  "Enologie",
+          "en":  "Enology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/40",
+      "kód": "40",
+      "název": {
+          "cs":  "Biologie",
+          "en":  "Biology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/400",
+      "kód": "400",
+      "název": {
+          "cs":  "Technologie",
+          "en":  "Technology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/401",
+      "kód": "401",
+      "název": {
+          "cs":  "Biotechnologie",
+          "en":  "Biotechnology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/402",
+      "kód": "402",
+      "název": {
+          "cs":  "Chemická technologie",
+          "en":  "Chemical technology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/403",
+      "kód": "403",
+      "název": {
+          "cs":  "Komunikační technologie",
+          "en":  "Communication technology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/404",
+      "kód": "404",
+      "název": {
+          "cs":  "Výpočetní technika",
+          "en":  "Computer technology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/405",
+      "kód": "405",
+      "název": {
+          "cs":  "Stavební technologie",
+          "en":  "Construction technology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/406",
+      "kód": "406",
+      "název": {
+          "cs":  "Datové techniky",
+          "en":  "Dating techniques"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/407",
+      "kód": "407",
+      "název": {
+          "cs":  "Elektrotechnika",
+          "en":  "Electrical technology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/408",
+      "kód": "408",
+      "název": {
+          "cs":  "Energetické technologie",
+          "en":  "Energy technology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/409",
+      "kód": "409",
+      "název": {
+          "cs":  "Technologie ochrany životního prostředí",
+          "en":  "Environmental technology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/41",
+      "kód": "41",
+      "název": {
+          "cs":  "Botanika",
+          "en":  "Botany"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/410",
+      "kód": "410",
+      "název": {
+          "cs":  "Technologie budoucnosti",
+          "en":  "Future technology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/411",
+      "kód": "411",
+      "název": {
+          "cs":  "Grafické techniky",
+          "en":  "Graphic techniques"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/412",
+      "kód": "412",
+      "název": {
+          "cs":  "Technologie vysokého vakua",
+          "en":  "High vacuum technology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/413",
+      "kód": "413",
+      "název": {
+          "cs":  "Průmyslová technologie",
+          "en":  "Industrial technology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/414",
+      "kód": "414",
+      "název": {
+          "cs":  "Informační technologie",
+          "en":  "Information technology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/415",
+      "kód": "415",
+      "název": {
+          "cs":  "Přístrojová technika",
+          "en":  "Instrumentation technology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/416",
+      "kód": "416",
+      "název": {
+          "cs":  "Technologie rozhraní",
+          "en":  "Interface technology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/417",
+      "kód": "417",
+      "název": {
+          "cs":  "Internetové technologie",
+          "en":  "Internet technology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/418",
+      "kód": "418",
+      "název": {
+          "cs":  "Znalostní technologie",
+          "en":  "Knowledge technology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/419",
+      "kód": "419",
+      "název": {
+          "cs":  "Laboratorní technologie",
+          "en":  "Laboratory technology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/42",
+      "kód": "42",
+      "název": {
+          "cs":  "Věda o laboratorních zvířatech",
+          "en":  "Laboratory animal science"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/420",
+      "kód": "420",
+      "název": {
+          "cs":  "Námořní technologie",
+          "en":  "Marine technology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/421",
+      "kód": "421",
+      "název": {
+          "cs":  "Materiálová technologie",
+          "en":  "Materials technology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/422",
+      "kód": "422",
+      "název": {
+          "cs":  "Technologie měření",
+          "en":  "Measurement technology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/423",
+      "kód": "423",
+      "název": {
+          "cs":  "Zdravotnická technika",
+          "en":  "Medical technology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/424",
+      "kód": "424",
+      "název": {
+          "cs":  "Mikrotechnologie",
+          "en":  "Micro-technology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/425",
+      "kód": "425",
+      "název": {
+          "cs":  "Vojenské technologie",
+          "en":  "Military technology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/426",
+      "kód": "426",
+      "název": {
+          "cs":  "Těžba",
+          "en":  "Mining"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/427",
+      "kód": "427",
+      "název": {
+          "cs":  "Nanotechnologie",
+          "en":  "Nanotechnology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/428",
+      "kód": "428",
+      "název": {
+          "cs":  "Jaderné technologie",
+          "en":  "Nuclear technology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/429",
+      "kód": "429",
+      "název": {
+          "cs":  "Optronika",
+          "en":  "Optronics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/43",
+      "kód": "43",
+      "název": {
+          "cs":  "Vědy o výživě",
+          "en":  "Nutritional sciences"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/430",
+      "kód": "430",
+      "název": {
+          "cs":  "Farmaceutické technologie",
+          "en":  "Pharmaceutical technology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/431",
+      "kód": "431",
+      "název": {
+          "cs":  "Výrobní technologie",
+          "en":  "Production technology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/432",
+      "kód": "432",
+      "název": {
+          "cs":  "Kvantová technologie",
+          "en":  "Quantum technology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/433",
+      "kód": "433",
+      "název": {
+          "cs":  "Dálkový průzkum",
+          "en":  "Remote sensing"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/434",
+      "kód": "434",
+      "název": {
+          "cs":  "Bezpečnostní technologie",
+          "en":  "Safety technology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/435",
+      "kód": "435",
+      "název": {
+          "cs":  "Zvuková technologie",
+          "en":  "Sound technology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/436",
+      "kód": "436",
+      "název": {
+          "cs":  "Vesmírná technologie",
+          "en":  "Space technology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/437",
+      "kód": "437",
+      "název": {
+          "cs":  "Standardizace technologií",
+          "en":  "Standardisation of technologies"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/438",
+      "kód": "438",
+      "název": {
+          "cs":  "Telekomunikační technologie",
+          "en":  "Telecommunications technology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/439",
+      "kód": "439",
+      "název": {
+          "cs":  "Dopravní technologie",
+          "en":  "Transport technology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/44",
+      "kód": "44",
+      "název": {
+          "cs":  "Zoologie",
+          "en":  "Zoology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/440",
+      "kód": "440",
+      "název": {
+          "cs":  "Vakuová technologie",
+          "en":  "Vacuum technology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/441",
+      "kód": "441",
+      "název": {
+          "cs":  "Vodní technologie",
+          "en":  "Water technology"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/442",
+      "kód": "442",
+      "název": {
+          "cs":  "Ostatní",
+          "en":  "Other"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/45",
+      "kód": "45",
+      "název": {
+          "cs":  "Ostatní",
+          "en":  "Other"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/46",
+      "kód": "46",
+      "název": {
+          "cs":  "Chemie ",
+          "en":  "Chemistry "
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/47",
+      "kód": "47",
+      "název": {
+          "cs":  "Analytická chemie",
+          "en":  "Analytical chemistry"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/48",
+      "kód": "48",
+      "název": {
+          "cs":  "Aplikovaná chemie",
+          "en":  "Applied chemistry"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/49",
+      "kód": "49",
+      "název": {
+          "cs":  "Biochemie",
+          "en":  "Biochemistry"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/5",
+      "kód": "5",
+      "název": {
+          "cs":  "Lesnické vědy",
+          "en":  "Forest sciences"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/50",
+      "kód": "50",
+      "název": {
+          "cs":  "Kombinatorická chemie",
+          "en":  "Combinatorial chemistry"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/51",
+      "kód": "51",
+      "název": {
+          "cs":  "Výpočetní chemie",
+          "en":  "Computational chemistry"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/52",
+      "kód": "52",
+      "název": {
+          "cs":  "Heterogenní katalýza",
+          "en":  "Heterogeneous catalysis"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/53",
+      "kód": "53",
+      "název": {
+          "cs":  "Homogenní katalýza",
+          "en":  "Homogeneous catalysis"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/54",
+      "kód": "54",
+      "název": {
+          "cs":  "Anorganická chemie",
+          "en":  "Inorganic chemistry"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/55",
+      "kód": "55",
+      "název": {
+          "cs":  "Instrumentální analýza",
+          "en":  "Instrumental analysis"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/56",
+      "kód": "56",
+      "název": {
+          "cs":  "Instrumentální techniky",
+          "en":  "Instrumental techniques"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/57",
+      "kód": "57",
+      "název": {
+          "cs":  "Molekulární chemie",
+          "en":  "Molecular chemistry"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/58",
+      "kód": "58",
+      "název": {
+          "cs":  "Organická chemie",
+          "en":  "Organic chemistry"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/59",
+      "kód": "59",
+      "název": {
+          "cs":  "Fyzikální chemie",
+          "en":  "Physical chemistry"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/6",
+      "kód": "6",
+      "název": {
+          "cs":  "Fytotechnika",
+          "en":  "Phytotechny"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/60",
+      "kód": "60",
+      "název": {
+          "cs":  "Reakční mechanismy a dynamika",
+          "en":  "Reaction mechanisms and dynamics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/61",
+      "kód": "61",
+      "název": {
+          "cs":  "Sluneční chemie",
+          "en":  "Solar chemistry"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/62",
+      "kód": "62",
+      "název": {
+          "cs":  "Strukturní chemie",
+          "en":  "Structural chemistry"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/63",
+      "kód": "63",
+      "název": {
+          "cs":  "Další",
+          "en":  "Other"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/64",
+      "kód": "64",
+      "název": {
+          "cs":  "Komunikační vědy ",
+          "en":  "Communication sciences "
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/65",
+      "kód": "65",
+      "název": {
+          "cs":  "Audiovizuální komunikace",
+          "en":  "Audiovisual communication"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/66",
+      "kód": "66",
+      "název": {
+          "cs":  "Obchodní komunikace",
+          "en":  "Business communication"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/67",
+      "kód": "67",
+      "název": {
+          "cs":  "Redakční práce",
+          "en":  "Editing"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/68",
+      "kód": "68",
+      "název": {
+          "cs":  "Grafická komunikace",
+          "en":  "Graphic communication"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/69",
+      "kód": "69",
+      "název": {
+          "cs":  "Žurnalistika",
+          "en":  "Journalism"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/7",
+      "kód": "7",
+      "název": {
+          "cs":  "Vědy o půdě",
+          "en":  "Soil science"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/70",
+      "kód": "70",
+      "název": {
+          "cs":  "Mediální studia",
+          "en":  "Media studies"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/71",
+      "kód": "71",
+      "název": {
+          "cs":  "On-line informační služby",
+          "en":  "On-line information services"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/72",
+      "kód": "72",
+      "název": {
+          "cs":  "Vztahy s veřejností",
+          "en":  "Public relations"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/73",
+      "kód": "73",
+      "název": {
+          "cs":  "Vydavatelství",
+          "en":  "Publishing"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/74",
+      "kód": "74",
+      "název": {
+          "cs":  "Vědecká komunikace",
+          "en":  "Science communication"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/75",
+      "kód": "75",
+      "název": {
+          "cs":  "Řečová komunikace",
+          "en":  "Speech communication"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/76",
+      "kód": "76",
+      "název": {
+          "cs":  "Ostatní",
+          "en":  "Other"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/77",
+      "kód": "77",
+      "název": {
+          "cs":  "Počítačová věda ",
+          "en":  "Computer science "
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/78",
+      "kód": "78",
+      "název": {
+          "cs":  "Modelování 3 D",
+          "en":  "3 D modelling"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/79",
+      "kód": "79",
+      "název": {
+          "cs":  "Autonomní výpočetní technika",
+          "en":  "Autonomic computing"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/8",
+      "kód": "8",
+      "název": {
+          "cs":  "Zemědělství mírného pásma",
+          "en":  "Temperate agriculture"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/80",
+      "kód": "80",
+      "název": {
+          "cs":  "Počítačová architektura",
+          "en":  "Computer architecture"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/81",
+      "kód": "81",
+      "název": {
+          "cs":  "Počítačový hardware",
+          "en":  "Computer hardware"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/82",
+      "kód": "82",
+      "název": {
+          "cs":  "Počítačové systémy",
+          "en":  "Computer systems"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/83",
+      "kód": "83",
+      "název": {
+          "cs":  "Kybernetika",
+          "en":  "Cybernetics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/84",
+      "kód": "84",
+      "název": {
+          "cs":  "Správa databází",
+          "en":  "Database management"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/85",
+      "kód": "85",
+      "název": {
+          "cs":  "Digitální systémy",
+          "en":  "Digital systems"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/86",
+      "kód": "86",
+      "název": {
+          "cs":  "Informatika",
+          "en":  "Informatics"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/87",
+      "kód": "87",
+      "název": {
+          "cs":  "Modelovací nástroje",
+          "en":  "Modelling tools"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/88",
+      "kód": "88",
+      "název": {
+          "cs":  "Programování",
+          "en":  "Programming"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/89",
+      "kód": "89",
+      "název": {
+          "cs":  "Návrh systémů",
+          "en":  "Systems design"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/9",
+      "kód": "9",
+      "název": {
+          "cs":  "Tropické zemědělství",
+          "en":  "Tropical agriculture"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/90",
+      "kód": "90",
+      "název": {
+          "cs":  "Další",
+          "en":  "Other"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/91",
+      "kód": "91",
+      "název": {
+          "cs":  "Kriminologie ",
+          "en":  "Criminology "
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/92",
+      "kód": "92",
+      "název": {
+          "cs":  "Ostatní",
+          "en":  "Other"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/93",
+      "kód": "93",
+      "název": {
+          "cs":  "Kulturní studia",
+          "en":  "Cultural studies"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/94",
+      "kód": "94",
+      "název": {
+          "cs":  "Africká studia",
+          "en":  "African studies"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/95",
+      "kód": "95",
+      "název": {
+          "cs":  "Americká studia",
+          "en":  "American studies"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/96",
+      "kód": "96",
+      "název": {
+          "cs":  "Antická studia",
+          "en":  "Ancient studies"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/97",
+      "kód": "97",
+      "název": {
+          "cs":  "Anglosaská studia",
+          "en":  "Anglo Saxon studies"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/98",
+      "kód": "98",
+      "název": {
+          "cs":  "Arabistika",
+          "en":  "Arabic studies"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-vědní-obory/položky/99",
+      "kód": "99",
+      "název": {
+          "cs":  "Asijská studia",
+          "en":  "Asian studies"
+      }
+    }
+  ]
+}

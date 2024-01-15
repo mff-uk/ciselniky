@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-profil-výzkumníka">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+	<skos:prefLabel xml:lang="en">Researcher profile</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-profil-výzkumníka/položky/R1">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-profil-výzkumníka"/>
+	<skos:prefLabel xml:lang="en">First Stage Researcher (R1)</skos:prefLabel>
+	<skos:notation>R1</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-profil-výzkumníka">
+	<skos:prefLabel xml:lang="cs">Profil výzkumníka - Euraxess</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-profil-výzkumníka/položky/R2">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-profil-výzkumníka"/>
+	<skos:prefLabel xml:lang="en">Recognised Researcher (R2)</skos:prefLabel>
+	<skos:notation>R2</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-profil-výzkumníka/položky/R3">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-profil-výzkumníka"/>
+	<skos:prefLabel xml:lang="en">Established Researcher (R3)</skos:prefLabel>
+	<skos:notation>R3</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-profil-výzkumníka/položky/R4">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-profil-výzkumníka"/>
+	<skos:prefLabel xml:lang="en">Leading Researcher (R4)</skos:prefLabel>
+	<skos:notation>R4</skos:notation>
+</rdf:Description>
+
+</rdf:RDF>

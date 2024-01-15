@@ -1,0 +1,159 @@
+
+{
+  "@context": "https://ofn.gov.cz/číselníky/2022-02-08/kontexty/číselník.jsonld",
+  "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu",
+  "typ": "Číselník",
+  "název": {
+      "en":  "EU Framework Programme"
+  },
+  "položky": [
+{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/1361",
+      "kód": "1361",
+      "název": {
+          "en":  "H2020 / SME Innovation Associate"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4830",
+      "kód": "4830",
+      "název": {
+          "en":  "HE"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4831",
+      "kód": "4831",
+      "název": {
+          "en":  "HE / ERC"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4832",
+      "kód": "4832",
+      "název": {
+          "en":  "HE / EIC"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4833",
+      "kód": "4833",
+      "název": {
+          "en":  "HE / EIT"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4834",
+      "kód": "4834",
+      "název": {
+          "en":  "HE / MSCA"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4835",
+      "kód": "4835",
+      "název": {
+          "en":  "HE / MSCA COFUND"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/4836",
+      "kód": "4836",
+      "název": {
+          "en":  "HE / SME Innovation Associate"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/5832",
+      "kód": "5832",
+      "název": {
+          "en":  "ERASMUS+"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/5927",
+      "kód": "5927",
+      "název": {
+          "en":  "Interreg"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/865",
+      "kód": "865",
+      "název": {
+          "en":  "H2020"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/866",
+      "kód": "866",
+      "název": {
+          "en":  "H2020 / ERC"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/867",
+      "kód": "867",
+      "název": {
+          "en":  "H2020 / Marie Skłodowska-Curie Actions"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/868",
+      "kód": "868",
+      "název": {
+          "en":  "H2020 / Marie Skłodowska-Curie Actions COFUND"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/869",
+      "kód": "869",
+      "název": {
+          "en":  "H2020 / EIT"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/870",
+      "kód": "870",
+      "název": {
+          "en":  "FP7"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/871",
+      "kód": "871",
+      "název": {
+          "en":  "FP7 / Ideas-ERC"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/872",
+      "kód": "872",
+      "název": {
+          "en":  "FP7 / People-Marie Curie Actions"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/873",
+      "kód": "873",
+      "název": {
+          "en":  "FP7 / People-Marie Curie Actions COFUND"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/874",
+      "kód": "874",
+      "název": {
+          "en":  "FP7 / JRC"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/875",
+      "kód": "875",
+      "název": {
+          "en":  "Not funded by an EU programme"
+      }
+    }
+  ]
+}

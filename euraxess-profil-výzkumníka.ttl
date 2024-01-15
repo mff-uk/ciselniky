@@ -1,0 +1,28 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-profil-výzkumníka> a skos:ConceptScheme;
+  skos:prefLabel "Researcher profile"@en, "Profil výzkumníka - Euraxess"@cs .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-profil-výzkumníka/položky/R1> a
+    skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-profil-výzkumníka>;
+  skos:prefLabel "First Stage Researcher (R1)"@en;
+  skos:notation "R1" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-profil-výzkumníka/položky/R2> a
+    skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-profil-výzkumníka>;
+  skos:prefLabel "Recognised Researcher (R2)"@en;
+  skos:notation "R2" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-profil-výzkumníka/položky/R3> a
+    skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-profil-výzkumníka>;
+  skos:prefLabel "Established Researcher (R3)"@en;
+  skos:notation "R3" .
+
+<https://data.mff.cuni.cz/zdroj/číselníky/euraxess-profil-výzkumníka/položky/R4> a
+    skos:Concept;
+  skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-profil-výzkumníka>;
+  skos:prefLabel "Leading Researcher (R4)"@en;
+  skos:notation "R4" .

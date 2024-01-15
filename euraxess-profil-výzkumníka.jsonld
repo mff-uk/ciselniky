@@ -1,0 +1,40 @@
+
+{
+  "@context": "https://ofn.gov.cz/číselníky/2022-02-08/kontexty/číselník.jsonld",
+  "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-profil-výzkumníka",
+  "typ": "Číselník",
+  "název": {
+      "en":  "Researcher profile"
+  },
+  "položky": [
+{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-profil-výzkumníka/položky/R1",
+      "kód": "R1",
+      "název": {
+          "en":  "First Stage Researcher (R1)"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-profil-výzkumníka/položky/R2",
+      "kód": "R2",
+      "název": {
+          "en":  "Recognised Researcher (R2)"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-profil-výzkumníka/položky/R3",
+      "kód": "R3",
+      "název": {
+          "en":  "Established Researcher (R3)"
+      }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-profil-výzkumníka/položky/R4",
+      "kód": "R4",
+      "název": {
+          "en":  "Leading Researcher (R4)"
+      }
+    }
+  ]
+}
