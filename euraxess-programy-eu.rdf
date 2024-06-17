@@ -159,4 +159,11 @@
 	<skos:notation>875</skos:notation>
 </rdf:Description>
 
+<rdf:Description rdf:about="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/6000">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu"/>
+	<skos:prefLabel xml:lang="en">Other EU programme</skos:prefLabel>
+	<skos:notation>6000</skos:notation>
+</rdf:Description>
+
 </rdf:RDF>

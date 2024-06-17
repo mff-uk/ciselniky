@@ -108,4 +108,9 @@
     skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu>;
     skos:prefLabel "Not funded by an EU programme"@en;
     skos:notation "875" .
+  
+  <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/6000> a skos:Concept;
+    skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu>;
+    skos:prefLabel "Other EU programme"@en;
+    skos:notation "6000" .
 }

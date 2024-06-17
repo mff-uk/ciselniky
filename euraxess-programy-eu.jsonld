@@ -154,6 +154,13 @@
       "název": {
           "en":  "Not funded by an EU programme"
       }
+    },{
+      "typ": "Položka",
+      "iri": "https://data.mff.cuni.cz/zdroj/číselníky/euraxess-programy-eu/položky/6000",
+      "kód": "6000",
+      "název": {
+          "en":  "Other EU programme"
+      }
     }
   ]
 }
