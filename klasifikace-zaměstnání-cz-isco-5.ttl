@@ -1871,37 +1871,37 @@
 
 <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-zaměstnání-cz-isco-5/položky/23101>
   a skos:Concept;
-  skos:prefLabel "Vědečtí, výzkumní a vývojoví pracovníci na vysokých školách"@cs, "Research Scientists at universities"@en;
+  skos:prefLabel "Vědečtí, výzkumní a vývojoví pracovníci na vysokých školách"@cs, "Research Scientists at Universities"@en;
   skos:notation "23101";
   skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-zaměstnání-cz-isco-5> .
 
 <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-zaměstnání-cz-isco-5/položky/23102>
   a skos:Concept;
-  skos:prefLabel "Profesoři na vysokých školách"@cs, "Professors at universities"@en;
+  skos:prefLabel "Profesoři na vysokých školách"@cs, "Professors at Universities"@en;
   skos:notation "23102";
   skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-zaměstnání-cz-isco-5> .
 
 <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-zaměstnání-cz-isco-5/položky/23103>
   a skos:Concept;
-  skos:prefLabel "Docenti na vysokých školách"@cs, "Associate professors at universities"@en;
+  skos:prefLabel "Docenti na vysokých školách"@cs, "Associate Professors at Universities"@en;
   skos:notation "23103";
   skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-zaměstnání-cz-isco-5> .
 
 <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-zaměstnání-cz-isco-5/položky/23104>
   a skos:Concept;
-  skos:prefLabel "Odborní asistenti na vysokých školách"@cs, "Assistant professors at universities"@en;
+  skos:prefLabel "Odborní asistenti na vysokých školách"@cs, "Assistant Professors at Universities"@en;
   skos:notation "23104";
   skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-zaměstnání-cz-isco-5> .
 
 <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-zaměstnání-cz-isco-5/položky/23105>
   a skos:Concept;
-  skos:prefLabel "Asistenti na vysokých školách"@cs, "Assistants at universities"@en;
+  skos:prefLabel "Asistenti na vysokých školách"@cs, "Teaching Assistants at Universities"@en;
   skos:notation "23105";
   skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-zaměstnání-cz-isco-5> .
 
 <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-zaměstnání-cz-isco-5/položky/23106>
   a skos:Concept;
-  skos:prefLabel "Lektoři na vysokých školách"@cs, "Lecturers at universities"@en;
+  skos:prefLabel "Lektoři na vysokých školách"@cs, "Lecturers at Universities"@en;
   skos:notation "23106";
   skos:inScheme <https://data.mff.cuni.cz/zdroj/číselníky/klasifikace-zaměstnání-cz-isco-5> .
 
